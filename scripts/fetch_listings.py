@@ -12,9 +12,24 @@
 import requests
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15",
+    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
     "Referer": "https://m.land.naver.com/",
+    "Accept": "application/json, text/javascript, */*; q=0.01",
+    "Accept-Language": "ko-KR,ko;q=0.9",
+    "X-Requested-With": "XMLHttpRequest",
 }
+
+
+def _get_with_retry(url, params, tries=2):
+    last = None
+    for _ in range(tries):
+        try:
+            r = requests.get(url, params=params, headers=HEADERS, timeout=30)
+            r.raise_for_status()
+            return r
+        except Exception as e:
+            last = e
+    raise last
 
 
 def get_listings(config):
@@ -25,14 +40,13 @@ def get_listings(config):
     url = f"https://m.land.naver.com/complex/getComplexArticleList"
     items, page = [], 1
     while page <= 3:  # 최대 3페이지만 — 과도한 요청 방지
-        r = requests.get(url, params={
+        r = _get_with_retry(url, {
             "hscpNo": complex_no,
             "tradTpCd": "A1",      # A1 = 매매
             "order": "date_",
             "showR0": "N",
             "page": page,
-        }, headers=HEADERS, timeout=15)
-        r.raise_for_status()
+        })
         body = r.json().get("result", {})
         arts = body.get("list", [])
         if not arts:
