@@ -1,19 +1,91 @@
 {
-  "asOf": "2026-07-16",
-  "avg6mo": 67240,
-  "trades": [
-    { "date": "2026-05-01", "area": 59.98, "floor": "7", "price": 67500 },
-    { "date": "2026-04-22", "area": 59.98, "floor": "6", "price": 63500 }
-  ],
-  "listings": { "available": false, "count": 0, "items": [] },
+  "asOf": "2026-07-18",
+  "avg6mo": null,
+  "trades": [],
+  "listings": {
+    "available": false,
+    "count": 0,
+    "items": []
+  },
   "news": [
-    { "title": "하반기 경제성장전략: 비거주 1주택자 대출 규제 강화·DSR 적용 확대", "link": "", "date": "2026-07-14", "keyword": "부동산 대출 규제" },
-    { "title": "금융위, 전세대출 DSR 포함 방안 검토", "link": "", "date": "2026-07", "keyword": "DSR 규제" },
-    { "title": "동탄·기흥·구리 규제지역 신규 지정, 규제지역 LTV 40%", "link": "", "date": "2026-07-01", "keyword": "부동산 대출 규제" },
-    { "title": "수도권 주담대 스트레스 금리 3.0% 하반기 유지", "link": "", "date": "2026-07", "keyword": "스트레스 DSR" }
+    {
+      "title": "수도권 전세거래 급감 여파 … 주택금융보증 7년만에 최저",
+      "link": "https://n.news.naver.com/mnews/article/009/0005708816?sid=101",
+      "date": "Fri, 17 Jul 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "[시선+]가계부채 총량 관리의 역설…청년들의 '사다리'는 왜 먼저 걷어...",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=114256",
+      "date": "Fri, 17 Jul 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "[4대금융 2Q 프리뷰③] '최대실적' 하나금융, 非은행 '과제'",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=633443",
+      "date": "Fri, 17 Jul 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "정부發 건설위기 돌파 기조는...공급은 '액셀' 금융은 '브레이크'",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=223234",
+      "date": "Fri, 17 Jul 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "3년6개월 만에 금리 인상…대출 규제 겹치며 부동산시장 ‘관망’",
+      "link": "https://n.news.naver.com/mnews/article/022/0004143695?sid=101",
+      "date": "Thu, 16 Jul 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "“지금 고정금리 갈아타면 월 20만원 더 낸다고”…금리 올라도 변동형...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002671644?sid=101",
+      "date": "Sat, 18 Jul 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "대출 빗장에 금리 인상까지…실수요자 이중고",
+      "link": "https://news.mtn.co.kr/news-detail/2026071614044898170",
+      "date": "Sat, 18 Jul 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "집값 잡겠다더니 ‘금수저 잔치’ 판 깔았나…터져버린 부동산 민심[주...",
+      "link": "https://n.news.naver.com/mnews/article/029/0003037469?sid=101",
+      "date": "Sat, 18 Jul 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "은행 대출 조이자… DSR 적용 안받는 서민급전대출 '껑충'",
+      "link": "https://n.news.naver.com/mnews/article/009/0005708830?sid=101",
+      "date": "Fri, 17 Jul 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[팩트체크] 언론이 말하지 않는 전월세 시장의 왜곡과 진실",
+      "link": "https://n.news.naver.com/mnews/article/047/0002522835?sid=102",
+      "date": "Fri, 17 Jul 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[기자수첩]청약이 그림의 떡이 된 이유",
+      "link": "https://n.news.naver.com/mnews/article/003/0014072481?sid=101",
+      "date": "Fri, 17 Jul 2026",
+      "keyword": "스트레스 DSR"
+    },
+    {
+      "title": "\"당장 싼 변동금리냐, 한도 더 나오는 고정이냐\"… 주담대 갈림길 속 차...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/16/2026071600287.html",
+      "date": "Thu, 16 Jul 2026",
+      "keyword": "스트레스 DSR"
+    }
   ],
   "alerts": [
-    { "kind": "up", "tag": "평균 ▲", "text": "59㎡ 6개월 평균 6억 5,877만 → 6억 7,240만 (+2.1%)" },
-    { "kind": "note", "tag": "규제", "text": "수도권 스트레스 금리 3.0% 유지 · 15억 이하 주담대 한도 6억" }
+    {
+      "kind": "note",
+      "tag": "안정",
+      "text": "지난 확인 이후 신규 거래·변동 없음"
+    }
   ]
 }
