@@ -43,6 +43,7 @@ def fetch_trades():
     target = norm(CONFIG["aptName"])
     diag = []
     for ymd in month_list(CONFIG.get("monthsBack", 6)):
+        r = None
         try:
             r = requests.get(MOLIT_URL, params={
                 "serviceKey": MOLIT_KEY,
@@ -52,6 +53,10 @@ def fetch_trades():
                 "pageNo": "1",
             }, timeout=30)
             root = ET.fromstring(r.content)
+        except ET.ParseError:
+            body = (r.text or "").strip()[:300] if r is not None else ""
+            diag.append(f"{ymd} XML 아님(HTTP {r.status_code}): {body}")
+            continue
         except Exception as e:
             diag.append(f"{ymd} 요청 실패: {e}")
             continue
