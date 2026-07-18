@@ -31,6 +31,10 @@
   .apt-head h2{font-size:17px; font-weight:700}
   .apt-meta{font-size:12px; color:var(--sub); margin-bottom:14px}
   .pin{font-size:11px; font-weight:600; color:var(--brand); border:1px solid var(--brand); border-radius:999px; padding:2px 9px; white-space:nowrap}
+  .area-tabs{display:flex; gap:6px; flex-wrap:wrap; margin-bottom:14px}
+  .area-tabs button{padding:7px 14px; font-size:13px; font-weight:600; font-family:inherit;
+    border:1px solid var(--line); border-radius:9px; background:var(--bg); color:var(--sub); cursor:pointer}
+  .area-tabs button.on{background:var(--brand); border-color:var(--brand); color:#fff}
   .bigprice{display:flex; align-items:baseline; gap:8px; flex-wrap:wrap; margin-bottom:6px}
   .bigprice .v{font-size:28px}
   .bigprice .lbl{font-size:12px; color:var(--sub)}
@@ -61,7 +65,7 @@
 <section class="card"><div class="eyebrow">현재 매물 (호가)</div><div id="listings" class="empty">불러오는 중…</div></section>
 <section class="card"><div class="eyebrow">대출 규제 · 정책 소식</div><div id="news" class="empty">불러오는 중…</div></section>
 <section class="card"><div class="eyebrow">관심 단지 · 평형</div><div class="chips" id="watch"></div>
-  <p class="hint">관심 단지·평형·뉴스 키워드는 저장소의 config.json에서 수정할 수 있어요.</p></section>
+  <p class="hint">알림 기준 평형·뉴스 키워드는 저장소의 config.json에서 수정할 수 있어요.</p></section>
 <footer>데이터: 국토교통부 실거래가 공개시스템 · 네이버 뉴스 검색 API<br>매일 07:00(KST) 자동 갱신 · GitHub Actions</footer>
 
 <script>
@@ -69,44 +73,65 @@ const won = n => { const e = Math.floor(n/10000), m = n%10000;
   return m ? `${e}억 ${m.toLocaleString()}만` : `${e}억`; };
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
+let CFG, DATA, AREA = "all";
+
+function aptCard(){
+  const all = DATA.trades || [];
+  const areas = [...new Set(all.map(t => Math.floor(t.area)))].sort((a,b)=>a-b);
+  // 기본 선택: config의 alertAreas 첫 번째 (데이터에 있으면)
+  if (AREA === "init") {
+    const pref = (CFG.alertAreas || [])[0];
+    AREA = areas.includes(pref) ? pref : "all";
+  }
+  const sel = AREA === "all" ? all : all.filter(t => Math.floor(t.area) === AREA);
+  const a = sel.length ? Math.round(sel.reduce((s,t)=>s+t.price,0)/sel.length) : null;
+
+  document.getElementById("apt").innerHTML = `
+    <div class="apt-head"><h2>${esc(CFG.aptDisplayName)}</h2><span class="pin">관심 1순위</span></div>
+    <div class="apt-meta">${esc(CFG.aptMeta)}</div>
+    <div class="area-tabs">
+      <button class="${AREA==="all"?"on":""}" onclick="setArea('all')">전체</button>
+      ${areas.map(x=>`<button class="${AREA===x?"on":""}" onclick="setArea(${x})">${x}㎡</button>`).join("")}
+    </div>
+    <div class="bigprice">
+      <span class="v num">${a ? won(a) : "-"}</span>
+      <span class="lbl">${AREA==="all" ? "전체 평형" : AREA+"㎡"} 최근 6개월 평균 실거래가 · ${sel.length}건</span>
+    </div>
+    <table><thead><tr><th>거래일</th><th>전용</th><th>층</th><th class="r">가격</th></tr></thead><tbody>
+      ${sel.slice(0,12).map(x=>`<tr><td class="num">${esc(x.date)}</td><td class="num">${esc(x.area)}㎡</td><td>${esc(x.floor)}층</td><td class="r num">${won(x.price)}</td></tr>`).join("")
+        || `<tr><td colspan="4" class="empty">최근 거래 없음</td></tr>`}
+    </tbody></table>`;
+}
+function setArea(a){ AREA = a; aptCard(); }
+
 async function load(){
-  const [cfg, data] = await Promise.all([
-    fetch("config.json").then(r=>r.json()),
+  [CFG, DATA] = await Promise.all([
+    fetch("config.json?t="+Date.now()).then(r=>r.json()),
     fetch("data.json?t="+Date.now()).then(r=>r.json())
   ]);
 
-  document.getElementById("asof").textContent = data.asOf + " 기준";
+  document.getElementById("asof").textContent = DATA.asOf + " 기준";
 
-  document.getElementById("alerts").outerHTML = data.alerts.map(a =>
+  document.getElementById("alerts").outerHTML = DATA.alerts.map(a =>
     `<div class="alert ${esc(a.kind)}"><span class="tag">${esc(a.tag)}</span><div>${esc(a.text)}</div></div>`).join("");
 
-  const t = data.trades || [];
-  document.getElementById("apt").innerHTML = `
-    <div class="apt-head"><h2>${esc(cfg.aptDisplayName)}</h2><span class="pin">관심 1순위</span></div>
-    <div class="apt-meta">${esc(cfg.aptMeta)}</div>
-    <div class="bigprice">
-      <span class="v num">${data.avg6mo ? won(data.avg6mo) : "-"}</span>
-      <span class="lbl">${cfg.areas.join("·")}㎡ 최근 6개월 평균 실거래가</span>
-    </div>
-    <table><thead><tr><th>거래일</th><th>전용</th><th>층</th><th class="r">가격</th></tr></thead><tbody>
-      ${t.slice(0,10).map(x=>`<tr><td class="num">${esc(x.date)}</td><td class="num">${esc(x.area)}㎡</td><td>${esc(x.floor)}층</td><td class="r num">${won(x.price)}</td></tr>`).join("")
-        || `<tr><td colspan="4" class="empty">최근 거래 없음</td></tr>`}
-    </tbody></table>`;
+  AREA = "init";
+  aptCard();
 
-  const L = data.listings || {};
+  const L = DATA.listings || {};
   document.getElementById("listings").outerHTML = L.available && L.items.length
     ? `<table><thead><tr><th>면적/층</th><th>확인일</th><th class="r">호가</th></tr></thead><tbody>
         ${L.items.map(x=>`<tr><td>${esc(x.spec)}</td><td class="num">${esc(x.date)}</td><td class="r num">${esc(x.price)}</td></tr>`).join("")}
       </tbody></table>`
     : `<div class="empty">매물 수집이 아직 연결되지 않았어요. config.json의 naverComplexNo를 채우면 활성화됩니다. (그전까지는 네이버부동산·호갱노노 앱 알림 활용)</div>`;
 
-  document.getElementById("news").outerHTML = (data.news||[]).map(n => `
+  document.getElementById("news").outerHTML = (DATA.news||[]).map(n => `
     <div class="news">${n.link ? `<a href="${esc(n.link)}" target="_blank">${esc(n.title)}</a>` : `<a>${esc(n.title)}</a>`}
       <div class="src">${esc(n.date)} · ${esc(n.keyword)}</div></div>`).join("")
     || `<div class="empty">수집된 뉴스가 없어요.</div>`;
 
   document.getElementById("watch").innerHTML =
-    cfg.types.map(t=>`<span class="chip">${esc(cfg.aptDisplayName)} ${esc(t)}</span>`).join("");
+    (CFG.types||[]).map(t=>`<span class="chip">${esc(CFG.aptDisplayName)} ${esc(t)}</span>`).join("");
 }
 load().catch(e => document.getElementById("alerts").textContent = "데이터 로드 실패: " + e);
 </script>
