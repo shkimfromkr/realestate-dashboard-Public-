@@ -18,7 +18,7 @@ MOLIT_KEY = os.environ.get("MOLIT_API_KEY", "")
 NAVER_ID = os.environ.get("NAVER_CLIENT_ID", "")
 NAVER_SECRET = os.environ.get("NAVER_CLIENT_SECRET", "")
 
-MOLIT_URL = "http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"
+MOLIT_URL = "https://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"
 
 
 def norm(s):
