@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-21",
-  "avg6mo": 68084,
+  "asOf": "2026-07-22",
+  "avg6mo": 68191,
   "trades": [
     {
       "date": "2026-07-18",
@@ -13,6 +13,12 @@
       "area": 84.97,
       "floor": "30",
       "price": 92000
+    },
+    {
+      "date": "2026-07-09",
+      "area": 59.97,
+      "floor": "40",
+      "price": 75000
     },
     {
       "date": "2026-07-06",
@@ -544,83 +550,88 @@
   },
   "news": [
     {
-      "title": "주간 대출 점검도 패스…금융위, 부동산 대출정책 방향 '골몰'",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426103",
+      "title": "與, 李 대통령 '부동산 근저당'에 진땀…대응 전략도 '딜레마'",
+      "link": "https://n.news.naver.com/mnews/article/629/0000518231?sid=100",
+      "date": "Thu, 23 Jul 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "\"전세 씨가 말랐다\"…가을 이사철 전세대란 '비상'",
+      "link": "https://n.news.naver.com/mnews/article/003/0014082522?sid=101",
+      "date": "Thu, 23 Jul 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "부동산 중대 분수령…李대통령, 오늘 국민들과 '끝장토론'",
+      "link": "https://n.news.naver.com/mnews/article/421/0009073887?sid=100",
+      "date": "Thu, 23 Jul 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "李, 오늘 부동산 대토론회…'근저당 매매' 논란 속 '최대뇌관' 다룬다",
+      "link": "https://n.news.naver.com/mnews/article/629/0000518216?sid=100",
+      "date": "Thu, 23 Jul 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "국민의힘 장동혁·정점식, 부동산 및 노란봉투법 등 국정 전반 비판",
+      "link": "http://www.breaknews.com/1223670",
       "date": "Wed, 22 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "국민의힘, '17.7억 근저당' 대통령 집 매매 맹공…청와대 \"특혜 주장 어...",
-      "link": "https://n.news.naver.com/mnews/article/057/0001959672?sid=100",
-      "date": "Wed, 22 Jul 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "이 대통령 집 팔며 17억대 근저당에…“사금융 꼼수”·“통상적 거래”",
-      "link": "https://n.news.naver.com/mnews/article/056/0012222516?sid=100",
-      "date": "Wed, 22 Jul 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "대면영업 길 열린 인터넷은행…기업여신 인력 확보 안간힘",
-      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092166180",
-      "date": "Wed, 22 Jul 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "대출 조일 때마다 '근저당' 쑥...강남선 \"집주인 근저당, 종종 있었다\"",
-      "link": "https://n.news.naver.com/mnews/article/008/0005388965?sid=101",
-      "date": "Wed, 22 Jul 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "[요즘 부동산+/㉑]근저당이 뭐길래?…대출 규제 시대 '합법과 편법'의 경...",
-      "link": "https://www.businessplus.kr/news/articleView.html?idxno=114398",
-      "date": "Wed, 22 Jul 2026",
+      "title": "李 대통령 '부동산 대토론회'…공급부터 세금까지 핵심 쟁점은?",
+      "link": "https://n.news.naver.com/mnews/article/277/0005793365?sid=101",
+      "date": "Thu, 23 Jul 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "전세금반환보증보험, 안전망이 만든 새로운 위험",
-      "link": "https://www.hapt.co.kr/news/articleView.html?idxno=169077",
-      "date": "Wed, 22 Jul 2026",
+      "title": "[시사금융용어] 거시건전성 관리부담금",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426314",
+      "date": "Thu, 23 Jul 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "이 대통령, ‘17억 근저당’ 집 매각 논란에… 청와대 “사적인연 주장...",
-      "link": "https://n.news.naver.com/mnews/article/022/0004144849?sid=100",
-      "date": "Wed, 22 Jul 2026",
+      "title": "[스타트 경제] 이 대통령, 오늘 부동산 정책 대국민 토론회 주재...집값...",
+      "link": "https://n.news.naver.com/mnews/article/052/0002383294?sid=101",
+      "date": "Thu, 23 Jul 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "[안중열 직썰] 부처 엇박자 낸 부동산 토론회, 대통령 결단이 반전카드...",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=140685",
+      "title": "대출 막히자 서울 부동산 시장 현금 부자가 이끈다 [집슐랭]",
+      "link": "https://n.news.naver.com/mnews/article/011/0004644215?sid=101",
+      "date": "Thu, 23 Jul 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "오늘 부동산 정책 국민 대토론회…민심 톺아보니 [시장톡]",
+      "link": "https://n.news.naver.com/mnews/article/015/0005312841?sid=101",
+      "date": "Thu, 23 Jul 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "긴축 받아든 주택시장, '착시 보합' 초양극화 새국면",
+      "link": "http://www.newswell.co.kr/news/articleView.html?idxno=20448",
       "date": "Wed, 22 Jul 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "[기획] \"대통령이 매수자의 돈줄이 됐다\"… 29억 자택 매각에 남겨진 17...",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=872592",
-      "date": "Tue, 21 Jul 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "펜타시티 대방엘리움, 4년 무이자 유예",
-      "link": "http://www.finomy.com/news/articleView.html?idxno=257631",
-      "date": "Mon, 20 Jul 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "저축은행 1분기 소액신용대출' 전년比 19% ↑…은행권 대출 규제에 역대...",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264742",
-      "date": "Mon, 20 Jul 2026",
+      "title": "수원이목지구 교육특구 지정…'수원이목지구 디에트르 더 리체Ⅱ' 공급",
+      "link": "https://edu.donga.com/news/articleView.html?idxno=110145",
+      "date": "Wed, 22 Jul 2026",
       "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "note",
-      "tag": "안정",
-      "text": "지난 확인 이후 신규 거래·변동 없음"
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-07-09 59㎡ 40층 7억 5,000만 실거래 등록"
+    },
+    {
+      "kind": "up",
+      "tag": "평균 ▲",
+      "text": "59㎡ 6개월 평균 6억 8,084만 → 6억 8,191만 (+107만)"
     }
   ]
 }
