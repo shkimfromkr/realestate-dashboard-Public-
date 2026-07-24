@@ -1,7 +1,13 @@
 {
-  "asOf": "2026-07-23",
-  "avg6mo": 68191,
+  "asOf": "2026-07-24",
+  "avg6mo": 68282,
   "trades": [
+    {
+      "date": "2026-07-22",
+      "area": 59.99,
+      "floor": "41",
+      "price": 71000
+    },
     {
       "date": "2026-07-18",
       "area": 59.99,
@@ -157,6 +163,12 @@
       "area": 59.97,
       "floor": "3",
       "price": 69000
+    },
+    {
+      "date": "2026-06-06",
+      "area": 59.97,
+      "floor": "29",
+      "price": 71500
     },
     {
       "date": "2026-06-06",
@@ -550,83 +562,88 @@
   },
   "news": [
     {
-      "title": "[르포]\"805가구 조용한 완판\"…꿈틀대는 '광주 첨단3지구'",
-      "link": "https://n.news.naver.com/mnews/article/417/0001152808?sid=101",
+      "title": "“李, 본인 집 팔자 ‘보유세 3배’…이중성에 할 말 잃어” 나경원의 ...",
+      "link": "https://n.news.naver.com/mnews/article/021/0002806897?sid=100",
       "date": "Fri, 24 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "국토부, 부동산 PF 사업성 평가기관 8월 말 선정",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607231355453570282",
+      "title": "국민의힘 '2030 보수화' 토론회...\"진보 반감 반사이익\"",
+      "link": "https://n.news.naver.com/mnews/article/052/0002384112?sid=100",
       "date": "Fri, 24 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[출근길 브리핑-7월 24일] 李대통령 부동산정책 토론회·중앙선관위 압...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=848146",
+      "title": "국힘 '2030 왜 보수 선택?'…\"국힘이라서 아니다\"",
+      "link": "https://n.news.naver.com/mnews/article/057/0001960259?sid=100",
       "date": "Fri, 24 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[사설] 세제개편과 공급 함께 가야 할 부동산 정상화 대책",
-      "link": "https://www.kyeongin.com/article/1767838",
-      "date": "Thu, 23 Jul 2026",
+      "title": "\"국힘 지지 아니다\"…2030 '반사 표심'에 터진 '쓴소리 토론회'",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=223759",
+      "date": "Fri, 24 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "국힘 “李, 집 팔자마자 보유세 3배 들먹여”",
-      "link": "https://n.news.naver.com/mnews/article/658/0000150459?sid=100",
-      "date": "Thu, 23 Jul 2026",
+      "title": "\"2030은 왜 보수를 선택했는가\"…토론회서 \"국힘 선택아냐\" 쓴소리",
+      "link": "https://n.news.naver.com/mnews/article/448/0000629180?sid=100",
+      "date": "Fri, 24 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "“잔금대출 막혔다” 호소에 이 대통령 공감… 실수요자 대출규제 보완...",
-      "link": "https://n.news.naver.com/mnews/article/661/0000080441?sid=101",
+      "title": "‘대통령 근저당’에 부동산 민심 들끓는 이유[부동산 취재로그]",
+      "link": "https://n.news.naver.com/mnews/article/018/0006336654?sid=101",
+      "date": "Sat, 25 Jul 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[머니브리핑] 휴가도 반납한 이억원 위원장…2차 부동산 대토론회 ‘금...",
+      "link": "https://www.etoday.co.kr/news/view/2607208",
+      "date": "Sat, 25 Jul 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[매도자금융] 李 대통령 편법에 쓰라고 만든 제도가 아닌데",
+      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=388776",
       "date": "Fri, 24 Jul 2026",
       "keyword": "DSR 규제"
+    },
+    {
+      "title": "은행권 집단대출 ‘셧다운’… 다음달 입주 ‘매교역 팰리시드’ 날벼...",
+      "link": "https://www.kyeongin.com/article/1767876",
+      "date": "Fri, 24 Jul 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "1주택자 전세대출 규제…전·월세 부메랑 효과?",
+      "link": "https://n.news.naver.com/mnews/article/374/0000523637?sid=101",
+      "date": "Fri, 24 Jul 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "집값 잡겠다고 대출 꽉 조인 정부, 대통령 지시에 보완책 준비",
+      "link": "https://n.news.naver.com/mnews/article/366/0001181645?sid=101",
+      "date": "Fri, 24 Jul 2026",
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "[부동산 대토론] \"15억 집·6억 대출, 이자에 연 1200만원 더?\"…다주택...",
       "link": "https://n.news.naver.com/mnews/article/119/0003114406?sid=101",
       "date": "Fri, 24 Jul 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "실수요자 '대출'도 손 본다‥\"황당무계 없도록\"",
-      "link": "https://n.news.naver.com/mnews/article/214/0001513585?sid=100",
-      "date": "Fri, 24 Jul 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "[단독]'은행 안되면 회사서 빌리면 되지' 사내대출 1년새 28% 늘었다",
-      "link": "https://n.news.naver.com/mnews/article/018/0006335846?sid=101",
-      "date": "Fri, 24 Jul 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "전세대출 '주거 사다리' vs '집값 상승'… 李 \"보호 정책 과도\" 축소 예...",
-      "link": "https://n.news.naver.com/mnews/article/421/0009076250?sid=101",
-      "date": "Fri, 24 Jul 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "“보유세 강화 맞지만 세 배 올리면 폭동, 이미 너무 많이 올라버렸다....",
-      "link": "https://slownews.kr/163675",
-      "date": "Fri, 24 Jul 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "“DSR 지방은 완화” 요청에 李 “세분화 필요” 공감 [뉴스 투데이]",
-      "link": "https://n.news.naver.com/mnews/article/022/0004145399?sid=100",
-      "date": "Thu, 23 Jul 2026",
       "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "note",
-      "tag": "안정",
-      "text": "지난 확인 이후 신규 거래·변동 없음"
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-07-22 59㎡ 41층 7억 1,000만 실거래 등록"
+    },
+    {
+      "kind": "up",
+      "tag": "평균 ▲",
+      "text": "59㎡ 6개월 평균 6억 8,191만 → 6억 8,282만 (+91만)"
     }
   ]
 }
