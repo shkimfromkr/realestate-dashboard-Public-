@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-26",
-  "avg6mo": 68282,
+  "asOf": "2026-07-27",
+  "avg6mo": 68293,
   "trades": [
     {
       "date": "2026-07-22",
@@ -13,6 +13,12 @@
       "area": 59.99,
       "floor": "32",
       "price": 70000
+    },
+    {
+      "date": "2026-07-15",
+      "area": 59.99,
+      "floor": "20",
+      "price": 69000
     },
     {
       "date": "2026-07-11",
@@ -562,83 +568,88 @@
   },
   "news": [
     {
-      "title": "[언주로칼럼]자산이 안되는 빚",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607260951255550512",
-      "date": "Mon, 27 Jul 2026",
+      "title": "실수요자 대출 숨통 트이나?…이억원 금융위원장 \"핀셋 지원으로 불편 ...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=746360",
+      "date": "Tue, 28 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "주택대출, 청년·신혼부부는 ‘핀셋 지원’, 비거주 1주택자는 ‘규제 ...",
-      "link": "https://n.news.naver.com/mnews/article/025/0003540185?sid=101",
-      "date": "Sun, 26 Jul 2026",
+      "title": "집도 주식도 '현금 입장권'…현금부자만 자산증식의 기회 부여되는 세상...",
+      "link": "https://n.news.naver.com/mnews/article/014/0005553714?sid=101",
+      "date": "Tue, 28 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "“대출 한도 5600만원 더 나온다” 꽉 막힌 주담대 뚫는 법",
-      "link": "https://n.news.naver.com/mnews/article/025/0003540182?sid=101",
-      "date": "Sun, 26 Jul 2026",
+      "title": "\"고액대출에 추가 부담금\"…부동산 '거시건전성 관리부담금' 효과 있을...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014091663?sid=101",
+      "date": "Tue, 28 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "내 집 마련 더 멀어진 2030… 주택 보유율 30% 붕괴",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3419952",
-      "date": "Sun, 26 Jul 2026",
+      "title": "여전사 이어 저축은행도 차담대 제한…'LTV 100% 이내' 제한이 원칙",
+      "link": "https://n.news.naver.com/mnews/article/421/0009082078?sid=101",
+      "date": "Tue, 28 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "이소희 \"2030 보수 지지, 반사이익을 실력으로 착각해선 안 돼\"",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044371",
-      "date": "Sun, 26 Jul 2026",
+      "title": "금융당국, 청년 및 신혼부부 위한 맞춤형 부동산 대출 대책 검토",
+      "link": "https://www.tokenpost.kr/news/economy/381893",
+      "date": "Tue, 28 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "“입주 일정 촉박한데”…정부 대책 예고에도 잔금대출 막힌 입주민 ‘...",
-      "link": "https://n.news.naver.com/mnews/article/119/0003115019?sid=101",
-      "date": "Mon, 27 Jul 2026",
+      "title": "근저당 방식 확산 조짐에도 '통계는 無'…거시건전성 관리 리스크↑",
+      "link": "https://n.news.naver.com/mnews/article/421/0009082166?sid=101",
+      "date": "Tue, 28 Jul 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "‘착한 매도인’ 대통령이 알려준 대출 규제 피해 집 사는 법 [기자수첩...",
-      "link": "https://n.news.naver.com/mnews/article/119/0003115018?sid=110",
-      "date": "Mon, 27 Jul 2026",
+      "title": "\"집주인 대출, 20억원 가능합니다\"…은행 막히자 ‘우회 영끌’ 확산",
+      "link": "https://n.news.naver.com/mnews/article/018/0006337881?sid=101",
+      "date": "Tue, 28 Jul 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "마지막 대출창구도 닫히나…차담대 규제에 서민 '발동동'",
-      "link": "https://n.news.naver.com/mnews/article/119/0003115017?sid=101",
-      "date": "Mon, 27 Jul 2026",
+      "title": "연 2% 사내대출로 내집 마련 후 수억원 성과급으로 대출 상환…주담대 ...",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607271334365960658",
+      "date": "Tue, 28 Jul 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "청년·서민 실수요 대출 숨통…금융위 예외 확대 검토",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607261406048930538",
-      "date": "Mon, 27 Jul 2026",
+      "title": "저신용자 대출문 좁아지자…최대 12만명 불법사금융행",
+      "link": "https://www.kbanker.co.kr/news/articleView.html?idxno=225527",
+      "date": "Tue, 28 Jul 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "금융당국 '전세대출' 손보나…금주 종합대책에 포함될 듯",
-      "link": "https://www.news2day.co.kr/article/20260724500335",
-      "date": "Mon, 27 Jul 2026",
+      "title": "서울 전셋값 7억 넘었다⋯보증기관 공적 대출 ‘그림의 떡’",
+      "link": "https://www.etoday.co.kr/news/view/2607798",
+      "date": "Tue, 28 Jul 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "'1억 내고 5억 전세' 막히나…李 지목 '전세대출 규제' 방향은",
-      "link": "https://n.news.naver.com/mnews/article/079/0004172007?sid=101",
-      "date": "Sun, 26 Jul 2026",
+      "title": "[이슈] 한성숙 총리 \"부동산 정책, 세밀한 설계 중요\"…그린벨트 해제·...",
+      "link": "http://www.paxetv.com/news/articleView.html?idxno=277982",
+      "date": "Mon, 27 Jul 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "실수령 700만원 부부도 흔들렸다···\"집 지금 사야\" \"생활 빠듯\" [머니...",
-      "link": "https://n.news.naver.com/mnews/article/014/0005552756?sid=101",
-      "date": "Sat, 25 Jul 2026",
+      "title": "[2차 부동산 토론회] 한성숙 총리 주재, '청년 신혼부부 공공주택 확대...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=738233",
+      "date": "Mon, 27 Jul 2026",
       "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "note",
-      "tag": "안정",
-      "text": "지난 확인 이후 신규 거래·변동 없음"
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-07-15 59㎡ 20층 6억 9,000만 실거래 등록"
+    },
+    {
+      "kind": "up",
+      "tag": "평균 ▲",
+      "text": "59㎡ 6개월 평균 6억 8,282만 → 6억 8,293만 (+11만)"
     }
   ]
 }
