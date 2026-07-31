@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-30",
-  "avg6mo": 68248,
+  "asOf": "2026-07-31",
+  "avg6mo": 68340,
   "trades": [
     {
       "date": "2026-07-29",
@@ -33,10 +33,22 @@
       "price": 90000
     },
     {
+      "date": "2026-07-16",
+      "area": 84.97,
+      "floor": "31",
+      "price": 90000
+    },
+    {
       "date": "2026-07-15",
       "area": 59.99,
       "floor": "20",
       "price": 69000
+    },
+    {
+      "date": "2026-07-11",
+      "area": 59.97,
+      "floor": "35",
+      "price": 74700
     },
     {
       "date": "2026-07-11",
@@ -586,83 +598,88 @@
   },
   "news": [
     {
-      "title": "\"6000원도 드려요\"…인터넷은행들 '사장님 대출' 승부수",
-      "link": "https://n.news.naver.com/mnews/article/015/0005315841?sid=101",
-      "date": "Thu, 30 Jul 2026",
+      "title": "[머니브리핑] 잔금대출 숨통 트였지만⋯8월 대출은 괜찮을까",
+      "link": "https://www.etoday.co.kr/news/view/2609858",
+      "date": "Sat, 01 Aug 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "“비이자이익 쇼크 덮쳤다”...수익성 고민 깊어진 케이뱅크",
-      "link": "https://www.ekn.kr/web/view.php?key=20260730020278059",
-      "date": "Thu, 30 Jul 2026",
+      "title": "'달삼쓰뱉(甘呑苦吐)' 정치 멈춰라!",
+      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=711000",
+      "date": "Fri, 31 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[단독] 홍정혁 BGF 사장, 92억 한남동 집에 '매도인 근저당' 72억",
-      "link": "https://bizhankook.com/articles/139404.html",
-      "date": "Thu, 30 Jul 2026",
+      "title": "데일리펀딩, 하반기 '질적 성장' 집중…연체율 관리·포용금융 집중 [20...",
+      "link": "https://www.fntimes.com/html/view.php?ud=2026073115553225397c96e79780_18",
+      "date": "Fri, 31 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "케이뱅크, 상반기 순이익 601억원…개인사업자 대출이 실적 이끌어",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=205816",
-      "date": "Thu, 30 Jul 2026",
+      "title": "케이뱅크, 최저금리로 SOHO 대출 두 배…수신은 ‘속도 조절’",
+      "link": "https://www.etoday.co.kr/news/view/2609805",
+      "date": "Fri, 31 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "케이뱅크, 상반기 순이익 601억원…개인사업자 대출 성장 속 이자이익 ...",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=82577",
-      "date": "Thu, 30 Jul 2026",
+      "title": "李 대통령 '잘 한다' 42.5%, '잘 못 한다' 53.6% … 부동산 논란·코스피...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/07/31/2026073100150.html",
+      "date": "Fri, 31 Jul 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[대출 규제 역설] '청년 지원' 말뿐…기존 약속도 못 지킨 정부",
-      "link": "https://n.news.naver.com/mnews/article/119/0003116795?sid=101",
+      "title": "'국평'은 멀어지고 35㎡로···대출에 평수 줄인 2030",
+      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422819",
+      "date": "Sat, 01 Aug 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "하반기 주택시장 최대 변수는 금리… 수도권 전세 강세도 주목해야",
+      "link": "https://n.news.naver.com/mnews/article/037/0000038604?sid=101",
+      "date": "Sat, 01 Aug 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "금융안정 ‘경고’만 하고 ‘감독’은 못하는 한은…직접 규제할 ‘칼’...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002678107?sid=101",
+      "date": "Sat, 01 Aug 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "중저신용자 쏠린 저축은행 생활안정대출…평균 880만원 공급",
+      "link": "https://www.asiatime.co.kr/article/20260731500180",
       "date": "Fri, 31 Jul 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "너무 높아진 은행 대출 문턱… 신용 ‘1등급’도 탈락 가능성 [경제 레...",
-      "link": "https://n.news.naver.com/mnews/article/022/0004147304?sid=101",
+      "title": "두나무, 은행·사내 중복대출 금지…IT업계 대출 복지 축소 확산되나",
+      "link": "https://n.news.naver.com/mnews/article/015/0005316123?sid=101",
       "date": "Fri, 31 Jul 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "잔금대출도 규제 대상… “자금계획 미리 세워야”[부동산 빨간펜]",
-      "link": "https://n.news.naver.com/mnews/article/020/0003737837?sid=101",
+      "title": "대출 규제 속 분양 나선 '엘리프 검단 포레듀'",
+      "link": "https://www.etoday.co.kr/news/view/2609374",
       "date": "Fri, 31 Jul 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "'규제에도 1.8조 폭증' 보험 약관 대출, '4% 미만' 반토막",
-      "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256762",
-      "date": "Thu, 30 Jul 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "고양창릉 '5억 대출' 복원에…주택기금서 2.4조 끌어올판",
-      "link": "https://n.news.naver.com/mnews/article/009/0005714644?sid=101",
-      "date": "Thu, 30 Jul 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "[박용준의 어부바] 두 번의 대토론회, 아이디어가 아니라 결론이 듣고 ...",
-      "link": "https://www.ajunews.com/view/20260730151547576",
-      "date": "Thu, 30 Jul 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "“빚투 갚으면 잔금대출 더 해주나요?” 연봉 1억 고객, 주담대 한도 1....",
-      "link": "https://n.news.naver.com/mnews/article/016/0002677423?sid=101",
-      "date": "Thu, 30 Jul 2026",
+      "title": "수원 이목지구 '디에트르 더 리체Ⅱ' 잔여세대 공급",
+      "link": "https://www.newspim.com/news/view/20260730001318",
+      "date": "Fri, 31 Jul 2026",
       "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "note",
-      "tag": "안정",
-      "text": "지난 확인 이후 신규 거래·변동 없음"
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-07-11 59㎡ 35층 7억 4,700만 실거래 등록"
+    },
+    {
+      "kind": "up",
+      "tag": "평균 ▲",
+      "text": "59㎡ 6개월 평균 6억 8,248만 → 6억 8,340만 (+92만)"
     }
   ]
 }
