@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-31",
-  "avg6mo": 68340,
+  "asOf": "2026-08-01",
+  "avg6mo": 68469,
   "trades": [
     {
       "date": "2026-07-29",
@@ -499,96 +499,6 @@
       "area": 72.99,
       "floor": "2",
       "price": 70000
-    },
-    {
-      "date": "2026-02-27",
-      "area": 59.97,
-      "floor": "30",
-      "price": 70250
-    },
-    {
-      "date": "2026-02-15",
-      "area": 59.97,
-      "floor": "15",
-      "price": 66300
-    },
-    {
-      "date": "2026-02-14",
-      "area": 59.97,
-      "floor": "11",
-      "price": 68000
-    },
-    {
-      "date": "2026-02-12",
-      "area": 59.97,
-      "floor": "17",
-      "price": 71000
-    },
-    {
-      "date": "2026-02-10",
-      "area": 72.99,
-      "floor": "13",
-      "price": 73000
-    },
-    {
-      "date": "2026-02-08",
-      "area": 59.97,
-      "floor": "9",
-      "price": 66500
-    },
-    {
-      "date": "2026-02-08",
-      "area": 59.97,
-      "floor": "9",
-      "price": 66500
-    },
-    {
-      "date": "2026-02-08",
-      "area": 72.99,
-      "floor": "9",
-      "price": 73000
-    },
-    {
-      "date": "2026-02-07",
-      "area": 72.99,
-      "floor": "2",
-      "price": 71000
-    },
-    {
-      "date": "2026-02-04",
-      "area": 59.97,
-      "floor": "26",
-      "price": 69800
-    },
-    {
-      "date": "2026-02-04",
-      "area": 59.99,
-      "floor": "15",
-      "price": 65000
-    },
-    {
-      "date": "2026-02-03",
-      "area": 59.97,
-      "floor": "38",
-      "price": 70000
-    },
-    {
-      "date": "2026-02-03",
-      "area": 72.99,
-      "floor": "7",
-      "price": 74500
-    },
-    {
-      "date": "2026-02-02",
-      "area": 59.97,
-      "floor": "31",
-      "price": 67800
-    },
-    {
-      "date": "2026-02-02",
-      "area": 59.99,
-      "floor": "27",
-      "price": 63000
     }
   ],
   "listings": {
@@ -597,6 +507,12 @@
     "items": []
   },
   "news": [
+    {
+      "title": "2억5000만원 대출받았더니 月이자 125만원으로 뛰었다…전세대출 금리도...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002678270?sid=101",
+      "date": "Sun, 02 Aug 2026",
+      "keyword": "부동산 대출 규제"
+    },
     {
       "title": "[머니브리핑] 잔금대출 숨통 트였지만⋯8월 대출은 괜찮을까",
       "link": "https://www.etoday.co.kr/news/view/2609858",
@@ -622,39 +538,33 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "李 대통령 '잘 한다' 42.5%, '잘 못 한다' 53.6% … 부동산 논란·코스피...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/07/31/2026073100150.html",
-      "date": "Fri, 31 Jul 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "금융당국, 잔금대출 풀고 전세대출은 조인다…부동산금융 '투트랙'",
+      "link": "https://n.news.naver.com/mnews/article/421/0009092054?sid=101",
+      "date": "Sun, 02 Aug 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "'국평'은 멀어지고 35㎡로···대출에 평수 줄인 2030",
-      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422819",
+      "title": "다올저축은행, 중·저신용자 대상으로 생활안정대출",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=307603",
+      "date": "Sun, 02 Aug 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "금융당국, 신축 아파트 잔금 대출 보완책 검토…기존 주택 배제 가능성",
+      "link": "https://www.tokenpost.kr/news/economy/383714",
+      "date": "Sun, 02 Aug 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "분양 외 기존주택 잔금은 '대출숨통' 미포함…LTV 완화도 배제",
+      "link": "https://n.news.naver.com/mnews/article/001/0016228550?sid=101",
+      "date": "Sun, 02 Aug 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "“대출 조여도 매수세 버틴다”…전세난에 실수요자 매매로 눈 돌려",
+      "link": "https://n.news.naver.com/mnews/article/138/0002236247?sid=101",
       "date": "Sat, 01 Aug 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "하반기 주택시장 최대 변수는 금리… 수도권 전세 강세도 주목해야",
-      "link": "https://n.news.naver.com/mnews/article/037/0000038604?sid=101",
-      "date": "Sat, 01 Aug 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "금융안정 ‘경고’만 하고 ‘감독’은 못하는 한은…직접 규제할 ‘칼’...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002678107?sid=101",
-      "date": "Sat, 01 Aug 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "중저신용자 쏠린 저축은행 생활안정대출…평균 880만원 공급",
-      "link": "https://www.asiatime.co.kr/article/20260731500180",
-      "date": "Fri, 31 Jul 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "두나무, 은행·사내 중복대출 금지…IT업계 대출 복지 축소 확산되나",
-      "link": "https://n.news.naver.com/mnews/article/015/0005316123?sid=101",
-      "date": "Fri, 31 Jul 2026",
       "keyword": "DSR 규제"
     },
     {
@@ -673,13 +583,8 @@
   "alerts": [
     {
       "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-07-11 59㎡ 35층 7억 4,700만 실거래 등록"
-    },
-    {
-      "kind": "up",
       "tag": "평균 ▲",
-      "text": "59㎡ 6개월 평균 6억 8,248만 → 6억 8,340만 (+92만)"
+      "text": "59㎡ 6개월 평균 6억 8,340만 → 6억 8,469만 (+129만)"
     }
   ]
 }
