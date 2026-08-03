@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-02",
-  "avg6mo": 68469,
+  "asOf": "2026-08-03",
+  "avg6mo": 68652,
   "trades": [
     {
       "date": "2026-07-29",
@@ -13,6 +13,18 @@
       "area": 84.97,
       "floor": "12",
       "price": 86500
+    },
+    {
+      "date": "2026-07-27",
+      "area": 59.97,
+      "floor": "6",
+      "price": 71900
+    },
+    {
+      "date": "2026-07-27",
+      "area": 59.97,
+      "floor": "6",
+      "price": 71900
     },
     {
       "date": "2026-07-22",
@@ -43,6 +55,12 @@
       "area": 59.99,
       "floor": "20",
       "price": 69000
+    },
+    {
+      "date": "2026-07-14",
+      "area": 59.97,
+      "floor": "35",
+      "price": 73000
     },
     {
       "date": "2026-07-11",
@@ -508,83 +526,98 @@
   },
   "news": [
     {
-      "title": "자동차담보대출도 'LTV 100%' 족쇄… 서민 급전 창구 또 좁아진다",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1397518",
+      "title": "[금융픽] BNK금융, 무더위 극복 위해 지역밀착 지원 외",
+      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93202",
       "date": "Mon, 03 Aug 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "4년 반 새 5.5배 뛴 농협 부실…정부, NPL펀드로 급한 불 끈다[Pick코노미...",
-      "link": "https://n.news.naver.com/mnews/article/011/0004647840?sid=101",
+      "title": "초고가주택 겨냥 세제 개편…실수요 대출 완화는 '핀셋 조정'",
+      "link": "https://www.newspim.com/news/view/20260803000607",
       "date": "Mon, 03 Aug 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "\"당장 이달 입주인데 잔금대출 막혀 어쩌나\"…부동산정책 의견수렴 게시...",
-      "link": "https://www.joongboo.com/news/articleView.html?idxno=363732904",
-      "date": "Sun, 02 Aug 2026",
+      "title": "[사설] 제주 주택시장 장기 침체…해결책이 안 보인다",
+      "link": "http://www.jejunews.com/news/articleView.html?idxno=2227002",
+      "date": "Mon, 03 Aug 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "2억5000만원 대출받았더니 月이자 125만원으로 뛰었다…전세대출 금리도...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002678270?sid=101",
-      "date": "Sun, 02 Aug 2026",
+      "title": "김경기 부장 \"42년 된 잠실종합운동장, 복합 MICE 단지로 개발…한강 조...",
+      "link": "https://n.news.naver.com/mnews/article/057/0001961757?sid=102",
+      "date": "Mon, 03 Aug 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[머니브리핑] 잔금대출 숨통 트였지만⋯8월 대출은 괜찮을까",
-      "link": "https://www.etoday.co.kr/news/view/2609858",
-      "date": "Sat, 01 Aug 2026",
+      "title": "[금융권 이모저모]신한은행, '감정평가서 AI 점검 Agent' 도입 外",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=114987",
+      "date": "Mon, 03 Aug 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[대출 규제 역설] 대부업마저 막혔다…저신용자 '금융 절벽' 현실화",
-      "link": "https://n.news.naver.com/mnews/article/119/0003117423?sid=101",
+      "title": "\"가계대출 조이고 실수요자 보호\" 당국 엇갈린 주문에...은행은 빗장 닫...",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363020",
+      "date": "Tue, 04 Aug 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[강남視角] '숫자' 말고 '구조'를 바꿔라",
+      "link": "https://n.news.naver.com/mnews/article/014/0005556698?sid=101",
       "date": "Mon, 03 Aug 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "'보금자리론 수요 폭발' 전년대비 70% 늘어…규제지역 가산금리 인상",
-      "link": "https://n.news.naver.com/mnews/article/421/0009092940?sid=101",
+      "title": "주담대 이자상환 소득공제도 '실거주자'만 가능",
+      "link": "https://n.news.naver.com/mnews/article/648/0000049475?sid=101",
       "date": "Mon, 03 Aug 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "‘잔금 대출난’ 해소 모색하는 당국…기존 주택 매수는 배제",
-      "link": "https://n.news.naver.com/mnews/article/016/0002678397?sid=101",
-      "date": "Sun, 02 Aug 2026",
+      "title": "2년 '매도 출구' 열렸는데...팔 사람 다 팔았다? 매물 끌어낼 수 있을까",
+      "link": "https://n.news.naver.com/mnews/article/008/0005395020?sid=101",
+      "date": "Mon, 03 Aug 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "잔금대출 풀어 실수요 보호…전세대출은 고삐 죈다",
-      "link": "http://www.segyebiz.com/newsView/20260802511371?OutUrl=naver",
-      "date": "Sun, 02 Aug 2026",
+      "title": "고가주택 세 부담 커진다…중저가 주택 수요 이동 주목",
+      "link": "https://www.newspim.com/news/view/20260803001176",
+      "date": "Mon, 03 Aug 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "서울 집값 못 버텨 '옆세권' 몰렸다…경기도에서 뜨는 '지역 3곳'",
-      "link": "https://www.wikitree.co.kr/articles/1149934",
-      "date": "Sun, 02 Aug 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "\"시장이 안 따라주네\"…'총량' 잡다 멀어진 가계부채 구조개선",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428177",
-      "date": "Sun, 02 Aug 2026",
+      "title": "지방엔 악성 미분양 쌓이는데…부동산 정책, 수도권에만 '올인'",
+      "link": "https://www.newspim.com/news/view/20260731001198",
+      "date": "Mon, 03 Aug 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "[주간금융이슈] 8월 첫날부터 주담대 '오픈런' 예고",
-      "link": "https://www.newspim.com/news/view/20260731000299",
-      "date": "Sun, 02 Aug 2026",
+      "title": "8월 전국 아파트 2만8000가구 분양…80% 수도권 집중",
+      "link": "https://www.kukinews.com/article/view/kuk202608030082",
+      "date": "Mon, 03 Aug 2026",
       "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "note",
-      "tag": "안정",
-      "text": "지난 확인 이후 신규 거래·변동 없음"
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-07-27 59㎡ 6층 7억 1,900만 실거래 등록"
+    },
+    {
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-07-27 59㎡ 6층 7억 1,900만 실거래 등록"
+    },
+    {
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-07-14 59㎡ 35층 7억 3,000만 실거래 등록"
+    },
+    {
+      "kind": "up",
+      "tag": "평균 ▲",
+      "text": "59㎡ 6개월 평균 6억 8,469만 → 6억 8,652만 (+183만)"
     }
   ]
 }
