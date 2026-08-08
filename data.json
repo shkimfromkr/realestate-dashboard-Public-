@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-07",
+  "asOf": "2026-08-08",
   "avg6mo": 68652,
   "trades": [
     {
@@ -532,34 +532,46 @@
   },
   "news": [
     {
+      "title": "청년 고용 부진 지속됐나...가계대출 흐름은 [한동훈의 위클리전망대]",
+      "link": "https://n.news.naver.com/mnews/article/011/0004649862?sid=101",
+      "date": "Sun, 09 Aug 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "정부 ‘대출 강력 규제’ 기조에… 늦어지는 토스뱅크 주담대",
+      "link": "https://n.news.naver.com/mnews/article/366/0001185056?sid=101",
+      "date": "Sun, 09 Aug 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "역대 최대 카카오뱅크 vs 역성장 케이뱅크…벌어지는 인뱅 격차",
+      "link": "https://n.news.naver.com/mnews/article/117/0004092899?sid=103",
+      "date": "Sat, 08 Aug 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "이동학 \"삶은 캠핑 아냐…폐 버스 발언이 불질러\"[한판승부]",
+      "link": "https://n.news.naver.com/mnews/article/079/0004176726?sid=100",
+      "date": "Sat, 08 Aug 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "李대통령 \"주택 공급 과감히 실천하라\"…6시간 난상 토론",
       "link": "https://n.news.naver.com/mnews/article/015/0005318647?sid=100",
       "date": "Fri, 07 Aug 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "'공급 속도전' 위해 부동산 금융 규제 푼다",
-      "link": "https://n.news.naver.com/mnews/article/015/0005318646?sid=101",
-      "date": "Fri, 07 Aug 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "[이슈포커스] \"사도 걱정, 팔아도 걱정\"…대출 막히고 집값 뛰는 부동산...",
+      "link": "http://www.sisacast.kr/news/articleView.html?idxno=98619",
+      "date": "Sat, 08 Aug 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "구윤철 \"청년·신혼부부 대출 규제 '핀셋 완화'\"…추가 대책 예고",
-      "link": "https://www.ajunews.com/view/20260807191151772",
-      "date": "Fri, 07 Aug 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "'보완수사·부동산·주식' 동시 타격 … 李 지지율 30%대 급락 땐 국정 ...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/08/07/2026080700174.html",
-      "date": "Fri, 07 Aug 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "디에이치방배 잔금대출 '숨통'…국민·신한·하나, 3000억 공급",
-      "link": "https://n.news.naver.com/mnews/article/015/0005318593?sid=101",
-      "date": "Fri, 07 Aug 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "감정가 164%에도 40명···서울 경매 '알짜'만 불붙었다",
+      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=422938",
+      "date": "Sat, 08 Aug 2026",
+      "keyword": "DSR 규제"
     },
     {
       "title": "\"실거주 예외 최장 3년…민의 반영해 보완검토\"",
@@ -580,18 +592,6 @@
       "keyword": "DSR 규제"
     },
     {
-      "title": "카카오뱅크, 개인사업자 1.1조원 늘 때 전월세대출 1조원 줄었다",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265483",
-      "date": "Fri, 07 Aug 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "'잔금대출 대란' 디에이치방배…KB·신한·하나 3000억 배정",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265482",
-      "date": "Fri, 07 Aug 2026",
-      "keyword": "DSR 규제"
-    },
-    {
       "title": "신한·KB국민·하나, 디에이치방배 잔금대출 3000억 배정",
       "link": "https://news.mtn.co.kr/news-detail/2026080715060994198",
       "date": "Fri, 07 Aug 2026",
@@ -606,19 +606,9 @@
   ],
   "alerts": [
     {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-07-29 59㎡ 6층 6억 5,200만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-07-27 59㎡ 6층 7억 1,900만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-07-27 59㎡ 6층 7억 1,900만 실거래 등록"
+      "kind": "note",
+      "tag": "안정",
+      "text": "지난 확인 이후 신규 거래·변동 없음"
     }
   ]
 }
