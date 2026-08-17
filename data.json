@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-16",
+  "asOf": "2026-08-17",
   "avg6mo": 68634,
   "trades": [
     {
@@ -538,93 +538,83 @@
   },
   "news": [
     {
-      "title": "[금융家] 한국은행 ㅣ 사내 주택대출부터 지역경제 진단 등…안팎의 상...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=598644",
+      "title": "BNK투자증권, IB 재편·리테일 강화…'강한 중형사' 정조준 [전업계 추격...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202608142135363747dd55077bc2_18",
+      "date": "Tue, 18 Aug 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "[테헤란로] 쏟아지는 대책, 엇갈리는 해석",
+      "link": "https://n.news.naver.com/mnews/article/014/0005562528?sid=110",
       "date": "Mon, 17 Aug 2026",
       "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "총량 완화에 숨 트인 카뱅·토뱅... 신규대출 공급 타이밍 앞당긴다",
+      "link": "https://n.news.naver.com/mnews/article/014/0005562504?sid=101",
+      "date": "Mon, 17 Aug 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "\"6개월새 28조 증발\" 초유의 상황…불장에 '직격탄' 맞은 곳",
+      "link": "https://n.news.naver.com/mnews/article/015/0005321609?sid=101",
+      "date": "Mon, 17 Aug 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "\"대출상품 출시 눈치봤는데\"...총량 완화에 한숨 돌린 인뱅",
+      "link": "https://n.news.naver.com/mnews/article/014/0005562447?sid=101",
+      "date": "Mon, 17 Aug 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "[DQN] 신한 RWA 10.3%↑·우리 연체율 0.62%…PF 확대 앞둔 은행권 '선별...",
+      "link": "https://www.fntimes.com/html/view.php?ud=2026081316000645925e6e69892f_18",
+      "date": "Tue, 18 Aug 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[투데이 Pick] 가계대출 총량 풀렸지만…은행권 주담대 문턱은 ‘여전’",
+      "link": "https://www.news2day.co.kr/article/20260814500229",
+      "date": "Tue, 18 Aug 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "하반기 주담대 한도 푼다…가계대출 30조 숨통",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=143237",
+      "date": "Tue, 18 Aug 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "8ㆍ13대책서 지방 주택시장 또 패싱… 수도권 신속 공급, 지방엔 수요 진...",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608171325320970210",
+      "date": "Tue, 18 Aug 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "8·13 대책에도 주담대 ‘오픈런’… 대출 빗장 쉽게 안풀려",
+      "link": "https://www.g-enews.com/view.php?ud=202608141457249301e30fcb1ba8_1",
+      "date": "Tue, 18 Aug 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "\"서울만 난리? 우리도 잔금대출 안 나와요\"...또 지방 빠진 부동산 대책",
+      "link": "https://n.news.naver.com/mnews/article/014/0005562442?sid=101",
+      "date": "Mon, 17 Aug 2026",
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "[박근종 칼럼] '영끌'과 '빚투'가 만든 2,000조 빚더미와 금리 역풍, 정...",
       "link": "https://www.mhns.co.kr/news/articleView.html?idxno=756610",
       "date": "Mon, 17 Aug 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "\"닥치고 공급\" 입법 총공세..野 부동산 대책은",
-      "link": "https://n.news.naver.com/mnews/article/014/0005562134?sid=100",
-      "date": "Sun, 16 Aug 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "“1년 새 48배 폭증”…저축은행 손잡고 활로 찾은 P2P, 그래도 못 웃는...",
-      "link": "https://n.news.naver.com/mnews/article/009/0005721586?sid=101",
-      "date": "Sun, 16 Aug 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "[홍성걸 칼럼] 선무당이 사람 잡는다",
-      "link": "https://n.news.naver.com/mnews/article/088/0001023743?sid=110",
-      "date": "Sun, 16 Aug 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "대출총량 늘린다지만… 시중은행, '주담대 빗장' 그대로",
-      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092168186",
-      "date": "Mon, 17 Aug 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "'CET1 깎는 규제' 13%도 위태…SSyRB까지 겹쳐 환원 여력 압박",
-      "link": "https://www.kbanker.co.kr/news/articleView.html?idxno=225680",
-      "date": "Mon, 17 Aug 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "30조 더 풀지만…5대銀 '추가 한도'가 가계대출 영업 가른다",
-      "link": "https://n.news.naver.com/mnews/article/293/0000089134?sid=101",
-      "date": "Mon, 17 Aug 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "보금자리론 '규제지역 가산금리 인상' 이유 있었네…집값 상승에 수요 ...",
-      "link": "https://n.news.naver.com/mnews/article/421/0009116607?sid=101",
-      "date": "Mon, 17 Aug 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "대출 숨통 트여도…‘이것’부터 먼저 체크해보세요",
-      "link": "http://www.segyebiz.com/newsView/20260813522050?OutUrl=naver",
-      "date": "Sun, 16 Aug 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "5대 은행 추가자본 최대 10조5000억원 거론",
-      "link": "https://www.tokenpost.kr/news/policy/390485",
-      "date": "Fri, 14 Aug 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "스트레스완충자본 피했더니 더 센 규제 온다…내년 은행권 10조 부담",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430128",
-      "date": "Fri, 14 Aug 2026",
       "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-08-08 59㎡ 5층 6억 7,500만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-07-29 59㎡ 6층 6억 5,200만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-07-27 59㎡ 6층 7억 1,900만 실거래 등록"
+      "kind": "note",
+      "tag": "안정",
+      "text": "지난 확인 이후 신규 거래·변동 없음"
     }
   ]
 }
