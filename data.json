@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-21",
+  "asOf": "2026-08-22",
   "avg6mo": null,
   "trades": [],
   "listings": {
@@ -8,6 +8,12 @@
     "items": []
   },
   "news": [
+    {
+      "title": "저축은행 주담대 금리도 '줄인상'…한투·SBI·OK 등 오름세",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026082113294774974",
+      "date": "Sat, 22 Aug 2026",
+      "keyword": "부동산 대출 규제"
+    },
     {
       "title": "신생아 특례 대출, 출산만으로 부족했다",
       "link": "http://www.ddanzi.com/892348621",
@@ -29,12 +35,6 @@
     {
       "title": "계속 오르는 증권사PF 연체율…업권 경쟁구도에도 영향",
       "link": "https://www.mediapen.com/news/view/1117948",
-      "date": "Fri, 21 Aug 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "대출총량 완화에 2금융권 희비···상호금융 '숨통', 저축銀·카드 '한...",
-      "link": "https://www.seoulfn.com/news/articleView.html?idxno=636092",
       "date": "Fri, 21 Aug 2026",
       "keyword": "부동산 대출 규제"
     },
