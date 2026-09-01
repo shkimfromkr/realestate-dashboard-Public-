@@ -1,7 +1,13 @@
 {
   "asOf": "2026-09-01",
-  "avg6mo": 68812,
+  "avg6mo": 68949,
   "trades": [
+    {
+      "date": "2026-08-31",
+      "area": 59.97,
+      "floor": "26",
+      "price": 74000
+    },
     {
       "date": "2026-08-29",
       "area": 59.97,
@@ -13,6 +19,12 @@
       "area": 84.97,
       "floor": "29",
       "price": 93300
+    },
+    {
+      "date": "2026-08-16",
+      "area": 59.97,
+      "floor": "3",
+      "price": 70500
     },
     {
       "date": "2026-08-14",
@@ -31,6 +43,12 @@
       "area": 59.99,
       "floor": "5",
       "price": 67500
+    },
+    {
+      "date": "2026-08-08",
+      "area": 59.97,
+      "floor": "6",
+      "price": 71000
     },
     {
       "date": "2026-07-29",
@@ -514,75 +532,75 @@
   },
   "news": [
     {
-      "title": "인터넷은행 3사, 올 상반기 성적표 갈렸다…카뱅 순익 24.4%↑",
-      "link": "https://www.nspna.com/news/?mode=view&newsid=826378",
+      "title": "‘21억 사기 연루 의혹’ 현직 경찰관 재수사…피해자 이의신청에 ‘불...",
+      "link": "http://www.breaknews.com/1233366",
+      "date": "Wed, 02 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "김용범 후임 ‘김정관 카드’ 부상…밑그림을 공장으로 바꿀 사람",
+      "link": "https://n.news.naver.com/mnews/article/018/0006362048?sid=100",
+      "date": "Wed, 02 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "반년 넘게 표류한 ELS·지배구조…9월엔 매듭 짓는다",
+      "link": "https://n.news.naver.com/mnews/article/277/0005810525?sid=101",
+      "date": "Wed, 02 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "상상인저축은행 인수 '숨고르기'… KBI그룹 \"재협상 간다\"",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=348984",
       "date": "Tue, 01 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "李 주택 공공 매입 지시에 장동혁 \"국민 집 빼앗겠단 선언\"",
-      "link": "https://n.news.naver.com/mnews/article/374/0000530398?sid=101",
+      "title": "매물 늘어도 매력은 '뚝'…저축은행 M&A '험로'",
+      "link": "https://news.mtn.co.kr/news-detail/2026090116331376008",
       "date": "Tue, 01 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[다산칼럼] 부동산 해법, '이재명 공약'에 있다",
-      "link": "https://n.news.naver.com/mnews/article/015/0005326949?sid=110",
-      "date": "Tue, 01 Sep 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "[화요경제 항산항심] 그 많았던 타워크레인은 어디로 갔을까",
-      "link": "https://n.news.naver.com/mnews/article/658/0000154050?sid=110",
-      "date": "Mon, 31 Aug 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "[올댓차이나] 홍콩 증시, 美 조기 금리인상 관측에 혼조 마감… H주 0.27...",
-      "link": "https://n.news.naver.com/mnews/article/003/0014159670?sid=104",
-      "date": "Mon, 31 Aug 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "사법 리스크 집착이 리스크, 공소 취소 포기해야 지지율 회복한다: 슬로...",
-      "link": "https://slownews.kr/165700",
-      "date": "Tue, 01 Sep 2026",
+      "title": "“테라스 스파에 조선호텔 서비스까지” 대출규제도 피한 ‘목동윤슬자...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002691535?sid=101",
+      "date": "Wed, 02 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "오늘부터 '최대 5억' 사내 대출…동탄·용인 '들썩'",
-      "link": "https://n.news.naver.com/mnews/article/055/0001384837?sid=101",
-      "date": "Tue, 01 Sep 2026",
+      "title": "연 1.5% ‘삼전 대출’ 풀린다…동탄 집값 다시 달굴까?",
+      "link": "http://www.metroseoul.co.kr/article/20260902500009",
+      "date": "Wed, 02 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "[N2 포커스] 2022년 '영끌 패닉', 지금은 '규제 족쇄'…기준금리 3%의 역...",
-      "link": "https://www.news2day.co.kr/article/20260831500256",
-      "date": "Tue, 01 Sep 2026",
+      "title": "“삼성맨은 대출 5억 더”…한국 경제, 네덜란드병 따라가나 [잇슈 머니...",
+      "link": "https://n.news.naver.com/mnews/article/056/0012249174?sid=101",
+      "date": "Wed, 02 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "대출금리 더 오른다…10년 이상 장기·고정 주담대 재추진",
-      "link": "https://n.news.naver.com/mnews/article/421/0009142634?sid=101",
-      "date": "Tue, 01 Sep 2026",
+      "title": "“갈아탈 정도로 금리 싼 곳 없다”…대출비교 서비스 실효성 논란",
+      "link": "https://n.news.naver.com/mnews/article/009/0005729016?sid=101",
+      "date": "Wed, 02 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "카드론 조이니 ’18~19% 고금리 빚’은 두달 새 6000억원 늘어",
-      "link": "https://n.news.naver.com/mnews/article/023/0003995922?sid=101",
-      "date": "Tue, 01 Sep 2026",
+      "title": "‘착한 1주택자’와 ‘나쁜 1주택자’ 가르기, 자충수 안 되려면",
+      "link": "https://n.news.naver.com/mnews/article/028/0002821218?sid=101",
+      "date": "Wed, 02 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "대구·경북 대출 증가폭 반토막…돈은 '집'으로 흘렀다",
-      "link": "https://www.idaegu.com/news/articleView.html?idxno=665347",
-      "date": "Mon, 31 Aug 2026",
+      "title": "\"금리 오르는데 이자 덜 내려고\"…주담대 '고정이냐 변동이냐' 셈법 복...",
+      "link": "https://n.news.naver.com/mnews/article/119/0003127999?sid=101",
+      "date": "Wed, 02 Sep 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "때아닌 '집값 폭락론' … 고금리 폭탄, 부동산은 무풍지대?",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/31/2026083100068.html",
-      "date": "Mon, 31 Aug 2026",
+      "title": "내년 기준금리 3.5% 오나...\"거래 위축에도 집값 급락은 제한적\"",
+      "link": "https://www.newspim.com/news/view/20260901000973",
+      "date": "Tue, 01 Sep 2026",
       "keyword": "스트레스 DSR"
     }
   ],
@@ -590,17 +608,22 @@
     {
       "kind": "up",
       "tag": "신규 거래",
-      "text": "2026-08-29 59㎡ 14층 7억 500만 실거래 등록"
+      "text": "2026-08-31 59㎡ 26층 7억 4,000만 실거래 등록"
     },
     {
       "kind": "up",
       "tag": "신규 거래",
-      "text": "2026-08-14 59㎡ 8층 7억 1,800만 실거래 등록"
+      "text": "2026-08-16 59㎡ 3층 7억 500만 실거래 등록"
     },
     {
       "kind": "up",
       "tag": "신규 거래",
-      "text": "2026-08-08 59㎡ 5층 6억 7,500만 실거래 등록"
+      "text": "2026-08-08 59㎡ 6층 7억 1,000만 실거래 등록"
+    },
+    {
+      "kind": "up",
+      "tag": "평균 ▲",
+      "text": "59㎡ 6개월 평균 6억 8,812만 → 6억 8,949만 (+137만)"
     }
   ]
 }
