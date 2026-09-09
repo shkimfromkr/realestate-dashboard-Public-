@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-08",
-  "avg6mo": 68949,
+  "asOf": "2026-09-09",
+  "avg6mo": 68965,
   "trades": [
     {
       "date": "2026-08-31",
@@ -37,6 +37,12 @@
       "area": 72.99,
       "floor": "13",
       "price": 84200
+    },
+    {
+      "date": "2026-08-13",
+      "area": 59.97,
+      "floor": "38",
+      "price": 70000
     },
     {
       "date": "2026-08-08",
@@ -532,74 +538,74 @@
   },
   "news": [
     {
-      "title": "[차장칼럼] PF·중도금 부실 경고음…시스템 흔들려야 나설 건가",
-      "link": "https://www.g-enews.com/view.php?ud=202609071551351580e30fcb1ba8_1",
+      "title": "돈은 있는데, 왜 공장으로 안 가나",
+      "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=62581",
+      "date": "Thu, 10 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "[정원의 Why] 은행 넘보는 증권사",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434191",
+      "date": "Thu, 10 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "[스트레이트뉴스 여론조사] 부동산 대출·세제 완화 찬성 50.1%…무주택...",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=310709",
       "date": "Wed, 09 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "'한강뷰 신혼집 거주' 남보라, \"대출 잘 안 나와, 집 사기 어려워져\" (ST...",
-      "link": "https://m.entertain.naver.com/article/311/0002055058",
+      "title": "[여의도 캘린더]금투협, 뉴욕 현지 'Global Investment Insight' 과정 개설...",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=116590",
       "date": "Wed, 09 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[오늘의 이슈]밤사이 뉴욕 이틀째 하락…오늘 고용·가계대출 동시 발표",
-      "link": "http://www.newskr.kr/news/articleView.html?idxno=106209",
+      "title": "‘한강뷰 신혼집 거주’ 남보라, 대출 규제에 한숨…“집 사기 어려워”",
+      "link": "https://m.entertain.naver.com/article/009/0005732479",
       "date": "Wed, 09 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "남보라, '불꽃놀이 1열' 한강뷰家 자랑하더니..대출 규제에 한숨 \"집 사...",
-      "link": "https://m.entertain.naver.com/article/076/0004444228",
-      "date": "Wed, 09 Sep 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "\"빚이 곧 자산증식 기회더라\"…가계빚 2천조 시대의 단면",
+      "link": "https://n.news.naver.com/mnews/article/079/0004187780?sid=101",
+      "date": "Thu, 10 Sep 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "\"사장님 대출은 여기로\"…인뱅 3사, 5대 은행 넘었다",
-      "link": "https://n.news.naver.com/mnews/article/215/0001265292?sid=101",
-      "date": "Tue, 08 Sep 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "[조현숙의 시시각각] 네가 하면 투기, 내가 하면 투자",
+      "link": "https://n.news.naver.com/mnews/article/025/0003550334?sid=110",
+      "date": "Thu, 10 Sep 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "물량 늘려도 안 팔린다…9월 분양전망지수 두 달째 기준선 아래",
-      "link": "https://www.news2day.co.kr/article/20260908500252",
+      "title": "[경제포커스] 대출로 버티는 중년층…고금리에 '대출난민' 늘어난다",
+      "link": "http://www.sisacast.kr/news/articleView.html?idxno=99848",
       "date": "Wed, 09 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "KB국민 ‘주담대 3억’ 제한에 실수요자 신음…서초 아파트 집단대출엔...",
-      "link": "https://n.news.naver.com/mnews/article/005/0001871817?sid=101",
+      "title": "[경찰] 전북 단체장 수사 9월 분수령…결론은 아직",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=708495",
       "date": "Wed, 09 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "부산은행, 내년 1월부터 가계대출 업무 본부로 모은다",
-      "link": "https://news.mtn.co.kr/news-detail/2026090815402388185",
+      "title": "은행 대출 규제에 막히자 … 고신용자도 '대부업' 노크",
+      "link": "https://n.news.naver.com/mnews/article/009/0005732886?sid=101",
       "date": "Wed, 09 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "DSR 비껴간 車 카드할부, 이대로 괜찮나 [줌인IT]",
-      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092169683",
-      "date": "Wed, 09 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "“2000만원 비싼데 현금 2억 더 내라니”…‘15억 벽’에 강남 버리고 서...",
-      "link": "https://n.news.naver.com/mnews/article/022/0004157511?sid=101",
-      "date": "Wed, 09 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "월 500 벌어 대출 230 갚는 집…이때부터 지갑 닫힌다",
-      "link": "https://n.news.naver.com/mnews/article/665/0000008121?sid=101",
+      "title": "장종태 의원 \"지방 쏠린 악성 미분양, 정책과 현장 간극 좁혀야\"",
+      "link": "http://www.breaknews.com/1235431",
       "date": "Wed, 09 Sep 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "강남은 얼어붙고 노도강은 '들썩'…거래회전율 역전",
-      "link": "https://n.news.naver.com/mnews/article/003/0014178128?sid=101",
+      "title": "장종태 \" 지방 악성 미분양 3 만 가구 , 지원 대상과 실제 적체지역 간극...",
+      "link": "http://www.gocj.net/news/articleView.html?idxno=152205",
       "date": "Wed, 09 Sep 2026",
       "keyword": "스트레스 DSR"
     }
@@ -608,17 +614,12 @@
     {
       "kind": "up",
       "tag": "신규 거래",
-      "text": "2026-08-31 59㎡ 26층 7억 4,000만 실거래 등록"
+      "text": "2026-08-13 59㎡ 38층 7억 실거래 등록"
     },
     {
       "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-08-29 59㎡ 14층 7억 500만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-08-16 59㎡ 3층 7억 500만 실거래 등록"
+      "tag": "평균 ▲",
+      "text": "59㎡ 6개월 평균 6억 8,949만 → 6억 8,965만 (+16만)"
     }
   ]
 }
