@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-11",
+  "asOf": "2026-09-12",
   "avg6mo": 68965,
   "trades": [
     {
@@ -568,6 +568,18 @@
       "keyword": "부동산 대출 규제"
     },
     {
+      "title": "[박근종 칼럼] 주택담보대출 연체 120% 폭증, 벼랑 끝 취약 차주 구출할...",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=760109",
+      "date": "Sun, 13 Sep 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "실거주 안 하면 세금 부담 커진다?",
+      "link": "https://n.news.naver.com/mnews/article/015/0005331572?sid=101",
+      "date": "Sat, 12 Sep 2026",
+      "keyword": "DSR 규제"
+    },
+    {
       "title": "복기왕 의원, 금융규제 체계 재점검 촉구",
       "link": "https://www.newstnt.com/news/articleView.html?idxno=718011",
       "date": "Sat, 12 Sep 2026",
@@ -586,18 +598,6 @@
       "keyword": "DSR 규제"
     },
     {
-      "title": "안산시의회, 민생경제 회복·광역교통망 개선 위한 정책 요구",
-      "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160255953795113",
-      "date": "Fri, 11 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "복기왕,\"강남 잡다 수도권 외곽까지 꽁꽁…금융규제 재점검\" 촉구",
-      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=909191",
-      "date": "Fri, 11 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
       "title": "경락잔금대출 ‘80%’ 믿고 입찰했다가 보증금 날릴 수 있습니다",
       "link": "https://n.news.naver.com/mnews/article/015/0005331374?sid=101",
       "date": "Fri, 11 Sep 2026",
@@ -612,19 +612,9 @@
   ],
   "alerts": [
     {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-08-31 59㎡ 26층 7억 4,000만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-08-29 59㎡ 14층 7억 500만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-08-16 59㎡ 3층 7억 500만 실거래 등록"
+      "kind": "note",
+      "tag": "안정",
+      "text": "지난 확인 이후 신규 거래·변동 없음"
     }
   ]
 }
