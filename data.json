@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-12",
+  "asOf": "2026-09-13",
   "avg6mo": 68965,
   "trades": [
     {
@@ -538,38 +538,62 @@
   },
   "news": [
     {
-      "title": "원화 RWA에 눈 돌린 금융권…새 먹거리 되려면",
-      "link": "https://n.news.naver.com/mnews/article/119/0003131874?sid=101",
-      "date": "Sat, 12 Sep 2026",
+      "title": "[줌인] 토스 '온투업' 진출에 업계 큰 반발...'시장 키우기' 보단 '독식...",
+      "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6727",
+      "date": "Mon, 14 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[더벨][파라다이스 리파이낸싱] PF 성격 뗐다, 기업대출 전환 '완성'",
-      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609091343036840104119",
-      "date": "Fri, 11 Sep 2026",
+      "title": "8월 서울 토지거래허가 신청 3012건, 4월比 60% '급락' …지난해 10월 이...",
+      "link": "http://www.queen.co.kr/news/articleView.html?idxno=463259",
+      "date": "Mon, 14 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "누빈운용 “부동산 에쿼티보다 대출 유망”…韓 월세시장도 주목",
-      "link": "https://www.kukinews.com/article/view/kuk202609110105",
-      "date": "Fri, 11 Sep 2026",
+      "title": "8월 서울 토지거래허가 신청 3012건…지난해 10월 이후 최저",
+      "link": "https://n.news.naver.com/mnews/article/421/0009167578?sid=101",
+      "date": "Mon, 14 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[Who's Who Legal Korea 2026] 건설 · 부동산",
-      "link": "http://www.legaltimes.co.kr/news/articleView.html?idxno=95915",
-      "date": "Fri, 11 Sep 2026",
+      "title": "저금리·부동산·관시 겹친 중국금융…KB·신한 ‘검증의 현지화’ 대응...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202609112320061358dd55077bc2_18",
+      "date": "Mon, 14 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "보험사 계리가정 관리 깐깐해진다…이력·검증결과 금감원 보고",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=275162",
-      "date": "Fri, 11 Sep 2026",
+      "title": "“수도권은 과열, 지방은 소멸”… 부동산 규제 차등화를",
+      "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1550711",
+      "date": "Sun, 13 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[박근종 칼럼] 주택담보대출 연체 120% 폭증, 벼랑 끝 취약 차주 구출할...",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=760109",
+      "title": "“사업자ㆍLH 모두 밑지는 장사”… 민간 수요 살릴 처방 시급",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609130337473060738",
+      "date": "Mon, 14 Sep 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "보험계약대출 급증에 해약도 증가… 보험권 '현금흐름' 부담 커지나",
+      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92745",
+      "date": "Mon, 14 Sep 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "이형일 후보, 아파트 가격 상승 이유 “2022년 이후 공급 부진으로 매수...",
+      "link": "https://www.viva100.com/article/20260913500754",
+      "date": "Sun, 13 Sep 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "삼성전자 ‘1.5% 주택대출제’ 열흘… ‘셔세권’ 경기남부 집값 상승 ...",
+      "link": "https://www.kyeongin.com/article/1770771",
+      "date": "Sun, 13 Sep 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "\"대출한도 줄어 입주 못 할 판\"…충청권 새 아파트 자금난",
+      "link": "https://n.news.naver.com/mnews/article/656/0000186686?sid=101",
       "date": "Sun, 13 Sep 2026",
       "keyword": "DSR 규제"
     },
@@ -577,35 +601,11 @@
       "title": "실거주 안 하면 세금 부담 커진다?",
       "link": "https://n.news.naver.com/mnews/article/015/0005331572?sid=101",
       "date": "Sat, 12 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "복기왕 의원, 금융규제 체계 재점검 촉구",
-      "link": "https://www.newstnt.com/news/articleView.html?idxno=718011",
-      "date": "Sat, 12 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "복기왕 의원, 주택 가격과 지역 시장 상황에 맞춰 금융규제 차등 적용해...",
-      "link": "http://www.breaknews.com/1236109",
-      "date": "Fri, 11 Sep 2026",
-      "keyword": "DSR 규제"
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "“금리 오르면 집값 폭락? 문통 때랑 다른 이유” 부읽남의 말",
       "link": "https://n.news.naver.com/mnews/article/021/0002818173?sid=101",
-      "date": "Fri, 11 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "경락잔금대출 ‘80%’ 믿고 입찰했다가 보증금 날릴 수 있습니다",
-      "link": "https://n.news.naver.com/mnews/article/015/0005331374?sid=101",
-      "date": "Fri, 11 Sep 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "\"고정금리라더니 5년만?\"…은행권 '만기까지 고정' 늘린다",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1723884",
       "date": "Fri, 11 Sep 2026",
       "keyword": "스트레스 DSR"
     }
