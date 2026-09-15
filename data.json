@@ -1,7 +1,13 @@
 {
-  "asOf": "2026-09-13",
-  "avg6mo": 68965,
+  "asOf": "2026-09-15",
+  "avg6mo": 69045,
   "trades": [
+    {
+      "date": "2026-09-13",
+      "area": 59.97,
+      "floor": "24",
+      "price": 74400
+    },
     {
       "date": "2026-08-31",
       "area": 59.97,
@@ -538,83 +544,88 @@
   },
   "news": [
     {
-      "title": "[줌인] 토스 '온투업' 진출에 업계 큰 반발...'시장 키우기' 보단 '독식...",
-      "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6727",
+      "title": "부실자산 40% 줄인 NH투자증권, PF 쏠림은 여전",
+      "link": "https://www.kbanker.co.kr/news/articleView.html?idxno=225926",
+      "date": "Tue, 15 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "美 연준, 9월 '깜짝 인상' 초읽기…한은, 10월 금리카드 다시 꺼내나",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=146307",
+      "date": "Tue, 15 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "단일 레버리지 ETF 책임론 속 부동산 대출규제 등 현안 산적",
+      "link": "https://n.news.naver.com/mnews/article/014/0005575595?sid=101",
       "date": "Mon, 14 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "8월 서울 토지거래허가 신청 3012건, 4월比 60% '급락' …지난해 10월 이...",
-      "link": "http://www.queen.co.kr/news/articleView.html?idxno=463259",
+      "title": "\"주담대 수요 안 꺾였다\"… 부동산규제 약한 수도권 외곽·잔금대출 증...",
+      "link": "https://www.g-enews.com/view.php?ud=202609141436108530cd0bfacc1c_1",
       "date": "Mon, 14 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "8월 서울 토지거래허가 신청 3012건…지난해 10월 이후 최저",
-      "link": "https://n.news.naver.com/mnews/article/421/0009167578?sid=101",
+      "title": "MBK 방지법 발의…홈플러스 사태, 사모펀드 규제로 번져",
+      "link": "https://sateconomy.co.kr/news/view/1065593562985758",
       "date": "Mon, 14 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "저금리·부동산·관시 겹친 중국금융…KB·신한 ‘검증의 현지화’ 대응...",
-      "link": "https://www.fntimes.com/html/view.php?ud=202609112320061358dd55077bc2_18",
-      "date": "Mon, 14 Sep 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "“수도권은 과열, 지방은 소멸”… 부동산 규제 차등화를",
-      "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1550711",
-      "date": "Sun, 13 Sep 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "“사업자ㆍLH 모두 밑지는 장사”… 민간 수요 살릴 처방 시급",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609130337473060738",
-      "date": "Mon, 14 Sep 2026",
+      "title": "'주담대' 팍팍한데…공공기관은 사내 대출 '펑펑'",
+      "link": "https://n.news.naver.com/mnews/article/055/0001388291?sid=101",
+      "date": "Tue, 15 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "보험계약대출 급증에 해약도 증가… 보험권 '현금흐름' 부담 커지나",
-      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92745",
+      "title": "'주담대' 팍팍한데…지침 비웃듯 사내 대출 '펑펑'",
+      "link": "https://n.news.naver.com/mnews/article/055/0001388255?sid=101",
+      "date": "Tue, 15 Sep 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[기자수첩] 성공한 투자자들의 내각...무주택자 가슴 후벼 파는 부동산...",
+      "link": "https://www.the-today.com/news/articleView.html?idxno=90104",
       "date": "Mon, 14 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "이형일 후보, 아파트 가격 상승 이유 “2022년 이후 공급 부진으로 매수...",
-      "link": "https://www.viva100.com/article/20260913500754",
-      "date": "Sun, 13 Sep 2026",
+      "title": "서민들은 막혔는데…지침 비웃듯 대출 '펑펑'",
+      "link": "https://n.news.naver.com/mnews/article/055/0001388224?sid=101",
+      "date": "Mon, 14 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "삼성전자 ‘1.5% 주택대출제’ 열흘… ‘셔세권’ 경기남부 집값 상승 ...",
-      "link": "https://www.kyeongin.com/article/1770771",
-      "date": "Sun, 13 Sep 2026",
+      "title": "실거주 의무 규제 풀어도 거래 안 늘었다…토허제 ‘한시 유예’ 효과 ...",
+      "link": "https://n.news.naver.com/mnews/article/029/0003047934?sid=101",
+      "date": "Mon, 14 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "\"대출한도 줄어 입주 못 할 판\"…충청권 새 아파트 자금난",
-      "link": "https://n.news.naver.com/mnews/article/656/0000186686?sid=101",
-      "date": "Sun, 13 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "실거주 안 하면 세금 부담 커진다?",
-      "link": "https://n.news.naver.com/mnews/article/015/0005331572?sid=101",
-      "date": "Sat, 12 Sep 2026",
+      "title": "금리 위험 줄이려다 대출 더 내줄라…장기 고정형 주담대 ‘DSR 역설’",
+      "link": "https://n.news.naver.com/mnews/article/005/0001872950?sid=101",
+      "date": "Tue, 15 Sep 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "“금리 오르면 집값 폭락? 문통 때랑 다른 이유” 부읽남의 말",
-      "link": "https://n.news.naver.com/mnews/article/021/0002818173?sid=101",
-      "date": "Fri, 11 Sep 2026",
+      "title": "대출 막히자 작은 집으로…서울 59㎡도 '16억'",
+      "link": "https://n.news.naver.com/mnews/article/031/0001058077?sid=101",
+      "date": "Mon, 14 Sep 2026",
       "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "note",
-      "tag": "안정",
-      "text": "지난 확인 이후 신규 거래·변동 없음"
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-09-13 59㎡ 24층 7억 4,400만 실거래 등록"
+    },
+    {
+      "kind": "up",
+      "tag": "평균 ▲",
+      "text": "59㎡ 6개월 평균 6억 8,965만 → 6억 9,045만 (+80만)"
     }
   ]
 }
