@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-17",
+  "asOf": "2026-09-18",
   "avg6mo": null,
   "trades": [],
   "listings": {
@@ -9,75 +9,75 @@
   },
   "news": [
     {
+      "title": "은행권, 대출 총량관리 속 달라진 공급… 실수요·사업자에 초점",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092170472",
+      "date": "Sat, 19 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "국민의힘 청년들 “청년의 절규에 응답하라”…李 정부 직격",
+      "link": "https://www.suwonilbo.kr/news/articleView.html?idxno=318319",
+      "date": "Fri, 18 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "[국회 상임위 만남] 최은석 의원 \"정책 불확실성에 국민 재산 흔들려··...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=743520",
+      "date": "Fri, 18 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "총사업비 90% 빚으로 짓는 부동산 PF…\"자기자본 20%로 높여야\"",
+      "link": "https://n.news.naver.com/mnews/article/629/0000534988?sid=101",
+      "date": "Fri, 18 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "카카오뱅크 '개인사업자 신용대출', 네이버페이 대출비교 입점… 소상공...",
       "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=359241",
       "date": "Thu, 17 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "\"돈 갚을 고객 대출 왜 줄이나\"…2720억 'LTV 담합' 법정공방",
-      "link": "https://n.news.naver.com/mnews/article/421/0009177471?sid=101",
-      "date": "Thu, 17 Sep 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "[정책 비하인드] 초과세수 162조, 예산 아닌 '기금'으로... 국회 통제 밖...",
-      "link": "https://www.meconomynews.com/news/articleView.html?idxno=201479",
-      "date": "Thu, 17 Sep 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "가계대출에 가려진 경고음… 보험사 중기대출 연체율 1.46% ‘비상’",
-      "link": "https://n.news.naver.com/mnews/article/029/0003048665?sid=101",
-      "date": "Thu, 17 Sep 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "대출 문턱 낮추고 투자 선택지 넓히고...카카오뱅크, 금융 서비스 확대...",
-      "link": "https://www.techm.kr/news/articleView.html?idxno=155346",
-      "date": "Thu, 17 Sep 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "\"지금 안 사는 게 더 이상하죠\"…삼성맨 몰리자 집값 '껑충' [시장톡]",
-      "link": "https://n.news.naver.com/mnews/article/015/0005333714?sid=101",
+      "title": "美 금리인상에 이자뿐 아니라 대출한도도 줄어든다…내 집 마련 '이중 충...",
+      "link": "https://www.ajunews.com/view/20260918143954823",
       "date": "Fri, 18 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "[사설] 이재명 대통령, 문재인 시즌2로 갈 것인가 실용주의로 돌아설 것...",
-      "link": "https://www.suwonilbo.kr/news/articleView.html?idxno=318290",
-      "date": "Thu, 17 Sep 2026",
+      "title": "공급엔 금융 확대·수요엔 대출 억제…李 '핀셋 정책' 재확인",
+      "link": "https://n.news.naver.com/mnews/article/277/0005818521?sid=101",
+      "date": "Fri, 18 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "[양준서의 정조준] 2030은 왜 이 대통령에게 분노했나...전월세도 벅찬...",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=128007",
-      "date": "Thu, 17 Sep 2026",
+      "title": "금융당국, 고위험 주담대 자본규제 강화…은행 부담 커진다",
+      "link": "https://www.ajunews.com/view/20260918134715683",
+      "date": "Fri, 18 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "경기북부 비규제지역 풍선효과 현실화하나",
-      "link": "https://n.news.naver.com/mnews/article/144/0001138865?sid=103",
-      "date": "Thu, 17 Sep 2026",
+      "title": "3년 뜸 들이다 '대출 빙하기' 맞은 토스뱅크…쪼그라든 한도 안에서 '토...",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=301267",
+      "date": "Fri, 18 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "'갈팡질팡' 청년주거정책, 대출 규제·비아파트 지원 논란...\"무엇이 나...",
-      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=144592",
-      "date": "Thu, 17 Sep 2026",
+      "title": "\"열심히 모으면 살 수 있긴 한가요?\"…2030 기자들의 '서울 내집' 마련기",
+      "link": "https://n.news.naver.com/mnews/article/053/0000061587?sid=101",
+      "date": "Fri, 18 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "[단독] 주담대 ‘4억·DSR 35%’ 넘으면 은행 위험 가중치 높인다",
-      "link": "https://n.news.naver.com/mnews/article/081/0003681463?sid=101",
+      "title": "[단독] 집값 25억·LTV 40% 초과 주담대…위험가중치 최대 4배 높인다",
+      "link": "https://n.news.naver.com/mnews/article/009/0005737145?sid=101",
       "date": "Fri, 18 Sep 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "[단독]주담대 ‘4억원·DSR 35%’ 넘으면 은행 위험 가중치 높인다",
-      "link": "https://n.news.naver.com/mnews/article/081/0003681341?sid=101",
-      "date": "Thu, 17 Sep 2026",
+      "title": "\"광명에 7억 로또 아파트 떴다” 철산자이더헤리티지서 줍줍 4가구",
+      "link": "https://realty.chosun.com/site/data/html_dir/2026/09/18/2026091801011.html",
+      "date": "Fri, 18 Sep 2026",
       "keyword": "스트레스 DSR"
     }
   ],
