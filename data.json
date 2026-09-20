@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-19",
+  "asOf": "2026-09-20",
   "avg6mo": 69045,
   "trades": [
     {
@@ -544,93 +544,83 @@
   },
   "news": [
     {
-      "title": "상반기 인터넷은행 개인사업자 대출 8.3조…1년 새 50% 증가",
-      "link": "https://n.news.naver.com/mnews/article/001/0016322944?sid=101",
+      "title": "[오늘의 신문] 반도체 호황에 성장률 상향 기대…고금리·전세 불안은 부...",
+      "link": "http://kor.theasian.asia/archives/415146",
+      "date": "Mon, 21 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "가계대출 막히자 ‘사장님 대출’ 급증…인뱅, 상반기 대출잔액 8.3조 1...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002699905?sid=101",
       "date": "Sun, 20 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "은행권, 대출 총량관리 속 달라진 공급… 실수요·사업자에 초점",
-      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092170472",
-      "date": "Sat, 19 Sep 2026",
+      "title": "부동산 PF 자기자본비율 20% 단계적 올려야",
+      "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1052660",
+      "date": "Sun, 20 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "국민의힘 청년들 “청년의 절규에 응답하라”…李 정부 직격",
-      "link": "https://www.suwonilbo.kr/news/articleView.html?idxno=318319",
-      "date": "Fri, 18 Sep 2026",
+      "title": "몸집은 40분의 1인데 증가액은 2배?… ‘사장님 대출’ 인뱅이 치고 나...",
+      "link": "https://n.news.naver.com/mnews/article/029/0003048988?sid=101",
+      "date": "Sun, 20 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[국회 상임위 만남] 최은석 의원 \"정책 불확실성에 국민 재산 흔들려··...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=743520",
-      "date": "Fri, 18 Sep 2026",
+      "title": "[이슈체크] 상반기 인터넷은행 개인사업자 대출 8.3조…1년 새 50% 증가",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=207354",
+      "date": "Sun, 20 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "총사업비 90% 빚으로 짓는 부동산 PF…\"자기자본 20%로 높여야\"",
-      "link": "https://n.news.naver.com/mnews/article/629/0000534988?sid=101",
-      "date": "Fri, 18 Sep 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "심상찮은 금리 상승세…금융위, 가계대출 매주 밀착점검 재개",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435830",
+      "date": "Mon, 21 Sep 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "‘연 1.5%로 5억원 대출’ 삼성맨 집 사러 나섰나…동탄·영통 ‘반세권...",
-      "link": "https://n.news.naver.com/mnews/article/009/0005737706?sid=101",
+      "title": "주담대 조이는데…신한은행, 청년층에 5000억 특별 한도",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=721299",
+      "date": "Mon, 21 Sep 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "\"3년3개월 더 살 수 있다는데…\" 월세 282만원에 '화들짝' [시장톡]",
+      "link": "https://n.news.naver.com/mnews/article/015/0005334438?sid=101",
+      "date": "Mon, 21 Sep 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[단독] “가계부채 위험” 경고한 한은… 사내대출 증가로 ‘엇박자’",
+      "link": "https://n.news.naver.com/mnews/article/005/0001874189?sid=101",
+      "date": "Mon, 21 Sep 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "“예비당첨자 북적”…‘힐스테이트 송파더그리드’ 계약 열기 후꾼",
+      "link": "https://n.news.naver.com/mnews/article/009/0005737925?sid=101",
       "date": "Sun, 20 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "최대 5억 '삼전 대출' 풀렸더니...동탄·광교·영통 집값 훨훨",
-      "link": "https://n.news.naver.com/mnews/article/374/0000533894?sid=101",
-      "date": "Sun, 20 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "힐스테이트 송파더그리드, 오는 20일 예비당첨자 동·호수 추첨 및 계약...",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3051382",
-      "date": "Sat, 19 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "“집 사기도, 버티기도 겁난다”…美 금리인상에 주담대 8% 공포 [머니뭐...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002699658?sid=101",
-      "date": "Sat, 19 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "송파 신축 공급 한계 속 '힐스테이트 송파더그리드' 청약",
-      "link": "https://www.newspim.com/news/view/20260918000867",
-      "date": "Sat, 19 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "美 금리인상에 이자뿐 아니라 대출한도도 줄어든다…내 집 마련 '이중 충...",
-      "link": "https://www.ajunews.com/view/20260918143954823",
-      "date": "Fri, 18 Sep 2026",
+      "title": "저신용 자영업자 연체율 5배 뛰었다…고금리 충격도 ‘양극화’",
+      "link": "https://n.news.naver.com/mnews/article/025/0003552701?sid=101",
+      "date": "Mon, 21 Sep 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "3년 뜸 들이다 '대출 빙하기' 맞은 토스뱅크…쪼그라든 한도 안에서 '토...",
-      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=301267",
-      "date": "Fri, 18 Sep 2026",
+      "title": "금리 충격도 ‘양극화’...자영업자·저소득자·다중채무자 ‘휘청’",
+      "link": "https://n.news.naver.com/mnews/article/025/0003552632?sid=101",
+      "date": "Sun, 20 Sep 2026",
       "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-09-13 59㎡ 24층 7억 4,400만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-08-31 59㎡ 26층 7억 4,000만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-08-29 59㎡ 14층 7억 500만 실거래 등록"
+      "kind": "note",
+      "tag": "안정",
+      "text": "지난 확인 이후 신규 거래·변동 없음"
     }
   ]
 }
