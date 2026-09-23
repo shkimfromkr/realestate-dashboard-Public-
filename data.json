@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-22",
+  "asOf": "2026-09-23",
   "avg6mo": null,
   "trades": [],
   "listings": {
@@ -9,74 +9,74 @@
   },
   "news": [
     {
-      "title": "온투업, 중저신용자 대출 확대…투자 규제도 완화",
-      "link": "https://www.ajunews.com/view/20260922085453923",
+      "title": "온투업, 중금리대출 탄력받나...개인사업자로 기반 확대",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702385",
+      "date": "Wed, 23 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "[N2 포커스] 부동산 PF, 금융위 \"풀라\"·한은 \"조심하라\"…엇갈린 메시지...",
+      "link": "https://www.news2day.co.kr/article/20260922500296",
+      "date": "Wed, 23 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "온투업 연계투자 한도 50%로 상향… 상호금융 참여길 열리나",
+      "link": "https://n.news.naver.com/mnews/article/014/0005579918?sid=101",
       "date": "Tue, 22 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "중저신용 대출 우수 온투업, 자기자금 투자한도 2배 확대",
-      "link": "https://n.news.naver.com/mnews/article/016/0002700663?sid=101",
+      "title": "P2P 투자한도 4천→5천만원으로 상향…중저신용자 공급 늘린다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=751611",
       "date": "Tue, 22 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "중저신용자 대출 늘리는 온투업…자기자금 투자한도 20→40%",
-      "link": "https://n.news.naver.com/mnews/article/018/0006374135?sid=101",
+      "title": "물가부터 부동산까지…고달픈 민생 '추석 민심'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1314608&inflow=N",
       "date": "Tue, 22 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "'담보대출 쏠림' 온투업…금융위, 중저신용자 대출로 자금 돌린다",
-      "link": "https://n.news.naver.com/mnews/article/374/0000534271?sid=101",
-      "date": "Tue, 22 Sep 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "'P2P 투자한도' 5000만원으로…중저신용자 대출 '판' 키운다",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1725202",
-      "date": "Tue, 22 Sep 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "“원가 올라도 금리 못 올린다”...카드업계, 카드론 수익성 하락에 ‘...",
-      "link": "https://www.ekn.kr/web/view.php?key=20260922025187688",
-      "date": "Tue, 22 Sep 2026",
+      "title": "그림의 떡 '청년 장래소득'... 의무고지로 대출 숨통 틀까[금융 인사이...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006374700?sid=101",
+      "date": "Wed, 23 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "\"8억 내렸는데도 그림의 떡\"…계산기 두드리던 직장인 '한숨' [시장톡]",
-      "link": "https://n.news.naver.com/mnews/article/015/0005334937?sid=101",
+      "title": "‘셀러 파이낸싱’의 빛과 그늘",
+      "link": "https://bravo.etoday.co.kr/view/atc_view/19943",
+      "date": "Wed, 23 Sep 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "치솟는 주담대 금리… ‘7% 눈앞’ 원리금 걱정 한숨",
+      "link": "https://www.kyeongin.com/article/1771377",
       "date": "Tue, 22 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "이번에도 ‘수도권’만 챙긴 부동산 정책(종합)",
-      "link": "https://n.news.naver.com/mnews/article/658/0000156294?sid=101",
-      "date": "Mon, 21 Sep 2026",
+      "title": "[한은 금융안정상황보고서] 기준금리 0.25%p 인상 시 이자부담 약 7조원",
+      "link": "http://www.metroseoul.co.kr/article/20260922500213",
+      "date": "Tue, 22 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "\"이자 17% 비싸도 어쩌겠어요\"…뒤로 미룬 카드 값 7조",
-      "link": "https://n.news.naver.com/mnews/article/018/0006373875?sid=101",
-      "date": "Mon, 21 Sep 2026",
+      "title": "재건축 분담금‧세 부담에 강남 '급매물' 나오지만…현금동원력 부족한...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=319645",
+      "date": "Tue, 22 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "‘수도권’ 뿐인 부동산 정책… 지방경기 침체 나 몰라라",
-      "link": "https://n.news.naver.com/mnews/article/658/0000156257?sid=101",
-      "date": "Mon, 21 Sep 2026",
-      "keyword": "DSR 규제"
+      "title": "1년도 안 돼 10% 껑충 \"집 사요, 기다려요?\"…전문가 10명에 물으니",
+      "link": "https://n.news.naver.com/mnews/article/008/0005417626?sid=101",
+      "date": "Wed, 23 Sep 2026",
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "[이슈] 고금리 충격 취약차주에 집중…저신용 자영업자 연체율 23%까지 ...",
       "link": "https://www.polinews.co.kr/news/articleView.html?idxno=743647",
-      "date": "Mon, 21 Sep 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "추석 앞둔 9월 넷째주 분양시장, 8개 단지 4591가구 청약…국감선 공급...",
-      "link": "https://www.betanews.net/article/view/beta202609190015",
       "date": "Mon, 21 Sep 2026",
       "keyword": "스트레스 DSR"
     }
