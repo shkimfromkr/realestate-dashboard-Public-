@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-25",
+  "asOf": "2026-09-26",
   "avg6mo": 69045,
   "trades": [
     {
@@ -550,6 +550,24 @@
   },
   "news": [
     {
+      "title": "이번엔 다를까...온투업, 6년 만에 '신뢰 회복' 시험대",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=264148",
+      "date": "Sat, 26 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "에이판다 “부동산 대출채권 1호 STO로, 안정적 중수익 제공\"[인터뷰]",
+      "link": "https://n.news.naver.com/mnews/article/018/0006375613?sid=101",
+      "date": "Sat, 26 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "[현장에서] 송언석 \"레버리지 ETF 누가 결정했나…'정책 생체실험' 바로...",
+      "link": "https://n.news.naver.com/mnews/article/057/0001970684?sid=100",
+      "date": "Fri, 25 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "[베트남 주간 이슈] 비수기 뚫은 '아이폰·테슬라'…공룡들 진격 속 규제...",
       "link": "https://www.insidevina.com/news/articleView.html?idxno=44125",
       "date": "Thu, 24 Sep 2026",
@@ -562,50 +580,32 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[전문가 칼럼] 부동산 트렌드 신조어, ‘얼죽신’은 알겠는데 ‘몸테크...",
-      "link": "https://www.tfmedia.co.kr/news/article.html?no=207411",
-      "date": "Thu, 24 Sep 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "집을 샀느냐 안 샀느냐…‘90년대생’ 계급을 갈랐다",
+      "link": "https://n.news.naver.com/mnews/article/020/0003750693?sid=102",
+      "date": "Sat, 26 Sep 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "\"李정부 부동산 최악\"…\"국힘 쇄신 실종\" [추석 민심①-수도권]",
-      "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=204626",
-      "date": "Thu, 24 Sep 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "[2026 국감Ⅱ-지표에 가려진 현장③] '반토막 준공'에 갇히다…수도권 ...",
+      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=95989",
+      "date": "Sat, 26 Sep 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "토스뱅크, 주담대 출격 초읽기…케이뱅크와 실적 경쟁 주목",
-      "link": "https://www.ceoscoredaily.com/page/view/2026092215193203382",
-      "date": "Thu, 24 Sep 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "전세난에 주거 불안 커지자…생애최초 매수 43% 급증[벼랑 끝 세입자③...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014213949?sid=101",
+      "date": "Sat, 26 Sep 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "삼전 직원들 최대 ‘5억 실탄’...동탄·영통 집값 ‘들썩’",
-      "link": "https://n.news.naver.com/mnews/article/024/0000108473?sid=101",
+      "title": "연휴 이후 집값, 금리 부담에도 공급절벽 변수…\"지역별 차별화\"",
+      "link": "https://dealsite.co.kr/articles/169624",
       "date": "Fri, 25 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "카카오뱅크, '분양잔금대출' 출시…집단대출 시장 비대면 전환 '시험대...",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=320029",
-      "date": "Fri, 25 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "동탄 거래량, 벌써 지난해 넘었다…삼전 사내 대출까지 가세",
-      "link": "https://www.mediapen.com/news/view/1125983",
-      "date": "Fri, 25 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "'4년 전보다 길게 오르는' 서울 집값, 추석 지나도?",
-      "link": "https://n.news.naver.com/mnews/article/648/0000051058?sid=101",
-      "date": "Fri, 25 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "\"전세 살 바엔 집 살래\"…외곽 '생존 매수'에 서울 집값 85주 최장 상승",
-      "link": "https://n.news.naver.com/mnews/article/008/0005418242?sid=101",
+      "title": "[부박사] 금리의 '역설'… 대출 옥죄자 서울 외곽 집값 뛰었다",
+      "link": "https://monthly.chosun.com/news/articleView.html?idxno=71525",
       "date": "Fri, 25 Sep 2026",
       "keyword": "DSR 규제"
     },
@@ -616,10 +616,10 @@
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "서울 빌라 전셋값 4년7개월만 고점 뚫었다",
-      "link": "https://n.news.naver.com/mnews/article/031/0001061146?sid=101",
-      "date": "Thu, 24 Sep 2026",
-      "keyword": "스트레스 DSR"
+      "title": "[중견건설사 새 활로] 동부건설, 공공공사 늘리고 플랜트 키운다",
+      "link": "https://www.newspost.kr/news/articleView.html?idxno=225835",
+      "date": "Fri, 25 Sep 2026",
+      "keyword": "송도 아파트"
     }
   ],
   "alerts": [
