@@ -1,554 +1,31 @@
 {
-  "asOf": "2026-09-27",
-  "avg6mo": 69045,
-  "trades": [
-    {
-      "date": "2026-09-19",
-      "area": 84.97,
-      "floor": "24",
-      "price": 93500
-    },
-    {
-      "date": "2026-09-13",
-      "area": 59.97,
-      "floor": "24",
-      "price": 74400
-    },
-    {
-      "date": "2026-08-31",
-      "area": 59.97,
-      "floor": "26",
-      "price": 74000
-    },
-    {
-      "date": "2026-08-29",
-      "area": 59.97,
-      "floor": "14",
-      "price": 70500
-    },
-    {
-      "date": "2026-08-17",
-      "area": 84.97,
-      "floor": "29",
-      "price": 93300
-    },
-    {
-      "date": "2026-08-16",
-      "area": 59.97,
-      "floor": "3",
-      "price": 70500
-    },
-    {
-      "date": "2026-08-14",
-      "area": 59.97,
-      "floor": "8",
-      "price": 71800
-    },
-    {
-      "date": "2026-08-14",
-      "area": 72.99,
-      "floor": "13",
-      "price": 84200
-    },
-    {
-      "date": "2026-08-13",
-      "area": 59.97,
-      "floor": "38",
-      "price": 70000
-    },
-    {
-      "date": "2026-08-08",
-      "area": 59.99,
-      "floor": "5",
-      "price": 67500
-    },
-    {
-      "date": "2026-08-08",
-      "area": 59.97,
-      "floor": "6",
-      "price": 71000
-    },
-    {
-      "date": "2026-07-29",
-      "area": 59.97,
-      "floor": "6",
-      "price": 65200
-    },
-    {
-      "date": "2026-07-28",
-      "area": 84.97,
-      "floor": "12",
-      "price": 86500
-    },
-    {
-      "date": "2026-07-27",
-      "area": 59.97,
-      "floor": "6",
-      "price": 71900
-    },
-    {
-      "date": "2026-07-27",
-      "area": 59.97,
-      "floor": "6",
-      "price": 71900
-    },
-    {
-      "date": "2026-07-27",
-      "area": 101.99,
-      "floor": "15",
-      "price": 107000
-    },
-    {
-      "date": "2026-07-22",
-      "area": 59.99,
-      "floor": "41",
-      "price": 71000
-    },
-    {
-      "date": "2026-07-18",
-      "area": 59.99,
-      "floor": "32",
-      "price": 70000
-    },
-    {
-      "date": "2026-07-16",
-      "area": 84.97,
-      "floor": "31",
-      "price": 90000
-    },
-    {
-      "date": "2026-07-16",
-      "area": 84.97,
-      "floor": "31",
-      "price": 90000
-    },
-    {
-      "date": "2026-07-15",
-      "area": 59.99,
-      "floor": "20",
-      "price": 69000
-    },
-    {
-      "date": "2026-07-14",
-      "area": 59.97,
-      "floor": "35",
-      "price": 73000
-    },
-    {
-      "date": "2026-07-11",
-      "area": 59.97,
-      "floor": "35",
-      "price": 74700
-    },
-    {
-      "date": "2026-07-11",
-      "area": 84.97,
-      "floor": "30",
-      "price": 92000
-    },
-    {
-      "date": "2026-07-09",
-      "area": 59.97,
-      "floor": "40",
-      "price": 75000
-    },
-    {
-      "date": "2026-07-06",
-      "area": 59.99,
-      "floor": "6",
-      "price": 67700
-    },
-    {
-      "date": "2026-07-04",
-      "area": 59.97,
-      "floor": "12",
-      "price": 72500
-    },
-    {
-      "date": "2026-07-04",
-      "area": 72.99,
-      "floor": "30",
-      "price": 84800
-    },
-    {
-      "date": "2026-07-04",
-      "area": 59.97,
-      "floor": "9",
-      "price": 71500
-    },
-    {
-      "date": "2026-07-01",
-      "area": 59.99,
-      "floor": "19",
-      "price": 69000
-    },
-    {
-      "date": "2026-06-29",
-      "area": 59.99,
-      "floor": "26",
-      "price": 69900
-    },
-    {
-      "date": "2026-06-29",
-      "area": 59.99,
-      "floor": "40",
-      "price": 69500
-    },
-    {
-      "date": "2026-06-29",
-      "area": 59.99,
-      "floor": "40",
-      "price": 69500
-    },
-    {
-      "date": "2026-06-27",
-      "area": 59.97,
-      "floor": "4",
-      "price": 69900
-    },
-    {
-      "date": "2026-06-27",
-      "area": 59.97,
-      "floor": "10",
-      "price": 72500
-    },
-    {
-      "date": "2026-06-24",
-      "area": 72.99,
-      "floor": "2",
-      "price": 71500
-    },
-    {
-      "date": "2026-06-24",
-      "area": 59.97,
-      "floor": "21",
-      "price": 72500
-    },
-    {
-      "date": "2026-06-24",
-      "area": 59.99,
-      "floor": "5",
-      "price": 67500
-    },
-    {
-      "date": "2026-06-24",
-      "area": 59.99,
-      "floor": "39",
-      "price": 67500
-    },
-    {
-      "date": "2026-06-24",
-      "area": 59.97,
-      "floor": "14",
-      "price": 72000
-    },
-    {
-      "date": "2026-06-22",
-      "area": 72.99,
-      "floor": "18",
-      "price": 83000
-    },
-    {
-      "date": "2026-06-19",
-      "area": 84.97,
-      "floor": "20",
-      "price": 91000
-    },
-    {
-      "date": "2026-06-16",
-      "area": 72.99,
-      "floor": "16",
-      "price": 79800
-    },
-    {
-      "date": "2026-06-13",
-      "area": 59.99,
-      "floor": "33",
-      "price": 68000
-    },
-    {
-      "date": "2026-06-12",
-      "area": 59.97,
-      "floor": "10",
-      "price": 72250
-    },
-    {
-      "date": "2026-06-11",
-      "area": 59.99,
-      "floor": "3",
-      "price": 63000
-    },
-    {
-      "date": "2026-06-09",
-      "area": 59.99,
-      "floor": "6",
-      "price": 66600
-    },
-    {
-      "date": "2026-06-09",
-      "area": 59.97,
-      "floor": "3",
-      "price": 69000
-    },
-    {
-      "date": "2026-06-06",
-      "area": 59.97,
-      "floor": "29",
-      "price": 71500
-    },
-    {
-      "date": "2026-06-06",
-      "area": 59.97,
-      "floor": "29",
-      "price": 71500
-    },
-    {
-      "date": "2026-06-06",
-      "area": 59.97,
-      "floor": "13",
-      "price": 66000
-    },
-    {
-      "date": "2026-06-05",
-      "area": 59.97,
-      "floor": "25",
-      "price": 72000
-    },
-    {
-      "date": "2026-06-05",
-      "area": 72.99,
-      "floor": "19",
-      "price": 82800
-    },
-    {
-      "date": "2026-06-04",
-      "area": 72.99,
-      "floor": "9",
-      "price": 79000
-    },
-    {
-      "date": "2026-05-30",
-      "area": 59.99,
-      "floor": "5",
-      "price": 67500
-    },
-    {
-      "date": "2026-05-30",
-      "area": 59.97,
-      "floor": "23",
-      "price": 74400
-    },
-    {
-      "date": "2026-05-29",
-      "area": 59.97,
-      "floor": "38",
-      "price": 75300
-    },
-    {
-      "date": "2026-05-28",
-      "area": 59.97,
-      "floor": "4",
-      "price": 64000
-    },
-    {
-      "date": "2026-05-28",
-      "area": 59.97,
-      "floor": "15",
-      "price": 69400
-    },
-    {
-      "date": "2026-05-25",
-      "area": 59.99,
-      "floor": "16",
-      "price": 64900
-    },
-    {
-      "date": "2026-05-25",
-      "area": 59.99,
-      "floor": "16",
-      "price": 69000
-    },
-    {
-      "date": "2026-05-24",
-      "area": 59.97,
-      "floor": "17",
-      "price": 67300
-    },
-    {
-      "date": "2026-05-23",
-      "area": 59.97,
-      "floor": "36",
-      "price": 68500
-    },
-    {
-      "date": "2026-05-23",
-      "area": 84.97,
-      "floor": "37",
-      "price": 86800
-    },
-    {
-      "date": "2026-05-16",
-      "area": 84.97,
-      "floor": "13",
-      "price": 90000
-    },
-    {
-      "date": "2026-05-16",
-      "area": 59.99,
-      "floor": "6",
-      "price": 66400
-    },
-    {
-      "date": "2026-05-16",
-      "area": 59.99,
-      "floor": "31",
-      "price": 64500
-    },
-    {
-      "date": "2026-05-16",
-      "area": 59.99,
-      "floor": "38",
-      "price": 67900
-    },
-    {
-      "date": "2026-05-15",
-      "area": 59.99,
-      "floor": "18",
-      "price": 63800
-    },
-    {
-      "date": "2026-05-14",
-      "area": 72.99,
-      "floor": "34",
-      "price": 79900
-    },
-    {
-      "date": "2026-05-13",
-      "area": 59.99,
-      "floor": "15",
-      "price": 66200
-    },
-    {
-      "date": "2026-05-12",
-      "area": 59.99,
-      "floor": "8",
-      "price": 67600
-    },
-    {
-      "date": "2026-05-12",
-      "area": 59.99,
-      "floor": "30",
-      "price": 65800
-    },
-    {
-      "date": "2026-05-11",
-      "area": 59.99,
-      "floor": "22",
-      "price": 68500
-    },
-    {
-      "date": "2026-05-07",
-      "area": 59.99,
-      "floor": "38",
-      "price": 67000
-    },
-    {
-      "date": "2026-05-05",
-      "area": 59.99,
-      "floor": "45",
-      "price": 66500
-    },
-    {
-      "date": "2026-05-05",
-      "area": 84.97,
-      "floor": "41",
-      "price": 87700
-    },
-    {
-      "date": "2026-05-04",
-      "area": 84.97,
-      "floor": "30",
-      "price": 85500
-    },
-    {
-      "date": "2026-05-04",
-      "area": 59.99,
-      "floor": "31",
-      "price": 66000
-    },
-    {
-      "date": "2026-05-01",
-      "area": 59.97,
-      "floor": "7",
-      "price": 67500
-    },
-    {
-      "date": "2026-04-29",
-      "area": 59.99,
-      "floor": "16",
-      "price": 66000
-    },
-    {
-      "date": "2026-04-23",
-      "area": 84.97,
-      "floor": "45",
-      "price": 89000
-    },
-    {
-      "date": "2026-04-22",
-      "area": 59.97,
-      "floor": "6",
-      "price": 63500
-    },
-    {
-      "date": "2026-04-20",
-      "area": 59.97,
-      "floor": "22",
-      "price": 70000
-    },
-    {
-      "date": "2026-04-18",
-      "area": 59.99,
-      "floor": "40",
-      "price": 64000
-    },
-    {
-      "date": "2026-04-18",
-      "area": 84.97,
-      "floor": "24",
-      "price": 85900
-    },
-    {
-      "date": "2026-04-17",
-      "area": 59.97,
-      "floor": "37",
-      "price": 72300
-    },
-    {
-      "date": "2026-04-16",
-      "area": 59.97,
-      "floor": "44",
-      "price": 68700
-    },
-    {
-      "date": "2026-04-13",
-      "area": 59.99,
-      "floor": "13",
-      "price": 64300
-    },
-    {
-      "date": "2026-04-08",
-      "area": 59.99,
-      "floor": "45",
-      "price": 65500
-    }
-  ],
+  "asOf": "2026-09-28",
+  "avg6mo": null,
+  "trades": [],
   "listings": {
     "available": false,
     "count": 0,
     "items": []
   },
   "news": [
+    {
+      "title": "가계대출부터 ETF·금융사고까지…금융권 국감 쟁점 산적",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702803",
+      "date": "Mon, 28 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "저축은행 대출잔액 1년 새 제자리⋯ 차주는 43만명 '껑충'",
+      "link": "https://www.etoday.co.kr/news/view/2623141",
+      "date": "Mon, 28 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "새 아파트 쏟아지는데 입주율은 59.5%… 전·월세난 커지나",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363737764",
+      "date": "Sun, 27 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
     {
       "title": "이번엔 다를까...온투업, 6년 만에 '신뢰 회복' 시험대",
       "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=264148",
@@ -562,64 +39,46 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[현장에서] 송언석 \"레버리지 ETF 누가 결정했나…'정책 생체실험' 바로...",
-      "link": "https://n.news.naver.com/mnews/article/057/0001970684?sid=100",
-      "date": "Fri, 25 Sep 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "[베트남 주간 이슈] 비수기 뚫은 '아이폰·테슬라'…공룡들 진격 속 규제...",
-      "link": "https://www.insidevina.com/news/articleView.html?idxno=44125",
-      "date": "Thu, 24 Sep 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "집값 벽에 막힌 수요, 중대형 오피스텔 ‘아파텔’로 몰린다",
-      "link": "https://n.news.naver.com/mnews/article/011/0004665169?sid=101",
-      "date": "Thu, 24 Sep 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "사람 잡는 가계부채 총량제, 수요자는 운다 [데스크칼럼]",
-      "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=204686",
-      "date": "Sun, 27 Sep 2026",
+      "title": "\"강남보다 비싼 57㎡\"… 마포 '라비움 한강' 미분양 후폭풍, 분양권 해지...",
+      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=64938",
+      "date": "Mon, 28 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "금융당국, 정책서민금융·고정금리 대출 확대…차주 리스크 완화 총력",
-      "link": "https://n.news.naver.com/mnews/article/030/0003469990?sid=101",
-      "date": "Sun, 27 Sep 2026",
+      "title": "‘오피스텔’ 목동윤슬자이 예상밖 흥행…고분양가에도 수요 넘쳐",
+      "link": "https://dealsite.co.kr/articles/169639",
+      "date": "Mon, 28 Sep 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[기자수첩] 변하지 않아서 신뢰받는 나라",
+      "link": "https://dealsite.co.kr/articles/169497",
+      "date": "Mon, 28 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
       "title": "당국, 정책금융 등 고정금리 확대 주력…금리인상기 위험 흡수",
-      "link": "https://n.news.naver.com/mnews/article/001/0016337714?sid=101",
-      "date": "Sun, 27 Sep 2026",
+      "link": "https://www.kbsm.net/news/view.php?idx=535650",
+      "date": "Mon, 28 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "집을 샀느냐 안 샀느냐…‘90년대생’ 계급을 갈랐다",
-      "link": "https://n.news.naver.com/mnews/article/020/0003750693?sid=102",
-      "date": "Sat, 26 Sep 2026",
+      "title": "올 서울 경매 아파트 낙찰자 70%가 실수요자",
+      "link": "https://n.news.naver.com/mnews/article/023/0004000621?sid=101",
+      "date": "Mon, 28 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "[2026 국감Ⅱ-지표에 가려진 현장③] '반토막 준공'에 갇히다…수도권 ...",
-      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=95989",
-      "date": "Sat, 26 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "금리 인상기 ‘상환 충격’ 막는다…고정금리 확대·스트레스 DSR 유지 ...",
-      "link": "https://n.news.naver.com/mnews/article/374/0000534916?sid=101",
-      "date": "Sun, 27 Sep 2026",
+      "title": "금융당국, 고정금리 대출 확대...차주 리스크 완화 나선다",
+      "link": "https://www.ppss.kr/news/articleView.html?idxno=312525",
+      "date": "Mon, 28 Sep 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "광규형 고점 판독기 아니었네…송도 펜트 23억 신고가 나왔다 [부동산3...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002702073?sid=101",
-      "date": "Sun, 27 Sep 2026",
-      "keyword": "송도 아파트"
+      "title": "신혼부부 대출액 중앙값 1.8억…8년 새 130% 급증",
+      "link": "https://www.sentv.co.kr/article/view/sentv202609280011",
+      "date": "Mon, 28 Sep 2026",
+      "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
