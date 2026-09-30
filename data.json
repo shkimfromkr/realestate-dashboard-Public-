@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-29",
-  "avg6mo": 69045,
+  "asOf": "2026-09-30",
+  "avg6mo": 69077,
   "trades": [
     {
       "date": "2026-09-21",
@@ -19,6 +19,12 @@
       "area": 59.97,
       "floor": "24",
       "price": 74400
+    },
+    {
+      "date": "2026-09-09",
+      "area": 59.97,
+      "floor": "29",
+      "price": 71250
     },
     {
       "date": "2026-08-31",
@@ -556,75 +562,75 @@
   },
   "news": [
     {
+      "title": "조각투자 장외거래소 '넥스체인지' 출범…초대 대표에 정유신 교수",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1726078",
+      "date": "Tue, 29 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "군포 집값 심상찮다…거래량 늘며 '규제지역' 가능성 촉각",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363738043",
+      "date": "Tue, 29 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "조각투자 장외거래소 '넥스체인지' 출범 … 초대 대표에 정유신",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/29/2026092900326.html",
+      "date": "Tue, 29 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "정희용 의원, 2030 세대 10명 중 7명 무주택…\"대출 규제로 주거 사다리...",
+      "link": "https://www.eroun.net/news/articleView.html?idxno=91166",
+      "date": "Tue, 29 Sep 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "기업銀, 포용대출 4명 중 1명만 승인…8517명 소득규제 '장벽'",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=854992",
       "date": "Tue, 29 Sep 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[신(新)인물탐구(63)] 한국투자금융그룹 김남구 회장⑦ 리스크 관리 - 위...",
-      "link": "https://www.news2day.co.kr/article/20260928500184",
-      "date": "Tue, 29 Sep 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "숫자로 풀어본 전월세 시장…6.4억 전세·164만원 월세",
+      "link": "https://dealsite.co.kr/articles/169831",
+      "date": "Wed, 30 Sep 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "청약 당첨 후 계약 포기, '큰 차익'보다 '큰 불이익' 고려해야",
-      "link": "https://www.joongboo.com/news/articleView.html?idxno=363737892",
-      "date": "Mon, 28 Sep 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "안전한 대출은 시중은행 몫인데…\"알아서 살아남아라\" [지방은행의 비명...",
+      "link": "https://n.news.naver.com/mnews/article/119/0003137708?sid=101",
+      "date": "Wed, 30 Sep 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "[단독] \"개인사업자 비대면 담보대출 돈 되네\"...KB국민은행도 뛰어든다",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=550889",
-      "date": "Mon, 28 Sep 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "[대출규제 역설] 대부업 문 두드린 고신용자…저신용자는 문전박대",
+      "link": "https://n.news.naver.com/mnews/article/119/0003137707?sid=101",
+      "date": "Wed, 30 Sep 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "[단독]국민은행, 비대면 사업자 부담대 연말 출시…사업자대출 다시 문...",
-      "link": "https://n.news.naver.com/mnews/article/648/0000051120?sid=101",
-      "date": "Mon, 28 Sep 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "인터넷뱅킹 이용자는 늘었는데 각종 규제에 대출 신청은 급감",
+      "link": "https://n.news.naver.com/mnews/article/011/0004666641?sid=101",
+      "date": "Wed, 30 Sep 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "매물은 늘고 거래는 줄고…서울 부동산시장 관망세 짙어진다",
-      "link": "https://www.fntimes.com/html/view.php?ud=202609291009309128b372994c95_18",
+      "title": "\"삼성 5억씩 푼다\" 직원들 들썩이더니…집값 치솟은 동네",
+      "link": "https://n.news.naver.com/mnews/article/015/0005337362?sid=101",
       "date": "Tue, 29 Sep 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "정희용 국민의힘 의원 “부동산 정책 잘못 63.6%, 20-30세대 무주택 박탈...",
-      "link": "http://www.breaknews.com/1239576",
+      "title": "겹규제에 자격 안돼…상반기 온라인대출 신청 11% 줄었다",
+      "link": "https://n.news.naver.com/mnews/article/011/0004666518?sid=101",
       "date": "Tue, 29 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "대부업마저 우량 고객만…저신용자는 사금융으로",
-      "link": "https://n.news.naver.com/mnews/article/417/0001159448?sid=101",
-      "date": "Tue, 29 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "[무차별 대출규제 거센 후폭풍]②집 안팔리고, 대출도 꽉막혀… 계약금...",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609281459345940589",
-      "date": "Tue, 29 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "[무차별 대출규제 거센 후폭풍]①무차별 대출규제… 수도권 외곽 주택시...",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609281457240850587",
-      "date": "Tue, 29 Sep 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "[기획] 금리 인상기 취약자주 '이자상환' 충격 줄인다",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1418592",
-      "date": "Mon, 28 Sep 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "[기획] 고금리 속 2금융권 서민금융 창구 역할은 커진다",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1418424",
-      "date": "Mon, 28 Sep 2026",
+      "title": "올해 상반기 카드 하루 3.8조 긁었다…1년 새 7.6% '껑충'",
+      "link": "https://n.news.naver.com/mnews/article/421/0009197583?sid=101",
+      "date": "Tue, 29 Sep 2026",
       "keyword": "스트레스 DSR"
     }
   ],
@@ -632,17 +638,12 @@
     {
       "kind": "up",
       "tag": "신규 거래",
-      "text": "2026-09-13 59㎡ 24층 7억 4,400만 실거래 등록"
+      "text": "2026-09-09 59㎡ 29층 7억 1,250만 실거래 등록"
     },
     {
       "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-08-31 59㎡ 26층 7억 4,000만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-08-29 59㎡ 14층 7억 500만 실거래 등록"
+      "tag": "평균 ▲",
+      "text": "59㎡ 6개월 평균 6억 9,045만 → 6억 9,077만 (+32만)"
     }
   ]
 }
