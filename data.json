@@ -1,7 +1,13 @@
 {
-  "asOf": "2026-10-02",
-  "avg6mo": 69377,
+  "asOf": "2026-10-03",
+  "avg6mo": 69343,
   "trades": [
+    {
+      "date": "2026-10-02",
+      "area": 59.99,
+      "floor": "7",
+      "price": 67250
+    },
     {
       "date": "2026-09-21",
       "area": 84.97,
@@ -502,64 +508,64 @@
   },
   "news": [
     {
+      "title": "[생생경제] 금리 인상기 변동금리 택한 차주들…이제 계산 달라진다",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=213906",
+      "date": "Fri, 02 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "나경원 \"李 대통령, '호텔경제학자' 하준경을 정책실장에…거짓말쟁이...",
+      "link": "https://n.news.naver.com/mnews/article/448/0000642693?sid=100",
+      "date": "Fri, 02 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "나경원, 하준경에 \"호텔경제학 버려라…李가 '누군가는 결정했겠죠?' 독...",
+      "link": "https://n.news.naver.com/mnews/article/088/0001031902?sid=100",
+      "date": "Fri, 02 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "금융권, 디지털 인프라·고객 혜택 동시 확대",
+      "link": "https://www.pressman.kr/news/articleView.html?idxno=103872",
+      "date": "Fri, 02 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "김용범 후임에 ‘내부 승진’ 하준경…“경제정책 큰 변화 없을 듯”",
       "link": "https://n.news.naver.com/mnews/article/025/0003555312?sid=100",
       "date": "Fri, 02 Oct 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "靑 정책실장에 하준경 경제수석 임명",
-      "link": "https://n.news.naver.com/mnews/article/023/0004001706?sid=100",
-      "date": "Fri, 02 Oct 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "[취재수첩] 새마을금고 연대보증의 악순환",
-      "link": "https://n.news.naver.com/mnews/article/015/0005338403?sid=110",
-      "date": "Fri, 02 Oct 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "[프로필] 권대영 재정경제부 1차관…정책 실무 능통한 '금융·경제 전문...",
-      "link": "https://www.fntimes.com/html/view.php?ud=202610011841254141179ad43907_18",
-      "date": "Thu, 01 Oct 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "정책실장 하준경, 경제수석 문신학…李, 전환보다 안정 택했다",
-      "link": "https://n.news.naver.com/mnews/article/025/0003555199?sid=100",
-      "date": "Thu, 01 Oct 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "[르포]\"5억이 아니라 7억이라고요?\"…봉천동 아파트 영끌하려던 신혼부...",
-      "link": "https://n.news.naver.com/mnews/article/277/0005823954?sid=101",
+      "title": "[함영진의 부동산화수분] 생애최초 '집' 살 때…'청약·세금·대출' 활용...",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7186851",
       "date": "Fri, 02 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "전세자금대출 규제 강화되나… 2030 비상",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=880263",
+      "title": "[단독]금리 5% 이상 주담대 비중…올해 들어 최대 20배 급증",
+      "link": "https://n.news.naver.com/mnews/article/011/0004667821?sid=101",
       "date": "Fri, 02 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "아파트 규제 문턱 높아지자… 파격 금융혜택 ‘푸르지오 스타셀라49’ ...",
-      "link": "https://n.news.naver.com/mnews/article/029/0003051144?sid=101",
+      "title": "신규 가계대출 70% DSR 예외…정책대출 부실 위험 우려",
+      "link": "https://www.g-enews.com/view.php?ud=202610021531155324cd0bfacc1c_1",
       "date": "Fri, 02 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "대출 묶자 급전 수요 몰려…저축은행 소액대출 '또' 역대 최대",
-      "link": "https://n.news.naver.com/mnews/article/119/0003138823?sid=101",
+      "title": "[팩트체크] DSR 높으면 신용점수 좋아도 대출 거절된다… 사실일까?",
+      "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523317",
       "date": "Fri, 02 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "케뱅 뚫고 카뱅 넓히고 토뱅 가세…인뱅 주담대 ‘2차전’ 발발",
-      "link": "http://www.segyebiz.com/newsView/20261001518667?OutUrl=naver",
+      "title": "‘닥공’한다더니… 정부, 올 수도권 주택 착공률 32.4% 그쳐",
+      "link": "https://n.news.naver.com/mnews/article/021/0002822811?sid=101",
       "date": "Fri, 02 Oct 2026",
-      "keyword": "DSR 규제"
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "미분양 줄어든 대구시, 3년 8개월만에 신규 주택건설사업 승인보류 해제",
@@ -576,9 +582,14 @@
   ],
   "alerts": [
     {
-      "kind": "note",
-      "tag": "안정",
-      "text": "지난 확인 이후 신규 거래·변동 없음"
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-10-02 59㎡ 7층 6억 7,250만 실거래 등록"
+    },
+    {
+      "kind": "down",
+      "tag": "평균 ▼",
+      "text": "59㎡ 6개월 평균 6억 9,377만 → 6억 9,343만 (-34만)"
     }
   ]
 }
