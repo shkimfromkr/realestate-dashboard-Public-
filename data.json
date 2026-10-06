@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-05",
+  "asOf": "2026-10-06",
   "avg6mo": 69343,
   "trades": [
     {
@@ -508,6 +508,12 @@
   },
   "news": [
     {
+      "title": "[핀테크핫이슈] 금융권 덮친 해킹…보안 취약점 전방위 노출",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705017",
+      "date": "Tue, 06 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "\"3억 올릴게요\"…분당 아파트에 무슨일이",
       "link": "https://n.news.naver.com/mnews/article/648/0000051302?sid=101",
       "date": "Sun, 04 Oct 2026",
@@ -532,69 +538,53 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "나경원 \"李 대통령, '호텔경제학자' 하준경을 정책실장에…거짓말쟁이...",
-      "link": "https://n.news.naver.com/mnews/article/448/0000642693?sid=100",
-      "date": "Fri, 02 Oct 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "서울 집값 \"더 간다\" 무게…'금리 인상'은 변수[집값, 최장 랠리③]",
-      "link": "https://n.news.naver.com/mnews/article/003/0014233249?sid=101",
-      "date": "Mon, 05 Oct 2026",
+      "title": "갭투자 전체는 줄었는데…2030 비중은 오히려 늘었다",
+      "link": "https://n.news.naver.com/mnews/article/011/0004668464?sid=101",
+      "date": "Tue, 06 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "사내서, 새마을금고서 '8억 실탄' 챙긴 삼성맨…'반도체 벨트' 주택시장...",
-      "link": "https://n.news.naver.com/mnews/article/030/0003472203?sid=101",
-      "date": "Sun, 04 Oct 2026",
+      "title": "[윤준의 부동산수첩] 지금 부동산의 핵심은 상승이 아니라 선별이다",
+      "link": "https://www.nbntv.kr/news/articleView.html?idxno=340896",
+      "date": "Tue, 06 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "노도강 짒갑 3분의 1은 '빚'···대출 더 조이니 실수요자 '주거사다리...",
-      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424126",
-      "date": "Sun, 04 Oct 2026",
+      "title": "외국인 해외자금으로 국내 주택 매입 … 대출 규제 사각지대 논란",
+      "link": "http://www.queen.co.kr/news/articleView.html?idxno=464283",
+      "date": "Tue, 06 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "\"6억원 들고 '재개발 몸테크' 들어가도 될까요?\" [사이다 부동산]",
-      "link": "https://n.news.naver.com/mnews/article/586/0000139409?sid=101",
-      "date": "Sun, 04 Oct 2026",
+      "title": "내국인 주담대 옥죄는데…외국인 '해외자금' 주택매입 규제 한계",
+      "link": "https://n.news.naver.com/mnews/article/421/0009210448?sid=101",
+      "date": "Tue, 06 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "가계대출 조이자 규제 밖 대출 급증… '풍선효과' 커졌다 [주말 Q&A]",
-      "link": "https://n.news.naver.com/mnews/article/665/0000008286?sid=101",
-      "date": "Sun, 04 Oct 2026",
+      "title": "84㎡ 가격 넘보는 59㎡…매매가 격차 350만원 그치는 단지도 나와",
+      "link": "https://n.news.naver.com/mnews/article/011/0004668356?sid=101",
+      "date": "Tue, 06 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "[머니 인 스토리] ‘오징어 게임’이 던진 질문…빚은 얼마까지 감당할...",
-      "link": "https://dealsite.co.kr/articles/170072",
-      "date": "Sun, 04 Oct 2026",
+      "title": "[기자수첩] 경제 '원팀', 한 방에 모인 뒤",
+      "link": "https://n.news.naver.com/mnews/article/008/0005422233?sid=101",
+      "date": "Tue, 06 Oct 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "[금쪽상식] 변동금리 불안한데···지금 고정금리로 바꿔야 할까",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476779",
-      "date": "Sat, 03 Oct 2026",
+      "title": "국평 턱밑까지 쫓아온 59㎡…매매·전세가 격차 동반 축소",
+      "link": "https://n.news.naver.com/mnews/article/011/0004668299?sid=101",
+      "date": "Mon, 05 Oct 2026",
       "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-10-02 59㎡ 7층 6억 7,250만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-09-13 59㎡ 24층 7억 4,400만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-09-09 59㎡ 29층 7억 1,250만 실거래 등록"
+      "kind": "note",
+      "tag": "안정",
+      "text": "지난 확인 이후 신규 거래·변동 없음"
     }
   ]
 }
