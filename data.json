@@ -1,7 +1,506 @@
 {
-  "asOf": "2026-10-08",
-  "avg6mo": null,
-  "trades": [],
+  "asOf": "2026-10-09",
+  "avg6mo": 69343,
+  "trades": [
+    {
+      "date": "2026-10-02",
+      "area": 59.99,
+      "floor": "7",
+      "price": 67250
+    },
+    {
+      "date": "2026-09-21",
+      "area": 84.97,
+      "floor": "32",
+      "price": 93000
+    },
+    {
+      "date": "2026-09-19",
+      "area": 84.97,
+      "floor": "24",
+      "price": 93500
+    },
+    {
+      "date": "2026-09-13",
+      "area": 59.97,
+      "floor": "24",
+      "price": 74400
+    },
+    {
+      "date": "2026-09-09",
+      "area": 59.97,
+      "floor": "29",
+      "price": 71250
+    },
+    {
+      "date": "2026-08-31",
+      "area": 59.97,
+      "floor": "26",
+      "price": 74000
+    },
+    {
+      "date": "2026-08-29",
+      "area": 59.97,
+      "floor": "14",
+      "price": 70500
+    },
+    {
+      "date": "2026-08-17",
+      "area": 84.97,
+      "floor": "29",
+      "price": 93300
+    },
+    {
+      "date": "2026-08-16",
+      "area": 59.97,
+      "floor": "3",
+      "price": 70500
+    },
+    {
+      "date": "2026-08-14",
+      "area": 59.97,
+      "floor": "8",
+      "price": 71800
+    },
+    {
+      "date": "2026-08-14",
+      "area": 72.99,
+      "floor": "13",
+      "price": 84200
+    },
+    {
+      "date": "2026-08-13",
+      "area": 59.97,
+      "floor": "38",
+      "price": 70000
+    },
+    {
+      "date": "2026-08-08",
+      "area": 59.99,
+      "floor": "5",
+      "price": 67500
+    },
+    {
+      "date": "2026-08-08",
+      "area": 59.97,
+      "floor": "6",
+      "price": 71000
+    },
+    {
+      "date": "2026-07-29",
+      "area": 59.97,
+      "floor": "6",
+      "price": 65200
+    },
+    {
+      "date": "2026-07-28",
+      "area": 84.97,
+      "floor": "12",
+      "price": 86500
+    },
+    {
+      "date": "2026-07-27",
+      "area": 59.97,
+      "floor": "6",
+      "price": 71900
+    },
+    {
+      "date": "2026-07-27",
+      "area": 59.97,
+      "floor": "6",
+      "price": 71900
+    },
+    {
+      "date": "2026-07-27",
+      "area": 101.99,
+      "floor": "15",
+      "price": 107000
+    },
+    {
+      "date": "2026-07-22",
+      "area": 59.99,
+      "floor": "41",
+      "price": 71000
+    },
+    {
+      "date": "2026-07-18",
+      "area": 59.99,
+      "floor": "32",
+      "price": 70000
+    },
+    {
+      "date": "2026-07-16",
+      "area": 84.97,
+      "floor": "31",
+      "price": 90000
+    },
+    {
+      "date": "2026-07-16",
+      "area": 84.97,
+      "floor": "31",
+      "price": 90000
+    },
+    {
+      "date": "2026-07-15",
+      "area": 59.99,
+      "floor": "20",
+      "price": 69000
+    },
+    {
+      "date": "2026-07-14",
+      "area": 59.97,
+      "floor": "35",
+      "price": 73000
+    },
+    {
+      "date": "2026-07-11",
+      "area": 59.97,
+      "floor": "35",
+      "price": 74700
+    },
+    {
+      "date": "2026-07-11",
+      "area": 84.97,
+      "floor": "30",
+      "price": 92000
+    },
+    {
+      "date": "2026-07-09",
+      "area": 59.97,
+      "floor": "40",
+      "price": 75000
+    },
+    {
+      "date": "2026-07-06",
+      "area": 59.99,
+      "floor": "6",
+      "price": 67700
+    },
+    {
+      "date": "2026-07-04",
+      "area": 59.97,
+      "floor": "12",
+      "price": 72500
+    },
+    {
+      "date": "2026-07-04",
+      "area": 72.99,
+      "floor": "30",
+      "price": 84800
+    },
+    {
+      "date": "2026-07-04",
+      "area": 59.97,
+      "floor": "9",
+      "price": 71500
+    },
+    {
+      "date": "2026-07-01",
+      "area": 59.99,
+      "floor": "19",
+      "price": 69000
+    },
+    {
+      "date": "2026-06-29",
+      "area": 59.99,
+      "floor": "26",
+      "price": 69900
+    },
+    {
+      "date": "2026-06-29",
+      "area": 59.99,
+      "floor": "40",
+      "price": 69500
+    },
+    {
+      "date": "2026-06-29",
+      "area": 59.99,
+      "floor": "40",
+      "price": 69500
+    },
+    {
+      "date": "2026-06-27",
+      "area": 59.97,
+      "floor": "4",
+      "price": 69900
+    },
+    {
+      "date": "2026-06-27",
+      "area": 59.97,
+      "floor": "10",
+      "price": 72500
+    },
+    {
+      "date": "2026-06-24",
+      "area": 72.99,
+      "floor": "2",
+      "price": 71500
+    },
+    {
+      "date": "2026-06-24",
+      "area": 59.97,
+      "floor": "21",
+      "price": 72500
+    },
+    {
+      "date": "2026-06-24",
+      "area": 59.99,
+      "floor": "5",
+      "price": 67500
+    },
+    {
+      "date": "2026-06-24",
+      "area": 59.99,
+      "floor": "39",
+      "price": 67500
+    },
+    {
+      "date": "2026-06-24",
+      "area": 59.97,
+      "floor": "14",
+      "price": 72000
+    },
+    {
+      "date": "2026-06-22",
+      "area": 72.99,
+      "floor": "18",
+      "price": 83000
+    },
+    {
+      "date": "2026-06-19",
+      "area": 84.97,
+      "floor": "20",
+      "price": 91000
+    },
+    {
+      "date": "2026-06-16",
+      "area": 72.99,
+      "floor": "16",
+      "price": 79800
+    },
+    {
+      "date": "2026-06-13",
+      "area": 59.99,
+      "floor": "33",
+      "price": 68000
+    },
+    {
+      "date": "2026-06-12",
+      "area": 59.97,
+      "floor": "10",
+      "price": 72250
+    },
+    {
+      "date": "2026-06-11",
+      "area": 59.99,
+      "floor": "3",
+      "price": 63000
+    },
+    {
+      "date": "2026-06-09",
+      "area": 59.99,
+      "floor": "6",
+      "price": 66600
+    },
+    {
+      "date": "2026-06-09",
+      "area": 59.97,
+      "floor": "3",
+      "price": 69000
+    },
+    {
+      "date": "2026-06-06",
+      "area": 59.97,
+      "floor": "29",
+      "price": 71500
+    },
+    {
+      "date": "2026-06-06",
+      "area": 59.97,
+      "floor": "29",
+      "price": 71500
+    },
+    {
+      "date": "2026-06-06",
+      "area": 59.97,
+      "floor": "13",
+      "price": 66000
+    },
+    {
+      "date": "2026-06-05",
+      "area": 59.97,
+      "floor": "25",
+      "price": 72000
+    },
+    {
+      "date": "2026-06-05",
+      "area": 72.99,
+      "floor": "19",
+      "price": 82800
+    },
+    {
+      "date": "2026-06-04",
+      "area": 72.99,
+      "floor": "9",
+      "price": 79000
+    },
+    {
+      "date": "2026-05-30",
+      "area": 59.99,
+      "floor": "5",
+      "price": 67500
+    },
+    {
+      "date": "2026-05-30",
+      "area": 59.97,
+      "floor": "23",
+      "price": 74400
+    },
+    {
+      "date": "2026-05-29",
+      "area": 59.97,
+      "floor": "38",
+      "price": 75300
+    },
+    {
+      "date": "2026-05-28",
+      "area": 59.97,
+      "floor": "4",
+      "price": 64000
+    },
+    {
+      "date": "2026-05-28",
+      "area": 59.97,
+      "floor": "15",
+      "price": 69400
+    },
+    {
+      "date": "2026-05-25",
+      "area": 59.99,
+      "floor": "16",
+      "price": 64900
+    },
+    {
+      "date": "2026-05-25",
+      "area": 59.99,
+      "floor": "16",
+      "price": 69000
+    },
+    {
+      "date": "2026-05-24",
+      "area": 59.97,
+      "floor": "17",
+      "price": 67300
+    },
+    {
+      "date": "2026-05-23",
+      "area": 59.97,
+      "floor": "36",
+      "price": 68500
+    },
+    {
+      "date": "2026-05-23",
+      "area": 84.97,
+      "floor": "37",
+      "price": 86800
+    },
+    {
+      "date": "2026-05-16",
+      "area": 84.97,
+      "floor": "13",
+      "price": 90000
+    },
+    {
+      "date": "2026-05-16",
+      "area": 59.99,
+      "floor": "6",
+      "price": 66400
+    },
+    {
+      "date": "2026-05-16",
+      "area": 59.99,
+      "floor": "31",
+      "price": 64500
+    },
+    {
+      "date": "2026-05-16",
+      "area": 59.99,
+      "floor": "38",
+      "price": 67900
+    },
+    {
+      "date": "2026-05-15",
+      "area": 59.99,
+      "floor": "18",
+      "price": 63800
+    },
+    {
+      "date": "2026-05-14",
+      "area": 72.99,
+      "floor": "34",
+      "price": 79900
+    },
+    {
+      "date": "2026-05-13",
+      "area": 59.99,
+      "floor": "15",
+      "price": 66200
+    },
+    {
+      "date": "2026-05-12",
+      "area": 59.99,
+      "floor": "8",
+      "price": 67600
+    },
+    {
+      "date": "2026-05-12",
+      "area": 59.99,
+      "floor": "30",
+      "price": 65800
+    },
+    {
+      "date": "2026-05-11",
+      "area": 59.99,
+      "floor": "22",
+      "price": 68500
+    },
+    {
+      "date": "2026-05-07",
+      "area": 59.99,
+      "floor": "38",
+      "price": 67000
+    },
+    {
+      "date": "2026-05-05",
+      "area": 59.99,
+      "floor": "45",
+      "price": 66500
+    },
+    {
+      "date": "2026-05-05",
+      "area": 84.97,
+      "floor": "41",
+      "price": 87700
+    },
+    {
+      "date": "2026-05-04",
+      "area": 84.97,
+      "floor": "30",
+      "price": 85500
+    },
+    {
+      "date": "2026-05-04",
+      "area": 59.99,
+      "floor": "31",
+      "price": 66000
+    },
+    {
+      "date": "2026-05-01",
+      "area": 59.97,
+      "floor": "7",
+      "price": 67500
+    }
+  ],
   "listings": {
     "available": false,
     "count": 0,
@@ -9,83 +508,93 @@
   },
   "news": [
     {
-      "title": "보금자리론 등 대출지원 확대된 주거용 오피스텔 재조명… '영종 SK뷰' ...",
-      "link": "http://www.ikld.kr/news/articleView.html?idxno=341937",
+      "title": "“보안 100점” 신한은행서 정보 유출… 은행장 성과급 4억 원까지 도마",
+      "link": "https://n.news.naver.com/mnews/article/661/0000084623?sid=100",
+      "date": "Fri, 09 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "레버리지 ETF부터 ‘암살자(들)’까지…정무위 국감 여야 충돌",
+      "link": "https://n.news.naver.com/mnews/article/011/0004669696?sid=101",
+      "date": "Fri, 09 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "정무위 '레버리지 ETF' 공방…\"개미 약탈 게이트\"·\"음모론\"(종합2보)",
+      "link": "https://n.news.naver.com/mnews/article/001/0016367086?sid=100",
+      "date": "Fri, 09 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "이억원 \"대출규제 없었으면 집값 더 올랐을 것\"",
+      "link": "https://n.news.naver.com/mnews/article/052/0002416532?sid=101",
       "date": "Thu, 08 Oct 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[Who Is ?] 이은미 토스뱅크 대표이사 행장",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=448160",
+      "title": "與 \"신한은행 해킹 책임져야\"…野 '암살자(들)' 투자 지적(종합2보)",
+      "link": "https://n.news.naver.com/mnews/article/421/0009218632?sid=101",
       "date": "Thu, 08 Oct 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "국토부 장관 \"연말쯤 서울 집값 안정될 것… 수도권 착공 80%대 달성 전...",
-      "link": "https://n.news.naver.com/mnews/article/469/0000958262?sid=101",
-      "date": "Wed, 07 Oct 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "\"우대금리·거치기간 무슨 뜻?\"…한글날 풀어보는 금융 용어",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6941256",
+      "date": "Fri, 09 Oct 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "[벼랑 끝 저축은행, 길을 묻다 ②] M&A 물꼬 터진 업계…'대형화'·'새 주...",
-      "link": "https://www.goodkyung.com/news/articleView.html?idxno=292134",
-      "date": "Wed, 07 Oct 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "대출 한파 속 조건 완화 내건 '푸르지오 스타셀라49' 관심",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3051859",
+      "date": "Fri, 09 Oct 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "이춘석, 재경부 국감서 균형발전부터 민생까지 해법 제시",
-      "link": "http://www.jeollailbo.com/news/articleView.html?idxno=813063",
-      "date": "Wed, 07 Oct 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "서울서 아파트 살 때 빚, 역대 최저수준이라는데…[부동산AtoZ]",
+      "link": "https://n.news.naver.com/mnews/article/277/0005826513?sid=101",
+      "date": "Fri, 09 Oct 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[사설] 지방은행 찾는 高신용자들…고강도 대출총량 규제의 역설",
+      "link": "https://n.news.naver.com/mnews/article/015/0005340758?sid=110",
+      "date": "Fri, 09 Oct 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "도마에 오른 '널뛰기 대출규제'…이억원 \"가계부채 높아 총량관리 불가...",
+      "link": "https://n.news.naver.com/mnews/article/123/0002391543?sid=101",
+      "date": "Thu, 08 Oct 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[금융위 국감] 가계대출 총량 3%로 넓힌다…주택공급 금융 47.8조원+α",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727124",
+      "date": "Thu, 08 Oct 2026",
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "60대 신규 주택대출 62%는 ‘만기 30년 이상’",
       "link": "https://n.news.naver.com/mnews/article/023/0004002678?sid=101",
       "date": "Thu, 08 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "저축은행·새마을금고도 가계대출 증가세 전환",
-      "link": "https://n.news.naver.com/mnews/article/015/0005340244?sid=101",
-      "date": "Wed, 07 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "[단독] \"우리 회사가 낫네\"…요즘 직장인들에 인기 폭발한 사내 복지",
-      "link": "https://n.news.naver.com/mnews/article/015/0005340236?sid=101",
-      "date": "Wed, 07 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "[단독]소득 줄어든 은퇴기인데도…지난해 60대 이상 신규 주담대 60%는 ...",
-      "link": "https://n.news.naver.com/mnews/article/023/0004002505?sid=101",
-      "date": "Wed, 07 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "[사설] 대출 기준을 20개월새 149차례나 바꿀 정도로 은행들을 옥죄나",
-      "link": "https://n.news.naver.com/mnews/article/138/0002243855?sid=101",
-      "date": "Wed, 07 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "\"6억원 빌리면 월 440만원\" 주담대, 8% 시대 우려···차주 부담 경고등",
-      "link": "https://www.smartbizn.com/news/articleView.html?idxno=155719",
-      "date": "Wed, 07 Oct 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "월 440만원 내는데 원금은 고작 40만원…주담대 6억 첫 달의 진실",
-      "link": "https://n.news.naver.com/mnews/article/022/0004164606?sid=101",
-      "date": "Wed, 07 Oct 2026",
       "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "note",
-      "tag": "안정",
-      "text": "지난 확인 이후 신규 거래·변동 없음"
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-10-02 59㎡ 7층 6억 7,250만 실거래 등록"
+    },
+    {
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-09-13 59㎡ 24층 7억 4,400만 실거래 등록"
+    },
+    {
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-09-09 59㎡ 29층 7억 1,250만 실거래 등록"
     }
   ]
 }
