@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-09",
+  "asOf": "2026-10-10",
   "avg6mo": 69343,
   "trades": [
     {
@@ -508,6 +508,24 @@
   },
   "news": [
     {
+      "title": "KB증권, 10월 둘째주 HPSP 등 17종목 매수 추천",
+      "link": "https://www.bigtanews.co.kr/article/view/big202610090007",
+      "date": "Fri, 09 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "신협 부동산·건설업 대출 … 연체율 다시 두 자릿수로",
+      "link": "https://n.news.naver.com/mnews/article/009/0005746459?sid=101",
+      "date": "Fri, 09 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "[2026국감] 레버리지 ETF 놓고 격돌…野 \"개미 약탈 게이트\", 與 \"도입 불...",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713079",
+      "date": "Fri, 09 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "“보안 100점” 신한은행서 정보 유출… 은행장 성과급 4억 원까지 도마",
       "link": "https://n.news.naver.com/mnews/article/661/0000084623?sid=100",
       "date": "Fri, 09 Oct 2026",
@@ -520,81 +538,53 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "정무위 '레버리지 ETF' 공방…\"개미 약탈 게이트\"·\"음모론\"(종합2보)",
-      "link": "https://n.news.naver.com/mnews/article/001/0016367086?sid=100",
-      "date": "Fri, 09 Oct 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "\"지금도 집 사기 힘든데\"…주담대 6억→4억, 진짜 줄어들까",
+      "link": "https://n.news.naver.com/mnews/article/003/0014244071?sid=101",
+      "date": "Sat, 10 Oct 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "이억원 \"대출규제 없었으면 집값 더 올랐을 것\"",
-      "link": "https://n.news.naver.com/mnews/article/052/0002416532?sid=101",
-      "date": "Thu, 08 Oct 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "[집값 어디까지②] 전셋값 오르자 매매 고민…대출 문턱에 중저가로",
+      "link": "https://theviewers.co.kr/View.aspx?No=4255121",
+      "date": "Sat, 10 Oct 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "與 \"신한은행 해킹 책임져야\"…野 '암살자(들)' 투자 지적(종합2보)",
-      "link": "https://n.news.naver.com/mnews/article/421/0009218632?sid=101",
-      "date": "Thu, 08 Oct 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "\"우대금리·거치기간 무슨 뜻?\"…한글날 풀어보는 금융 용어",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6941256",
+      "title": "국민 대출은 조이라던 LH사장…직원 주택대출 810억, 정부 지침은 뒷전",
+      "link": "https://n.news.naver.com/mnews/article/022/0004165406?sid=101",
       "date": "Fri, 09 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "대출 한파 속 조건 완화 내건 '푸르지오 스타셀라49' 관심",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3051859",
+      "title": "은행 대출 막혔지만 보험사는 OK?…보험계약대출의 비밀 [최소한의 금융...",
+      "link": "https://n.news.naver.com/mnews/article/024/0000108814?sid=101",
       "date": "Fri, 09 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "서울서 아파트 살 때 빚, 역대 최저수준이라는데…[부동산AtoZ]",
-      "link": "https://n.news.naver.com/mnews/article/277/0005826513?sid=101",
+      "title": "집 있는 사람도, 없는 사람도 갇혔다…서울 덮친 '주거 포비아'",
+      "link": "https://n.news.naver.com/mnews/article/586/0000139680?sid=101",
       "date": "Fri, 09 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "[사설] 지방은행 찾는 高신용자들…고강도 대출총량 규제의 역설",
-      "link": "https://n.news.naver.com/mnews/article/015/0005340758?sid=110",
+      "title": "오르는 금리에 대출자 고민… 변동금리 쏠림 꺾이나",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171701",
       "date": "Fri, 09 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "도마에 오른 '널뛰기 대출규제'…이억원 \"가계부채 높아 총량관리 불가...",
-      "link": "https://n.news.naver.com/mnews/article/123/0002391543?sid=101",
-      "date": "Thu, 08 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "[금융위 국감] 가계대출 총량 3%로 넓힌다…주택공급 금융 47.8조원+α",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727124",
-      "date": "Thu, 08 Oct 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "60대 신규 주택대출 62%는 ‘만기 30년 이상’",
-      "link": "https://n.news.naver.com/mnews/article/023/0004002678?sid=101",
-      "date": "Thu, 08 Oct 2026",
+      "title": "\"10억 주고 샀는데 40억 됐다\"…강남 넘보는 '낡은 빌라촌' [이슬기의 새...",
+      "link": "https://n.news.naver.com/mnews/article/015/0005340800?sid=101",
+      "date": "Fri, 09 Oct 2026",
       "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-10-02 59㎡ 7층 6억 7,250만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-09-13 59㎡ 24층 7억 4,400만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-09-09 59㎡ 29층 7억 1,250만 실거래 등록"
+      "kind": "note",
+      "tag": "안정",
+      "text": "지난 확인 이후 신규 거래·변동 없음"
     }
   ]
 }
