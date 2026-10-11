@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-10",
+  "asOf": "2026-10-11",
   "avg6mo": 69343,
   "trades": [
     {
@@ -508,6 +508,18 @@
   },
   "news": [
     {
+      "title": "[2026 국감] 서민 출자금 빠지는 지역 신협…금융위, 정상화 대책 검토",
+      "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=34980",
+      "date": "Sat, 10 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "[정무위 국감] \"개미 약탈 게이트\" vs \"음모론\"…정무위, 레버리지 ETF 격...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=614036",
+      "date": "Sat, 10 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "KB증권, 10월 둘째주 HPSP 등 17종목 매수 추천",
       "link": "https://www.bigtanews.co.kr/article/view/big202610090007",
       "date": "Fri, 09 Oct 2026",
@@ -526,57 +538,45 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "“보안 100점” 신한은행서 정보 유출… 은행장 성과급 4억 원까지 도마",
-      "link": "https://n.news.naver.com/mnews/article/661/0000084623?sid=100",
-      "date": "Fri, 09 Oct 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "[韓경제 아킬레스건](18) 가계부채 2,000조 시대 : 세계 최고 수준의 위...",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=81616",
+      "date": "Sun, 11 Oct 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "레버리지 ETF부터 ‘암살자(들)’까지…정무위 국감 여야 충돌",
-      "link": "https://n.news.naver.com/mnews/article/011/0004669696?sid=101",
-      "date": "Fri, 09 Oct 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "\"10년 부은 통장도 깬다”…치솟는 분양가에 '청약 무용론' 확산[청약, ...",
+      "link": "https://n.news.naver.com/mnews/article/003/0014244617?sid=101",
+      "date": "Sun, 11 Oct 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "\"지금도 집 사기 힘든데\"…주담대 6억→4억, 진짜 줄어들까",
-      "link": "https://n.news.naver.com/mnews/article/003/0014244071?sid=101",
+      "title": "삼성전자 '5억 대출' 한 달…영통 집값 4.3% 상승 '경기 1위'",
+      "link": "https://n.news.naver.com/mnews/article/421/0009220056?sid=101",
+      "date": "Sun, 11 Oct 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "금관구 뛰고 강남3구 하락…서울 집값 연말 안정 '변수'",
+      "link": "https://n.news.naver.com/mnews/article/421/0009220052?sid=101",
+      "date": "Sun, 11 Oct 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[부동산 트렌드] 맞벌이해도 서울 집 멀어졌다…내 집 마련의 가혹한 현...",
+      "link": "http://www.sisacast.kr/news/articleView.html?idxno=100873",
       "date": "Sat, 10 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "[집값 어디까지②] 전셋값 오르자 매매 고민…대출 문턱에 중저가로",
-      "link": "https://theviewers.co.kr/View.aspx?No=4255121",
-      "date": "Sat, 10 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "국민 대출은 조이라던 LH사장…직원 주택대출 810억, 정부 지침은 뒷전",
-      "link": "https://n.news.naver.com/mnews/article/022/0004165406?sid=101",
-      "date": "Fri, 09 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "은행 대출 막혔지만 보험사는 OK?…보험계약대출의 비밀 [최소한의 금융...",
-      "link": "https://n.news.naver.com/mnews/article/024/0000108814?sid=101",
-      "date": "Fri, 09 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "집 있는 사람도, 없는 사람도 갇혔다…서울 덮친 '주거 포비아'",
-      "link": "https://n.news.naver.com/mnews/article/586/0000139680?sid=101",
-      "date": "Fri, 09 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "오르는 금리에 대출자 고민… 변동금리 쏠림 꺾이나",
-      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171701",
-      "date": "Fri, 09 Oct 2026",
+      "title": "대구시, '지방 주택시장 맞춤형 처방' 정부에 건의",
+      "link": "https://n.news.naver.com/mnews/article/001/0016368797?sid=102",
+      "date": "Sun, 11 Oct 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "\"10억 주고 샀는데 40억 됐다\"…강남 넘보는 '낡은 빌라촌' [이슬기의 새...",
-      "link": "https://n.news.naver.com/mnews/article/015/0005340800?sid=101",
-      "date": "Fri, 09 Oct 2026",
+      "title": "스트레스 DSR, 마통 2000만원이 주담대 5000만원 깎는다",
+      "link": "https://n.news.naver.com/mnews/article/088/0001033389?sid=101",
+      "date": "Sun, 11 Oct 2026",
       "keyword": "스트레스 DSR"
     }
   ],
