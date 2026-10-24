@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-23",
+  "asOf": "2026-10-24",
   "avg6mo": 69343,
   "trades": [
     {
@@ -508,93 +508,83 @@
   },
   "news": [
     {
-      "title": "금융위, 캐피탈 '렌털 빗장' 푼다…부동산·건설 대출은 업종별로 조인...",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=352828",
+      "title": "[투데이온] 7800억 토지비 족쇄 푼 신동빈의 뚝심…롯데, 호찌민에 '3조...",
+      "link": "https://www.the-today.com/news/articleView.html?idxno=92324",
+      "date": "Sat, 24 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "집값·임대료 지속 상승…시세 차익 보단 안정적 임대수익 노려볼 만[집...",
+      "link": "https://n.news.naver.com/mnews/article/011/0004674659?sid=101",
+      "date": "Sat, 24 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "금융위, 캐피탈사 부동산대출 합산한도 50% 신설…렌탈 규제는 완화",
+      "link": "http://sateconomy.co.kr/news/view/1065609208813318",
       "date": "Fri, 23 Oct 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "카드사, PG 결제위험 분기마다 평가…결과 따라 계약 해지 등 조치 의무",
-      "link": "https://www.raonnews.com/news/article.html?no=62134",
+      "title": "금융위, 캐피탈사 부동산·건설업 대출한도 신설…PF 포함 50% 제한 추진",
+      "link": "http://sateconomy.co.kr/news/view/1065608141447792",
       "date": "Fri, 23 Oct 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "부동산대출 조이고 렌탈 빗장 푼다…카드·캐피탈사 ‘체질 전환’",
-      "link": "https://www.sentv.co.kr/article/view/sentv202610230015",
+      "title": "여전사 부동산금융 50%로 제한…렌탈 규제는 완화",
+      "link": "https://www.sentv.co.kr/article/view/sentv202610230085",
       "date": "Fri, 23 Oct 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "돈 못 갚는 기업 늘고 환매 몰렸다…2.5조달러 美 사모신용의 ‘위험한...",
-      "link": "https://www.thepowernews.co.kr/view.php?ud=202610221502255361de3f0aa1be_7",
-      "date": "Fri, 23 Oct 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "[韓경제 아킬레스건](31) 자산 불평등 심화 : 부채가 찢어놓은 계층 이동...",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=81802",
+      "date": "Sat, 24 Oct 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "캐피탈사 렌터카 사업 확대 길 열려…금융위, 한도 규제 손질",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282108",
-      "date": "Fri, 23 Oct 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "대출 죄자 신용 양극화…저소득자 불법사금융 내몰려",
+      "link": "https://n.news.naver.com/mnews/article/353/0000057011?sid=102",
+      "date": "Sat, 24 Oct 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "은행법 개정 뒤 가산금리 인상·우대금리 축소…7개銀 대출한도 차감 공...",
-      "link": "https://www.fntimes.com/html/view.php?ud=2026102223162879651b5a221379_18",
+      "title": "\"대출 막혔는데 삼성맨은 5억\"…사내대출 1조 원 넘는다는데 이를 어찌...",
+      "link": "https://n.news.naver.com/mnews/article/057/0001974909?sid=101",
       "date": "Fri, 23 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "레버리지 ETF '누가 결정했나'…세 차례 국감에도 결론 없이 마무리",
-      "link": "https://www.raonnews.com/news/article.html?no=62130",
+      "title": "가계대출 넘어 기업금융으로··· 우리·농협은행, 성장 동력 바꾼다",
+      "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307811",
       "date": "Fri, 23 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "여전사 부동산·건설업 대출 자산 30% 내로 제한",
-      "link": "https://n.news.naver.com/mnews/article/016/0002713258?sid=101",
+      "title": "\"15억 넘으면 대출 못 받나\"…되풀이되는 규제설에 매수자 혼선",
+      "link": "https://www.newspim.com/news/view/20261023001197",
       "date": "Fri, 23 Oct 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "대출 잠갔다 풀었다…총량제의 불편한 민낯 [기자수첩-금융]",
-      "link": "https://n.news.naver.com/mnews/article/119/0003145988?sid=101",
-      "date": "Fri, 23 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "2021~2022년 영끌 매수자들, 이자 부담 2배 급증 한계 내몰린다",
-      "link": "https://n.news.naver.com/mnews/article/023/0004005516?sid=101",
-      "date": "Fri, 23 Oct 2026",
-      "keyword": "DSR 규제"
+      "title": "신용점수 높은데 대출 거절?…은행이 보는 건 따로 있다",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6942103",
+      "date": "Sat, 24 Oct 2026",
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "단종레·부동산·해킹·이자장사…금융 국감이 남긴 숙제",
       "link": "https://news.mtn.co.kr/article/2026102217284317410",
       "date": "Thu, 22 Oct 2026",
       "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "대구 아파트 매매 보합·전세 상승…35개월 하락 멈춘 뒤 혼조세",
-      "link": "https://www.idaegu.com/news/articleView.html?idxno=666440",
-      "date": "Thu, 22 Oct 2026",
-      "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-10-02 59㎡ 7층 6억 7,250만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-09-13 59㎡ 24층 7억 4,400만 실거래 등록"
-    },
-    {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-09-09 59㎡ 29층 7억 1,250만 실거래 등록"
+      "kind": "note",
+      "tag": "안정",
+      "text": "지난 확인 이후 신규 거래·변동 없음"
     }
   ]
 }
