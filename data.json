@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-29",
+  "asOf": "2026-10-30",
   "avg6mo": 69337,
   "trades": [
     {
@@ -514,6 +514,18 @@
   },
   "news": [
     {
+      "title": "상호금융 부실 현실화…청주 한 신협 30억 손실 확정",
+      "link": "https://n.news.naver.com/mnews/article/031/0001070600?sid=102",
+      "date": "Thu, 29 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "군포 ‘트리아츠’ 중도금 1000억 만기 내년 4월로 연장",
+      "link": "https://www.smarttoday.co.kr/ko-kr/articles/113279",
+      "date": "Thu, 29 Oct 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "[만나보니] [넥스체인지] 정유신 대표 \"조각투자 유통 인프라 구축…토...",
       "link": "https://news.dealsitetv.com/articles/177695",
       "date": "Thu, 29 Oct 2026",
@@ -532,20 +544,32 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "여신전문금융사 부동산·건설 대출 한도 각각 30% 신설",
-      "link": "https://www.tokenpost.kr/news/policy/426389",
-      "date": "Wed, 28 Oct 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "\"서울 아파트 가장 싸게 사려면\"...2030 줄서는 경매장[집 나와라 뚝딱!...",
+      "link": "https://n.news.naver.com/mnews/article/014/0005596844?sid=101",
+      "date": "Fri, 30 Oct 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "고강도 대출 규제에…인구이동 53년來 최저",
-      "link": "https://n.news.naver.com/mnews/article/011/0004676127?sid=101",
-      "date": "Wed, 28 Oct 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "돈 빌릴 마지막 카드…예금담보·보험 대출 확 늘어",
+      "link": "https://n.news.naver.com/mnews/article/025/0003561594?sid=101",
+      "date": "Fri, 30 Oct 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "대출 막힌 금융 취약계층, 불법사금융으로 내몰린다",
-      "link": "http://www.kwangju.co.kr/article.php?aid=1793228400804804006",
+      "title": "‘주담대’ 뛰어든 인뱅… 기존 차주까지 고객 확대",
+      "link": "https://n.news.naver.com/mnews/article/022/0004170933?sid=101",
+      "date": "Thu, 29 Oct 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "‘무규제 대출’의 역습…폭증한 예담대, ‘빚투’로? 증시 폭락 시 위...",
+      "link": "https://n.news.naver.com/mnews/article/025/0003561519?sid=101",
+      "date": "Thu, 29 Oct 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "교통·수요 '탄탄'한 단지로 … 하락기때도 팔릴 집 매수를",
+      "link": "https://n.news.naver.com/mnews/article/009/0005756172?sid=101",
       "date": "Thu, 29 Oct 2026",
       "keyword": "DSR 규제"
     },
@@ -553,49 +577,20 @@
       "title": "[르포] 노원 상계주공 가보니 “퇴거 대출 꽉 막혀… 세 낀 매물 안 팔려...",
       "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610270439547160235",
       "date": "Thu, 29 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "'균형 발전' 외치지만 지방은 잔금 마련도 깜깜… 입주 못 해 발 동동",
-      "link": "https://n.news.naver.com/mnews/article/469/0000962189?sid=101",
-      "date": "Wed, 28 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "삼성전자 1.5% 사내대출 시행 후 동탄 집값 상승… 19조 투자 천안도 주...",
-      "link": "https://n.news.naver.com/mnews/article/366/0001200964?sid=101",
-      "date": "Wed, 28 Oct 2026",
-      "keyword": "DSR 규제"
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "토스뱅크, 주담대 출사표…대손 부담 '과제'",
       "link": "https://www.kbanker.co.kr/news/articleView.html?idxno=226285",
-      "date": "Wed, 28 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "목동 30평대 줄줄이 30억 뚫어 … 강서·은평 非강남도 20억이 '뉴노멀'",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800107.html",
-      "date": "Wed, 28 Oct 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "수도권 비규제지역 아파트 단지... '수원이목지구 디에트르 더 리체' 눈...",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3052523",
       "date": "Wed, 28 Oct 2026",
       "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "up",
-      "tag": "신규 거래",
-      "text": "2026-10-27 59㎡ 22층 6억 9,000만 실거래 등록"
-    },
-    {
-      "kind": "down",
-      "tag": "평균 ▼",
-      "text": "59㎡ 6개월 평균 6억 9,343만 → 6억 9,337만 (-6만)"
+      "kind": "note",
+      "tag": "안정",
+      "text": "지난 확인 이후 신규 거래·변동 없음"
     }
   ]
 }
