@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-31",
-  "avg6mo": 69337,
+  "asOf": "2026-11-01",
+  "avg6mo": 70244,
   "trades": [
     {
       "date": "2026-10-27",
@@ -349,162 +349,6 @@
       "area": 72.99,
       "floor": "9",
       "price": 79000
-    },
-    {
-      "date": "2026-05-30",
-      "area": 59.99,
-      "floor": "5",
-      "price": 67500
-    },
-    {
-      "date": "2026-05-30",
-      "area": 59.97,
-      "floor": "23",
-      "price": 74400
-    },
-    {
-      "date": "2026-05-29",
-      "area": 59.97,
-      "floor": "38",
-      "price": 75300
-    },
-    {
-      "date": "2026-05-28",
-      "area": 59.97,
-      "floor": "4",
-      "price": 64000
-    },
-    {
-      "date": "2026-05-28",
-      "area": 59.97,
-      "floor": "15",
-      "price": 69400
-    },
-    {
-      "date": "2026-05-25",
-      "area": 59.99,
-      "floor": "16",
-      "price": 64900
-    },
-    {
-      "date": "2026-05-25",
-      "area": 59.99,
-      "floor": "16",
-      "price": 69000
-    },
-    {
-      "date": "2026-05-24",
-      "area": 59.97,
-      "floor": "17",
-      "price": 67300
-    },
-    {
-      "date": "2026-05-23",
-      "area": 59.97,
-      "floor": "36",
-      "price": 68500
-    },
-    {
-      "date": "2026-05-23",
-      "area": 84.97,
-      "floor": "37",
-      "price": 86800
-    },
-    {
-      "date": "2026-05-16",
-      "area": 84.97,
-      "floor": "13",
-      "price": 90000
-    },
-    {
-      "date": "2026-05-16",
-      "area": 59.99,
-      "floor": "6",
-      "price": 66400
-    },
-    {
-      "date": "2026-05-16",
-      "area": 59.99,
-      "floor": "31",
-      "price": 64500
-    },
-    {
-      "date": "2026-05-16",
-      "area": 59.99,
-      "floor": "38",
-      "price": 67900
-    },
-    {
-      "date": "2026-05-15",
-      "area": 59.99,
-      "floor": "18",
-      "price": 63800
-    },
-    {
-      "date": "2026-05-14",
-      "area": 72.99,
-      "floor": "34",
-      "price": 79900
-    },
-    {
-      "date": "2026-05-13",
-      "area": 59.99,
-      "floor": "15",
-      "price": 66200
-    },
-    {
-      "date": "2026-05-12",
-      "area": 59.99,
-      "floor": "8",
-      "price": 67600
-    },
-    {
-      "date": "2026-05-12",
-      "area": 59.99,
-      "floor": "30",
-      "price": 65800
-    },
-    {
-      "date": "2026-05-11",
-      "area": 59.99,
-      "floor": "22",
-      "price": 68500
-    },
-    {
-      "date": "2026-05-07",
-      "area": 59.99,
-      "floor": "38",
-      "price": 67000
-    },
-    {
-      "date": "2026-05-05",
-      "area": 59.99,
-      "floor": "45",
-      "price": 66500
-    },
-    {
-      "date": "2026-05-05",
-      "area": 84.97,
-      "floor": "41",
-      "price": 87700
-    },
-    {
-      "date": "2026-05-04",
-      "area": 84.97,
-      "floor": "30",
-      "price": 85500
-    },
-    {
-      "date": "2026-05-04",
-      "area": 59.99,
-      "floor": "31",
-      "price": 66000
-    },
-    {
-      "date": "2026-05-01",
-      "area": 59.97,
-      "floor": "7",
-      "price": 67500
     }
   ],
   "listings": {
@@ -513,6 +357,12 @@
     "items": []
   },
   "news": [
+    {
+      "title": "'반세기' 넘긴 SBI저축은행...새 이름 ‘교보SBI’ 달고 체질 개선 ' 재도...",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=228839",
+      "date": "Sun, 01 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
     {
       "title": "금감원 \"매칭조정 승인 기준 내년쯤 마련\"…보험사 자본 부담 던다",
       "link": "https://n.news.naver.com/mnews/article/421/0009261698?sid=101",
@@ -538,10 +388,16 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[3Q 실적] 케이뱅크, 기업대출 키워 순익 두 배…건전성은 ‘숙제’",
-      "link": "https://www.tfmedia.co.kr/news/article.html?no=208512",
-      "date": "Fri, 30 Oct 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "비트코인이 미국 주택담보대출에 '뒷문'으로 들어갔다",
+      "link": "https://n.news.naver.com/mnews/article/008/0005434651?sid=104",
+      "date": "Sun, 01 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[사는 곳이 계급인 나라⑭-지방은 안중에 없는 부동산 정책] ‘과열-침...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20261031026406066",
+      "date": "Sat, 31 Oct 2026",
+      "keyword": "DSR 규제"
     },
     {
       "title": "[부동산사용설명서] 14억 아파트, 대출은 4억?…한도 기준은 '감정가'",
@@ -559,19 +415,7 @@
       "title": "침체 빠진 지방 부동산… ‘스트레스 DSR 3단계’ 시행 또 유예되나",
       "link": "https://n.news.naver.com/mnews/article/366/0001201661?sid=101",
       "date": "Sat, 31 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "인뱅 3사 주담대 시대…고객 잡을 차별점은",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1318660&inflow=N",
-      "date": "Fri, 30 Oct 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "삼성 19조원 투자 추진 천안 성성동 인근…‘더샵 천안라크원’ 11월 분...",
-      "link": "https://n.news.naver.com/mnews/article/241/0003538242?sid=101",
-      "date": "Fri, 30 Oct 2026",
-      "keyword": "DSR 규제"
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "[르포] 노원 상계주공 가보니 “퇴거 대출 꽉 막혀… 세 낀 매물 안 팔려...",
@@ -588,9 +432,9 @@
   ],
   "alerts": [
     {
-      "kind": "note",
-      "tag": "안정",
-      "text": "지난 확인 이후 신규 거래·변동 없음"
+      "kind": "up",
+      "tag": "평균 ▲",
+      "text": "59㎡ 6개월 평균 6억 9,337만 → 7억 244만 (+907만)"
     }
   ]
 }
