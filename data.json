@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-01",
+  "asOf": "2026-11-02",
   "avg6mo": 70244,
   "trades": [
     {
@@ -358,6 +358,24 @@
   },
   "news": [
     {
+      "title": "시중은행 대출 정체 속 카뱅 45% 성장…개인사업자 170만 확보",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2120912",
+      "date": "Mon, 02 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "“부동산 중심 지역경제의 구조적 문제… 개인 노력만으론 못 막아” [...",
+      "link": "https://n.news.naver.com/mnews/article/082/0001405072?sid=102",
+      "date": "Sun, 01 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "새 주인 맞는 저축은행…보험사·핀테크까지 인수전",
+      "link": "https://n.news.naver.com/mnews/article/422/0000921676?sid=101",
+      "date": "Sun, 01 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "'반세기' 넘긴 SBI저축은행...새 이름 ‘교보SBI’ 달고 체질 개선 ' 재도...",
       "link": "https://www.youthdaily.co.kr/news/article.html?no=228839",
       "date": "Sun, 01 Nov 2026",
@@ -370,22 +388,10 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "케이뱅크 \"내년 SOHO대출 2조 이상 순증…법인대출도 개시\"",
-      "link": "https://dealsite.co.kr/articles/171785",
-      "date": "Fri, 30 Oct 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "기업대출이 성장 견인...케이뱅크, 3분기 순이익 119% 급증",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=229159",
-      "date": "Fri, 30 Oct 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "산업 생태계 발전 위한 금융자본의 올바른 역할은?…\"규모보다 지속가능...",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=755543",
-      "date": "Fri, 30 Oct 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "[민병설의 하이리스크] 경기는 성장하는데 사장님 통장은 왜 '텅장'인가",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=190224",
+      "date": "Mon, 02 Nov 2026",
+      "keyword": "DSR 규제"
     },
     {
       "title": "비트코인이 미국 주택담보대출에 '뒷문'으로 들어갔다",
@@ -409,7 +415,7 @@
       "title": "[외곽으로 내몰린 2030上] 월급보다 빨리 오른 집값···서울 청년, '내...",
       "link": "https://www.seoulfn.com/news/articleView.html?idxno=641349",
       "date": "Sat, 31 Oct 2026",
-      "keyword": "DSR 규제"
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "침체 빠진 지방 부동산… ‘스트레스 DSR 3단계’ 시행 또 유예되나",
@@ -422,19 +428,13 @@
       "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610270439547160235",
       "date": "Thu, 29 Oct 2026",
       "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "토스뱅크, 주담대 출사표…대손 부담 '과제'",
-      "link": "https://www.kbanker.co.kr/news/articleView.html?idxno=226285",
-      "date": "Wed, 28 Oct 2026",
-      "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "up",
-      "tag": "평균 ▲",
-      "text": "59㎡ 6개월 평균 6억 9,337만 → 7억 244만 (+907만)"
+      "kind": "note",
+      "tag": "안정",
+      "text": "지난 확인 이후 신규 거래·변동 없음"
     }
   ]
 }
