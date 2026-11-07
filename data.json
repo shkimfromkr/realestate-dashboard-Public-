@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-06",
+  "asOf": "2026-11-07",
   "avg6mo": 70277,
   "trades": [
     {
@@ -382,6 +382,12 @@
   },
   "news": [
     {
+      "title": "쿠시먼, 獨·英 등 유럽 고위 임원급 대거 영입…韓 자문 확대",
+      "link": "https://n.news.naver.com/mnews/article/277/0005839143?sid=101",
+      "date": "Fri, 06 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "푸른저축은행, ABL타워 SI 참여…부실여신 관리는 숙제",
       "link": "https://news.dealsitetv.com/articles/178028",
       "date": "Fri, 06 Nov 2026",
@@ -406,20 +412,20 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "개인사업자대출로 성장한 카카오뱅크…충당금 부담에 수익성 시험대",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501323",
-      "date": "Wed, 04 Nov 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "\"현금 3억이면 서울 아파트 산다고?\"…실제로 따져보니",
-      "link": "https://n.news.naver.com/mnews/article/018/0006404861?sid=101",
+      "title": "고금리 가계대출 비중 1년 새 4배…취약차주 상환 부담 커진다",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1422683",
       "date": "Fri, 06 Nov 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "보금자리론 10년 만기도 첫 5%대… 올해만 1.35%p 올랐다",
-      "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31995",
+      "title": "제11기 정비사업 실무 아카데미 10, 11강 | \"공적 보증·예외 조항 등 활...",
+      "link": "https://www.arunews.com/news/articleView.html?idxno=69174",
+      "date": "Fri, 06 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "\"현금 3억이면 서울 아파트 산다고?\"…실제로 따져보니",
+      "link": "https://n.news.naver.com/mnews/article/018/0006404861?sid=101",
       "date": "Fri, 06 Nov 2026",
       "keyword": "DSR 규제"
     },
@@ -430,8 +436,8 @@
       "keyword": "DSR 규제"
     },
     {
-      "title": "'분양가 25%만 내고 입주' 공공 지분적립형 아파트…실수요자 단비될까",
-      "link": "https://n.news.naver.com/mnews/article/014/0005600315?sid=101",
+      "title": "보금자리론 10년 만기도 첫 5%대… 올해만 1.35%p 올랐다",
+      "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31995",
       "date": "Fri, 06 Nov 2026",
       "keyword": "DSR 규제"
     },
@@ -439,17 +445,11 @@
       "title": "금리 오르면 집값 폭락?…절반만 맞다 [더 머니이스트-심형석의 부동산...",
       "link": "https://n.news.naver.com/mnews/article/015/0005350974?sid=101",
       "date": "Fri, 06 Nov 2026",
-      "keyword": "DSR 규제"
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "대출 규제·고금리 속 ‘경기 아파트’ 독주… 서울 2배 상승률 기록",
       "link": "https://www.kgnews.co.kr/news/article.html?no=918363",
-      "date": "Thu, 05 Nov 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "‘노원구’ 거래량 54% 급증…‘마용성’은 58% 급감",
-      "link": "https://n.news.naver.com/mnews/article/016/0002719255?sid=101",
       "date": "Thu, 05 Nov 2026",
       "keyword": "스트레스 DSR"
     }
