@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-08",
+  "asOf": "2026-11-09",
   "avg6mo": 70277,
   "trades": [
     {
@@ -382,63 +382,63 @@
   },
   "news": [
     {
-      "title": "인뱅 3사, 새 먹거리 찾기 분주…대출 영역 넓히고 신규 고객 공략",
-      "link": "https://www.kukinews.com/article/view/kuk202611060165",
+      "title": "생산적 금융의 역설?…저축은행, 대기업 대출 50% 급증",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=208728",
+      "date": "Mon, 09 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "저축은행, 대·중견기업 대출 첫 5조↑…서민·中企 대출은 감소",
+      "link": "https://www.jasm.co.kr/news/view/324634/?sc=Naver",
+      "date": "Mon, 09 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "저축은행 '대·중견기업 대출' 잔액, 첫 5조원 돌파…1년 새 50%↑",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=285491",
+      "date": "Mon, 09 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "가계대출 막히자 기업으로…저축은행, 대기업 대출 첫 5조원 돌파",
+      "link": "https://n.news.naver.com/mnews/article/029/0003057839?sid=101",
+      "date": "Mon, 09 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "저축은행 대기업 대출 1년 새 50%↑…중소기업은 '찬바람'",
+      "link": "https://n.news.naver.com/mnews/article/119/0003152702?sid=101",
+      "date": "Mon, 09 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "서울 아파트 59㎡는 오르고 84㎡는 내려…가격차 1억7천만원",
+      "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=318881",
+      "date": "Mon, 09 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "서울 아파트 84㎡·59㎡ 가격차 1억7000만원 밑으로…대출 규제에 소형 ...",
+      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=67338",
+      "date": "Mon, 09 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[낙찰 후 재경매 급증] 자금조달 실패ㆍ권리분석 착오… 입찰보증금 수...",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611080538589040069",
+      "date": "Mon, 09 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "고정형 금리 내리고 대출도 일부 재개…연말 주담대 '반쪽 숨통'",
+      "link": "https://www.ajunews.com/view/20261108145620599",
       "date": "Sun, 08 Nov 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "고용·가계대출 동향은...美 10월 물가 촉각[한동훈의 위클리전망대]",
-      "link": "https://n.news.naver.com/mnews/article/011/0004679778?sid=101",
-      "date": "Sun, 08 Nov 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "쿠시먼, 獨·英 등 유럽 고위 임원급 대거 영입…韓 자문 확대",
-      "link": "https://n.news.naver.com/mnews/article/277/0005839143?sid=101",
-      "date": "Fri, 06 Nov 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "푸른저축은행, ABL타워 SI 참여…부실여신 관리는 숙제",
-      "link": "https://news.dealsitetv.com/articles/178028",
-      "date": "Fri, 06 Nov 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "카카오뱅크 여신 성장 이끈 '사장님'…다음은 법인금융",
-      "link": "http://www.press9.kr/news/articleView.html?idxno=85675",
-      "date": "Thu, 05 Nov 2026",
-      "keyword": "부동산 대출 규제"
+      "keyword": "DSR 규제"
     },
     {
       "title": "[머니톡스] 강북도 하락 전이…'영끌족'의 딜레마",
       "link": "https://n.news.naver.com/mnews/article/001/0016428494?sid=101",
       "date": "Sun, 08 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "연말 '대출 셧다운' 걱정 덜었지만… 은행별 한도·조건은 제각각",
-      "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000425",
-      "date": "Sun, 08 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "고금리 가계대출 비중 1년 새 4배…취약차주 상환 부담 커진다",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1422683",
-      "date": "Fri, 06 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "제11기 정비사업 실무 아카데미 10, 11강 | \"공적 보증·예외 조항 등 활...",
-      "link": "https://www.arunews.com/news/articleView.html?idxno=69174",
-      "date": "Fri, 06 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "\"현금 3억이면 서울 아파트 산다고?\"…실제로 따져보니",
-      "link": "https://n.news.naver.com/mnews/article/018/0006404861?sid=101",
-      "date": "Fri, 06 Nov 2026",
       "keyword": "DSR 규제"
     },
     {
