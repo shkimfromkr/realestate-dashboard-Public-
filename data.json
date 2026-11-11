@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-10",
+  "asOf": "2026-11-11",
   "avg6mo": 70277,
   "trades": [
     {
@@ -382,34 +382,40 @@
   },
   "news": [
     {
-      "title": "금융硏 \"내년 한국경제 3.1% 성장 … 경상수지 흑자 기조 지속\"",
-      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=133845",
+      "title": "'유명무실' 보험사 매칭조정 손본다…내년 승인 기준 마련",
+      "link": "https://n.news.naver.com/mnews/article/421/0009282188?sid=101",
+      "date": "Wed, 11 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "구글 보증도 튕겨낸 자금 한파…AI 부채 팽창에 빗장 걸어 잠근 금융가",
+      "link": "https://www.g-enews.com/view.php?ud=202611101856275917fda4f5ab74_1",
+      "date": "Wed, 11 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "내년 보험사 기본자본 킥스비율 도입에…\"자본 적정성 관리 체계 구축 ...",
+      "link": "https://www.fntimes.com/html/view.php?ud=2026111015495460498a55064dd1_18",
       "date": "Tue, 10 Nov 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "한국경제 내년 3.1% 성장 전망…AI 투자 흔들리면 충격 우려",
-      "link": "https://www.thepowernews.co.kr/view.php?ud=202611101058368323de3f0aa1be_7",
+      "title": "[현장] 금융硏 “내년 생보 성장 정체·손보 수익 개선 전망…중소형사...",
+      "link": "https://www.ceoscoredaily.com/page/view/2026111015312664478",
       "date": "Tue, 10 Nov 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "금융연 “내년 성장률 3.1% 전망…증시 상반기 AI 우려 해소 후 하반기 ...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002721301?sid=101",
+      "title": "자영업자 부실 커지는데…은행권 개인사업자 대출 전략 엇갈려",
+      "link": "https://www.news2day.co.kr/article/20261110500254",
       "date": "Tue, 10 Nov 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "“내년 3.1% 성장” 한국경제… 일자리는 제자리, 금리 더 오른다",
-      "link": "https://n.news.naver.com/mnews/article/661/0000086383?sid=101",
+      "title": "[자본시장포커스] \"연금은 증시, 대출은 집\"…퇴직연금 담보대출 '이중...",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7192544",
       "date": "Tue, 10 Nov 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "내년 한국 경제 3.1% 성장 전망...반도체 수출·내수 회복 기대",
-      "link": "https://www.m-economynews.com/news/article.html?no=72812",
-      "date": "Tue, 10 Nov 2026",
-      "keyword": "부동산 대출 규제"
+      "keyword": "DSR 규제"
     },
     {
       "title": "KB 상환조건부 주담대 축소 ‘풍선효과’",
@@ -436,20 +442,14 @@
       "keyword": "DSR 규제"
     },
     {
-      "title": "11월 4.4만가구 쏟아져도…청약통장은 '분상제·1군'에만 꽂힌다",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325296",
-      "date": "Mon, 09 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
       "title": "사랑만큼 무거운 대출족쇄… 유주택 신혼 87% 빚더미",
       "link": "https://m.skyedaily.com/news_view.html?ID=314306",
       "date": "Mon, 09 Nov 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "[기자수첩] 주담대 규제, 조이는 것만이 능사인가",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=2016057",
+      "title": "11월 4.4만가구 쏟아져도…청약통장은 '분상제·1군'에만 꽂힌다",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325296",
       "date": "Mon, 09 Nov 2026",
       "keyword": "스트레스 DSR"
     }
