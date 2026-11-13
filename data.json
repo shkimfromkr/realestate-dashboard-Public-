@@ -1,7 +1,13 @@
 {
-  "asOf": "2026-11-12",
+  "asOf": "2026-11-13",
   "avg6mo": 70277,
   "trades": [
+    {
+      "date": "2026-11-11",
+      "area": 72.99,
+      "floor": "12",
+      "price": 82000
+    },
     {
       "date": "2026-10-27",
       "area": 59.99,
@@ -382,75 +388,75 @@
   },
   "news": [
     {
+      "title": "[상호금융 진단] [신협] ①신용대출 비중 3%, 사실상 '부협'?",
+      "link": "https://www.topdaily.kr/articles/112841",
+      "date": "Fri, 13 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "2026년 UAE 금융산업 정보",
+      "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=200&CONTENTS_NO=1&bbsGbn=403&bbsSn=403&pNttSn=245080",
+      "date": "Fri, 13 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "가계대출 막히자 기업금융으로…인뱅, 소호대출 확대 속도",
+      "link": "https://n.news.naver.com/mnews/article/119/0003154654?sid=101",
+      "date": "Fri, 13 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "기업대출 늘어도 시설투자는 뒷걸음…부동산·운전자금에 머문 자금",
+      "link": "https://www.ajunews.com/view/20261109135113411",
+      "date": "Fri, 13 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "‘빚내서 집 사라’ 최경환, 李 정책 직격 “시장 이기는 정부 없다”",
       "link": "https://n.news.naver.com/mnews/article/024/0000109574?sid=102",
       "date": "Thu, 12 Nov 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "'빚내서 집 사라'던 최경환…\"李 정부 부동산 정책, 미친 규제\"",
-      "link": "https://n.news.naver.com/mnews/article/448/0000650532?sid=100",
-      "date": "Thu, 12 Nov 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "서울 집값 상승 주춤하자 대출지수 '뚝'…4개월 연속 하락",
+      "link": "https://n.news.naver.com/mnews/article/421/0009287571?sid=101",
+      "date": "Fri, 13 Nov 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "‘올드보이’ 최경환, ‘우주대스타’ 만든 이재명정부 [오늘의 여의도...",
-      "link": "https://n.news.naver.com/mnews/article/018/0006408528?sid=100",
-      "date": "Thu, 12 Nov 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "경기 아파트값 상승률 8주 연속 서울 앞서…'수원이목지구 디에트르 더...",
+      "link": "https://www.rcast.co.kr/news/articleView.html?idxno=32054",
+      "date": "Fri, 13 Nov 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "1.5% 금리 막는다?…“X같네” 삼성맨 뒤집힌 사내대출 규제",
-      "link": "https://n.news.naver.com/mnews/article/025/0003564618?sid=100",
-      "date": "Thu, 12 Nov 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "5대 은행 6억원 이상 주택대출 임직원 235명 달해… 전체 임직원 대출의...",
+      "link": "https://www.jasm.co.kr/news/view/325164/?sc=Naver",
+      "date": "Fri, 13 Nov 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "여권 내 부동산 갑론을박 계속...국힘은 틈새 공세",
-      "link": "https://n.news.naver.com/mnews/article/052/0002431582?sid=100",
-      "date": "Wed, 11 Nov 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "“주식으로 잃은 돈 한방에 벌자” 연차 내고 경매 법정 가는 2030",
+      "link": "https://n.news.naver.com/mnews/article/023/0004009373?sid=102",
+      "date": "Fri, 13 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "차맵, 유튜버 '우파TV' 손잡고 '2027 디 올 뉴 아반떼' 한정수량 이벤트...",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=56315",
+      "date": "Thu, 12 Nov 2026",
+      "keyword": "DSR 규제"
     },
     {
       "title": "집값 대세 하락장 오나… 꽁꽁 얼어붙은 매수세에 강남 집주인들 '발동...",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3749739",
       "date": "Thu, 12 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "가계대출 총량제 변화 맞나…'폐지 vs 개선' 갈림길",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444346",
-      "date": "Thu, 12 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "카드사, '울며겨자 먹기' 중금리대출 늘리지만···조달비용·연체율 '...",
-      "link": "https://www.seoulfn.com/news/articleView.html?idxno=642535",
-      "date": "Thu, 12 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "민주당의 부동산 실용주의? “비거주 1주택 차별 철폐”로 청와대와 맞...",
-      "link": "https://slownews.kr/169407",
-      "date": "Thu, 12 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "충북 가계대출 증가율 전국 2위… 취약차주 연체율 '빨간불'",
-      "link": "https://www.dynews.co.kr/news/articleView.html?idxno=873650",
-      "date": "Wed, 11 Nov 2026",
-      "keyword": "DSR 규제"
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "신한금융, ROE 10% 보인다 … \"올해 결산배당 늘 것\"",
       "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61303",
       "date": "Wed, 11 Nov 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "사랑만큼 무거운 대출족쇄… 유주택 신혼 87% 빚더미",
-      "link": "https://m.skyedaily.com/news_view.html?ID=314306",
-      "date": "Mon, 09 Nov 2026",
       "keyword": "스트레스 DSR"
     }
   ],
