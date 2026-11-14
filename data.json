@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-13",
+  "asOf": "2026-11-14",
   "avg6mo": 70277,
   "trades": [
     {
@@ -388,38 +388,62 @@
   },
   "news": [
     {
+      "title": "초유의 금융보안원 해킹 사태에 \"스스로도 못 지키면서 훈계만 한 셈\"",
+      "link": "https://n.news.naver.com/mnews/article/006/0000138734?sid=102",
+      "date": "Fri, 13 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "미국 상업용 부동산 시장, AI·공급망 재편에 자산별 수요 차별화",
+      "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=110&CONTENTS_NO=1&bbsGbn=245&bbsSn=245&pNttSn=245173",
+      "date": "Fri, 13 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "[라이프&경제] 나는 얼마짜리 집을 살 수 있을까?",
+      "link": "https://www.hangyo.com/news/article.html?no=110049",
+      "date": "Fri, 13 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "공정위 180억 제재에 중흥건설 반론...\"PF 관행 무시한 소급 적용\" 주장",
+      "link": "http://www.lkp.news/news/articleView.html?idxno=86098",
+      "date": "Fri, 13 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "[상호금융 진단] [신협] ①신용대출 비중 3%, 사실상 '부협'?",
       "link": "https://www.topdaily.kr/articles/112841",
       "date": "Fri, 13 Nov 2026",
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "2026년 UAE 금융산업 정보",
-      "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=200&CONTENTS_NO=1&bbsGbn=403&bbsSn=403&pNttSn=245080",
+      "title": "[윤준의 부동산수첩] 집값 안정인가, 거래 정지인가",
+      "link": "https://www.nbntv.kr/news/articleView.html?idxno=341079",
+      "date": "Sat, 14 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "시세차익 따라 갈린 수도권 청약…5241가구 정당계약 시험대",
+      "link": "https://www.g-enews.com/view.php?ud=2026111310100171412aa6f4cdad_1",
+      "date": "Sat, 14 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "AI 데이터센터가 바꾼 철강주 판도…특수강 강세 속 대형주는 혼조",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503962",
       "date": "Fri, 13 Nov 2026",
-      "keyword": "부동산 대출 규제"
+      "keyword": "DSR 규제"
     },
     {
-      "title": "가계대출 막히자 기업금융으로…인뱅, 소호대출 확대 속도",
-      "link": "https://n.news.naver.com/mnews/article/119/0003154654?sid=101",
+      "title": "차맵, 120만 유튜버 '우파TV'와 맞손…'2027 디 올 뉴 아반떼' 한정 특가...",
+      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=398218",
       "date": "Fri, 13 Nov 2026",
-      "keyword": "부동산 대출 규제"
+      "keyword": "DSR 규제"
     },
     {
-      "title": "기업대출 늘어도 시설투자는 뒷걸음…부동산·운전자금에 머문 자금",
-      "link": "https://www.ajunews.com/view/20261109135113411",
-      "date": "Fri, 13 Nov 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "‘빚내서 집 사라’ 최경환, 李 정책 직격 “시장 이기는 정부 없다”",
-      "link": "https://n.news.naver.com/mnews/article/024/0000109574?sid=102",
-      "date": "Thu, 12 Nov 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "서울 집값 상승 주춤하자 대출지수 '뚝'…4개월 연속 하락",
-      "link": "https://n.news.naver.com/mnews/article/421/0009287571?sid=101",
+      "title": "은행들 주담대 '방공제' 속속 해제···연초 대출 빗장 푼다",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719272",
       "date": "Fri, 13 Nov 2026",
       "keyword": "DSR 규제"
     },
@@ -427,36 +451,12 @@
       "title": "경기 아파트값 상승률 8주 연속 서울 앞서…'수원이목지구 디에트르 더...",
       "link": "https://www.rcast.co.kr/news/articleView.html?idxno=32054",
       "date": "Fri, 13 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "5대 은행 6억원 이상 주택대출 임직원 235명 달해… 전체 임직원 대출의...",
-      "link": "https://www.jasm.co.kr/news/view/325164/?sc=Naver",
-      "date": "Fri, 13 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "“주식으로 잃은 돈 한방에 벌자” 연차 내고 경매 법정 가는 2030",
-      "link": "https://n.news.naver.com/mnews/article/023/0004009373?sid=102",
-      "date": "Fri, 13 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "차맵, 유튜버 '우파TV' 손잡고 '2027 디 올 뉴 아반떼' 한정수량 이벤트...",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=56315",
-      "date": "Thu, 12 Nov 2026",
-      "keyword": "DSR 규제"
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "집값 대세 하락장 오나… 꽁꽁 얼어붙은 매수세에 강남 집주인들 '발동...",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3749739",
       "date": "Thu, 12 Nov 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "신한금융, ROE 10% 보인다 … \"올해 결산배당 늘 것\"",
-      "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61303",
-      "date": "Wed, 11 Nov 2026",
       "keyword": "스트레스 DSR"
     }
   ],
