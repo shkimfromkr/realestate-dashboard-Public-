@@ -1,7 +1,13 @@
 {
-  "asOf": "2026-11-17",
+  "asOf": "2026-11-18",
   "avg6mo": 70277,
   "trades": [
+    {
+      "date": "2026-11-13",
+      "area": 72.99,
+      "floor": "16",
+      "price": 75500
+    },
     {
       "date": "2026-11-11",
       "area": 72.99,
@@ -388,6 +394,24 @@
   },
   "news": [
     {
+      "title": "[청약통장, 사라지는 사다리] 하루 349좌씩 증발… '내 집 마련 필수품'...",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363742808",
+      "date": "Tue, 17 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "저축은행 대출 무게중심 이동…중견기업 늘고 자영업자는 줄었다",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171349195870453",
+      "date": "Tue, 17 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "[빚 안 갚는 사회] 김상봉 “가계대출 관리, 비중 큰 부동산 대출에 집...",
+      "link": "http://www.segyebiz.com/newsView/20261117512583?OutUrl=naver",
+      "date": "Tue, 17 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "[금융권 이모저모]한국투자신탁운용, 반도체 ETF 삼성전자 비중 19%대로...",
       "link": "https://www.businessplus.kr/news/articleView.html?idxno=119979",
       "date": "Tue, 17 Nov 2026",
@@ -400,62 +424,44 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "[핀테크핫이슈] 금융지주 지배구조 개편 본격화…해킹 당한 금융보안원",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715826",
-      "date": "Tue, 17 Nov 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "[조각투자 제도권 첫발] 거래소 출범 앞둔 조각투자…정작 거래할 상품...",
-      "link": "https://dealsite.co.kr/articles/172184",
-      "date": "Tue, 17 Nov 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "“대출 총량만 묶지 말고…상환능력·은행 건전성 반영해야”",
-      "link": "https://n.news.naver.com/mnews/article/018/0006410780?sid=101",
-      "date": "Tue, 17 Nov 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "규제우회 셀러·세입자 파이낸싱…당국 “개인간 거래 단속 어려워” [...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002724511?sid=101",
-      "date": "Tue, 17 Nov 2026",
+      "title": "서울 아파트값 92주째 오르는데 매물은 8만건 육박…시장 덮친 '동상이...",
+      "link": "https://www.widedaily.com/news/articleView.html?idxno=304001",
+      "date": "Wed, 18 Nov 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "“전세 줘도 12억 부족”…사적 금융 낳은 대출규제의 역설 [대출규제가...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002724510?sid=101",
-      "date": "Tue, 17 Nov 2026",
+      "title": "‘노도강’서 ‘마용성’ 가는데 5억 더 필요",
+      "link": "https://n.news.naver.com/mnews/article/016/0002725074?sid=101",
+      "date": "Wed, 18 Nov 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "“전세 16억 받아도 12억 부족”…‘세입자 파이낸싱’ 부른 로또청약의...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002724427?sid=101",
-      "date": "Tue, 17 Nov 2026",
+      "title": "수원 철도망 확충 기대감…북수원 이목지구 분양시장 주목",
+      "link": "https://theviewers.co.kr/View.aspx?No=4317995",
+      "date": "Wed, 18 Nov 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "대출규제 비웃는 셀러·세입자 파이낸싱…금융권 밖 사금융 막을 방법 ...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002724387?sid=101",
-      "date": "Tue, 17 Nov 2026",
+      "title": "“3억이면 됐는데 이젠 8억” 노도강서 마용성 갈아타기, 더 어려워졌다...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002724953?sid=101",
+      "date": "Wed, 18 Nov 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "이자는 더 내는데 한도는 찔끔…'10년 고정 주담대' 늘려도 누가 쓰나",
-      "link": "https://n.news.naver.com/mnews/article/119/0003155898?sid=101",
-      "date": "Tue, 17 Nov 2026",
+      "title": "\"92주 올랐는데 매물은 8만건 쌓여\"…서울 아파트 시장 덮친 '기현상'",
+      "link": "https://n.news.naver.com/mnews/article/003/0014328698?sid=101",
+      "date": "Wed, 18 Nov 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "\"집주인도 호가 낮춘다\"…송파 아파트 매물 7000건 돌파, 거래는 뚝",
-      "link": "https://n.news.naver.com/mnews/article/014/0005605223?sid=101",
-      "date": "Tue, 17 Nov 2026",
+      "title": "지방 아파트값 다시 하락세? 10월 잠정지수 마이너스[박원갑의 집과 삶...",
+      "link": "https://n.news.naver.com/mnews/article/421/0009294950?sid=110",
+      "date": "Wed, 18 Nov 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "신혼부부 평균 소득에 현금 2억 있어도⋯서울 아파트 선택지 38% 줄었다...",
-      "link": "https://www.etoday.co.kr/news/view/2648624",
+      "title": "신규·신잔액 코픽스 격차 0.69%p…코픽스 연동 주담대 한도 '들썩'",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=369930",
       "date": "Tue, 17 Nov 2026",
       "keyword": "스트레스 DSR"
     }
