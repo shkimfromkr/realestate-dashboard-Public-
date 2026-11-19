@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-18",
-  "avg6mo": 70277,
+  "asOf": "2026-11-19",
+  "avg6mo": 70229,
   "trades": [
     {
       "date": "2026-11-13",
@@ -31,6 +31,12 @@
       "area": 59.99,
       "floor": "8",
       "price": 70000
+    },
+    {
+      "date": "2026-10-24",
+      "area": 59.99,
+      "floor": "21",
+      "price": 68000
     },
     {
       "date": "2026-10-24",
@@ -394,6 +400,12 @@
   },
   "news": [
     {
+      "title": "기업에 돈 빌려주고 이자도 못 받는다…‘깡통대출’ 38.5% 급증",
+      "link": "https://n.news.naver.com/mnews/article/018/0006411935?sid=101",
+      "date": "Wed, 18 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "[청약통장, 사라지는 사다리] 하루 349좌씩 증발… '내 집 마련 필수품'...",
       "link": "https://www.joongboo.com/news/articleView.html?idxno=363742808",
       "date": "Tue, 17 Nov 2026",
@@ -418,14 +430,32 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "대출 규제에 수도권 주택 수요 이동…비규제지역 거래·청약 '들썩'",
-      "link": "https://www.mediapen.com/news/view/1137864",
-      "date": "Tue, 17 Nov 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "부동산경제연합회, 민간 주택공급 확대·지방 미분양 해소 9개 과제 건의",
+      "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420948",
+      "date": "Thu, 19 Nov 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "서울 아파트값 92주째 오르는데 매물은 8만건 육박…시장 덮친 '동상이...",
-      "link": "https://www.widedaily.com/news/articleView.html?idxno=304001",
+      "title": "[심양섭의 정론직격]'월급쟁이가 봉이냐'던 대통령, 이제 답할 차례다",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=132233",
+      "date": "Thu, 19 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[이슈분석] 내년 주담대 영업 서두르는 은행들…연말 ‘빚투’가 복병",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=209002",
+      "date": "Wed, 18 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "저축은행서 사라지는 스탁론…규제에 밀리고 수요는 온투업으로",
+      "link": "http://www.iminju.net/news/articleView.html?idxno=172692",
+      "date": "Wed, 18 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[고분양가시대 청약셈법③]당첨돼도 현금 14억…청약 문턱 높인 대출규...",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884622",
       "date": "Wed, 18 Nov 2026",
       "keyword": "DSR 규제"
     },
@@ -433,44 +463,20 @@
       "title": "‘노도강’서 ‘마용성’ 가는데 5억 더 필요",
       "link": "https://n.news.naver.com/mnews/article/016/0002725074?sid=101",
       "date": "Wed, 18 Nov 2026",
-      "keyword": "DSR 규제"
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "수원 철도망 확충 기대감…북수원 이목지구 분양시장 주목",
       "link": "https://theviewers.co.kr/View.aspx?No=4317995",
       "date": "Wed, 18 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "“3억이면 됐는데 이젠 8억” 노도강서 마용성 갈아타기, 더 어려워졌다...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002724953?sid=101",
-      "date": "Wed, 18 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "\"92주 올랐는데 매물은 8만건 쌓여\"…서울 아파트 시장 덮친 '기현상'",
-      "link": "https://n.news.naver.com/mnews/article/003/0014328698?sid=101",
-      "date": "Wed, 18 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "지방 아파트값 다시 하락세? 10월 잠정지수 마이너스[박원갑의 집과 삶...",
-      "link": "https://n.news.naver.com/mnews/article/421/0009294950?sid=110",
-      "date": "Wed, 18 Nov 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "신규·신잔액 코픽스 격차 0.69%p…코픽스 연동 주담대 한도 '들썩'",
-      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=369930",
-      "date": "Tue, 17 Nov 2026",
       "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "note",
-      "tag": "안정",
-      "text": "지난 확인 이후 신규 거래·변동 없음"
+      "kind": "down",
+      "tag": "평균 ▼",
+      "text": "59㎡ 6개월 평균 7억 277만 → 7억 229만 (-48만)"
     }
   ]
 }
