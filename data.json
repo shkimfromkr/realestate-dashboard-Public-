@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-19",
+  "asOf": "2026-11-20",
   "avg6mo": 70229,
   "trades": [
     {
@@ -430,53 +430,53 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "부동산경제연합회, 민간 주택공급 확대·지방 미분양 해소 9개 과제 건의",
-      "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420948",
+      "title": "한국부동산경제단체연합회, 제도개선 건의",
+      "link": "http://www.ikld.kr/news/articleView.html?idxno=344554",
+      "date": "Fri, 20 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "'탈서울' 순이동 40% 증가…반도체 산업벨트 인접 '수원이목지구 디에트...",
+      "link": "http://www.ikld.kr/news/articleView.html?idxno=344520",
+      "date": "Fri, 20 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "서울 국평과 59㎡ 격차 1년 새 30% 줄었다…3억1천→2억2천만원",
+      "link": "https://www.rcast.co.kr/news/articleView.html?idxno=32104",
+      "date": "Fri, 20 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "집 팔아 10억 남겨도…서울 '국평' 후보 19→15곳",
+      "link": "https://n.news.naver.com/mnews/article/031/0001076721?sid=101",
       "date": "Thu, 19 Nov 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "[심양섭의 정론직격]'월급쟁이가 봉이냐'던 대통령, 이제 답할 차례다",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=132233",
+      "title": "부경연, 민간 주택공급·지방 미분양 해소 제도개선 건의",
+      "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420983",
       "date": "Thu, 19 Nov 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "[이슈분석] 내년 주담대 영업 서두르는 은행들…연말 ‘빚투’가 복병",
-      "link": "https://www.tfmedia.co.kr/news/article.html?no=209002",
-      "date": "Wed, 18 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "저축은행서 사라지는 스탁론…규제에 밀리고 수요는 온투업으로",
-      "link": "http://www.iminju.net/news/articleView.html?idxno=172692",
-      "date": "Wed, 18 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "[고분양가시대 청약셈법③]당첨돼도 현금 14억…청약 문턱 높인 대출규...",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884622",
-      "date": "Wed, 18 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "‘노도강’서 ‘마용성’ 가는데 5억 더 필요",
-      "link": "https://n.news.naver.com/mnews/article/016/0002725074?sid=101",
-      "date": "Wed, 18 Nov 2026",
+      "title": "‘GTX회천 대광로제비앙 모아엘가’ 계약금 낮춰",
+      "link": "https://n.news.naver.com/mnews/article/015/0005355821?sid=101",
+      "date": "Thu, 19 Nov 2026",
       "keyword": "스트레스 DSR"
     },
     {
-      "title": "수원 철도망 확충 기대감…북수원 이목지구 분양시장 주목",
-      "link": "https://theviewers.co.kr/View.aspx?No=4317995",
-      "date": "Wed, 18 Nov 2026",
-      "keyword": "스트레스 DSR"
+      "title": "송영길 \"신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원...",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=484963",
+      "date": "Fri, 20 Nov 2026",
+      "keyword": "송도 아파트"
     }
   ],
   "alerts": [
     {
-      "kind": "down",
-      "tag": "평균 ▼",
-      "text": "59㎡ 6개월 평균 7억 277만 → 7억 229만 (-48만)"
+      "kind": "note",
+      "tag": "안정",
+      "text": "지난 확인 이후 신규 거래·변동 없음"
     }
   ]
 }
