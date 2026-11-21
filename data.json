@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-20",
-  "avg6mo": 70229,
+  "asOf": "2026-11-21",
+  "avg6mo": 70295,
   "trades": [
     {
       "date": "2026-11-13",
@@ -9,10 +9,28 @@
       "price": 75500
     },
     {
+      "date": "2026-11-13",
+      "area": 72.99,
+      "floor": "13",
+      "price": 83000
+    },
+    {
       "date": "2026-11-11",
       "area": 72.99,
       "floor": "12",
       "price": 82000
+    },
+    {
+      "date": "2026-11-06",
+      "area": 59.97,
+      "floor": "27",
+      "price": 72700
+    },
+    {
+      "date": "2026-10-31",
+      "area": 59.97,
+      "floor": "10",
+      "price": 71000
     },
     {
       "date": "2026-10-27",
@@ -430,6 +448,30 @@
       "keyword": "부동산 대출 규제"
     },
     {
+      "title": "당첨되면 무려 24억 차익…잠실 ‘로또 청약’ 떴다",
+      "link": "https://n.news.naver.com/mnews/article/024/0000109791?sid=101",
+      "date": "Sat, 21 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "10월 카드론 42.6조·대환대출 4.8% 급증···고금리 급전 쏠림 가중",
+      "link": "https://www.globale.co.kr/news/articleView.html?idxno=41769",
+      "date": "Fri, 20 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "\"집 팔아 현금 10억 쥐어도…\" 서울 집주인들 당황한 이유",
+      "link": "https://n.news.naver.com/mnews/article/015/0005356412?sid=101",
+      "date": "Fri, 20 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "3분기 신규 주담대 30대 비중 46.4% 역대 최대…20대·50대 주담대 취급...",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=355150",
+      "date": "Fri, 20 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
       "title": "한국부동산경제단체연합회, 제도개선 건의",
       "link": "http://www.ikld.kr/news/articleView.html?idxno=344554",
       "date": "Fri, 20 Nov 2026",
@@ -439,44 +481,30 @@
       "title": "'탈서울' 순이동 40% 증가…반도체 산업벨트 인접 '수원이목지구 디에트...",
       "link": "http://www.ikld.kr/news/articleView.html?idxno=344520",
       "date": "Fri, 20 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "서울 국평과 59㎡ 격차 1년 새 30% 줄었다…3억1천→2억2천만원",
-      "link": "https://www.rcast.co.kr/news/articleView.html?idxno=32104",
-      "date": "Fri, 20 Nov 2026",
-      "keyword": "DSR 규제"
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "집 팔아 10억 남겨도…서울 '국평' 후보 19→15곳",
       "link": "https://n.news.naver.com/mnews/article/031/0001076721?sid=101",
       "date": "Thu, 19 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "부경연, 민간 주택공급·지방 미분양 해소 제도개선 건의",
-      "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420983",
-      "date": "Thu, 19 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "‘GTX회천 대광로제비앙 모아엘가’ 계약금 낮춰",
-      "link": "https://n.news.naver.com/mnews/article/015/0005355821?sid=101",
-      "date": "Thu, 19 Nov 2026",
       "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "송영길 \"신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원...",
-      "link": "https://news.ifm.kr/news/articleView.html?idxno=484963",
-      "date": "Fri, 20 Nov 2026",
-      "keyword": "송도 아파트"
     }
   ],
   "alerts": [
     {
-      "kind": "note",
-      "tag": "안정",
-      "text": "지난 확인 이후 신규 거래·변동 없음"
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-11-06 59㎡ 27층 7억 2,700만 실거래 등록"
+    },
+    {
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-10-31 59㎡ 10층 7억 1,000만 실거래 등록"
+    },
+    {
+      "kind": "up",
+      "tag": "평균 ▲",
+      "text": "59㎡ 6개월 평균 7억 229만 → 7억 295만 (+66만)"
     }
   ]
 }
