@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-22",
+  "asOf": "2026-11-23",
   "avg6mo": 70295,
   "trades": [
     {
@@ -418,6 +418,18 @@
   },
   "news": [
     {
+      "title": "[위기의 핀테크 ①] 혁신금융이라더니… 돈도 못벌고, 고사 직전",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000566",
+      "date": "Mon, 23 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "\"은행엔 돈 몰리는데\"…상호금융 수신 23조원 '썰물'",
+      "link": "https://www.ajunews.com/view/20261122133931778",
+      "date": "Sun, 22 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "'대통령도 했는데' 부동산 새 바람 '이것' 50억대 아파트도 속속 동참",
       "link": "https://n.news.naver.com/mnews/article/243/0000106001?sid=101",
       "date": "Sat, 21 Nov 2026",
@@ -436,56 +448,44 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "저축은행 대출 무게중심 이동…중견기업 늘고 자영업자는 줄었다",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171349195870453",
-      "date": "Tue, 17 Nov 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "[빚 안 갚는 사회] 김상봉 “가계대출 관리, 비중 큰 부동산 대출에 집...",
-      "link": "http://www.segyebiz.com/newsView/20261117512583?OutUrl=naver",
-      "date": "Tue, 17 Nov 2026",
-      "keyword": "부동산 대출 규제"
-    },
-    {
-      "title": "[펜앤인터뷰] 李 부동산 대책 몇 점? 최경환 \"경제 조금이라도 알면 이...",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=132415",
-      "date": "Sat, 21 Nov 2026",
+      "title": "15억 넘는 집 대출 조였더니…수도권 주담대 급감, 비수도권은 되레 늘...",
+      "link": "https://n.news.naver.com/mnews/article/009/0005767448?sid=101",
+      "date": "Mon, 23 Nov 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "당첨되면 무려 24억 차익…잠실 ‘로또 청약’ 떴다",
-      "link": "https://n.news.naver.com/mnews/article/024/0000109791?sid=101",
-      "date": "Sat, 21 Nov 2026",
+      "title": "[차지혁 캡틴 , 대한민국의 운명을 다시 설계하다] 국가혁신 회로도 (5)...",
+      "link": "http://www.econotelling.com/news/articleView.html?idxno=21700",
+      "date": "Mon, 23 Nov 2026",
       "keyword": "DSR 규제"
     },
     {
-      "title": "10월 카드론 42.6조·대환대출 4.8% 급증···고금리 급전 쏠림 가중",
-      "link": "https://www.globale.co.kr/news/articleView.html?idxno=41769",
-      "date": "Fri, 20 Nov 2026",
+      "title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+      "link": "https://n.news.naver.com/mnews/article/015/0005356845?sid=101",
+      "date": "Mon, 23 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "현금 3억 있으면 비규제 9억 아파트…규제 지역은 5억짜리가 한계 [규제...",
+      "link": "https://www.etoday.co.kr/news/view/2651058",
+      "date": "Mon, 23 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[엄여진의 마켓잠망경 &lt;77&gt;] 정치인만 욕할 건가, 경제정책에도 책임을...",
+      "link": "https://economychosun.com/site/data/html_dir/2026/11/15/2026111500021.html",
+      "date": "Mon, 23 Nov 2026",
       "keyword": "DSR 규제"
     },
     {
       "title": "\"집 팔아 현금 10억 쥐어도…\" 서울 집주인들 당황한 이유",
       "link": "https://n.news.naver.com/mnews/article/015/0005356412?sid=101",
       "date": "Fri, 20 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "3분기 신규 주담대 30대 비중 46.4% 역대 최대…20대·50대 주담대 취급...",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=355150",
-      "date": "Fri, 20 Nov 2026",
-      "keyword": "DSR 규제"
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "한국부동산경제단체연합회, 제도개선 건의",
       "link": "http://www.ikld.kr/news/articleView.html?idxno=344554",
-      "date": "Fri, 20 Nov 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "'탈서울' 순이동 40% 증가…반도체 산업벨트 인접 '수원이목지구 디에트...",
-      "link": "http://www.ikld.kr/news/articleView.html?idxno=344520",
       "date": "Fri, 20 Nov 2026",
       "keyword": "스트레스 DSR"
     }
