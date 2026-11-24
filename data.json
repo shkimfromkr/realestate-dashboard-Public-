@@ -1,7 +1,13 @@
 {
-  "asOf": "2026-11-23",
-  "avg6mo": 70295,
+  "asOf": "2026-11-24",
+  "avg6mo": 70339,
   "trades": [
+    {
+      "date": "2026-11-22",
+      "area": 59.97,
+      "floor": "41",
+      "price": 72500
+    },
     {
       "date": "2026-11-13",
       "area": 72.99,
@@ -418,6 +424,24 @@
   },
   "news": [
     {
+      "title": "“폐업하는 자리에 오고 싶겠어요?”…늘어나는 공실, 건물주까지 덮쳤...",
+      "link": "https://n.news.naver.com/mnews/article/009/0005767961?sid=101",
+      "date": "Tue, 24 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "자영업 불황에 임대인도 한숨 …\"월세수입 끊겨 이자도 못 갚아\"",
+      "link": "https://n.news.naver.com/mnews/article/009/0005767867?sid=101",
+      "date": "Mon, 23 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
+      "title": "지역농협-온투업 연계대출 다음 주 출시…담보대출 업체는 '막막'",
+      "link": "https://www.ajunews.com/view/20261123143416276",
+      "date": "Mon, 23 Nov 2026",
+      "keyword": "부동산 대출 규제"
+    },
+    {
       "title": "[위기의 핀테크 ①] 혁신금융이라더니… 돈도 못벌고, 고사 직전",
       "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000566",
       "date": "Mon, 23 Nov 2026",
@@ -430,71 +454,58 @@
       "keyword": "부동산 대출 규제"
     },
     {
-      "title": "'대통령도 했는데' 부동산 새 바람 '이것' 50억대 아파트도 속속 동참",
-      "link": "https://n.news.naver.com/mnews/article/243/0000106001?sid=101",
-      "date": "Sat, 21 Nov 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "대출 규제에도 광교 국평 22억 시대…영통구 토허 신청은 42% 뚝",
+      "link": "https://realty.chosun.com/site/data/html_dir/2026/11/24/2026112401183.html",
+      "date": "Tue, 24 Nov 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "기업에 돈 빌려주고 이자도 못 받는다…‘깡통대출’ 38.5% 급증",
-      "link": "https://n.news.naver.com/mnews/article/018/0006411935?sid=101",
-      "date": "Wed, 18 Nov 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "금리 재산정 앞둔 ‘영끌 차주’…대환·상환조건 조정으로 부담 낮출까...",
+      "link": "https://www.etoday.co.kr/news/view/2651811",
+      "date": "Tue, 24 Nov 2026",
+      "keyword": "DSR 규제"
     },
     {
-      "title": "[청약통장, 사라지는 사다리] 하루 349좌씩 증발… '내 집 마련 필수품'...",
-      "link": "https://www.joongboo.com/news/articleView.html?idxno=363742808",
-      "date": "Tue, 17 Nov 2026",
-      "keyword": "부동산 대출 규제"
+      "title": "\"많이 늘려도, 적게 내줘도\" 규제…이중 잣대 갇힌 은행 주담대",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=370358",
+      "date": "Mon, 23 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "카카오페이 \"선물하기 사용자 연체율 낮아\"…대안신용평가 구축",
+      "link": "https://n.news.naver.com/mnews/article/079/0004212901?sid=101",
+      "date": "Mon, 23 Nov 2026",
+      "keyword": "DSR 규제"
+    },
+    {
+      "title": "[카카오페이:D의 의지⑤] 카카오페이 \"남들은 클로드 잘만 쓰는데 우리...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=758170",
+      "date": "Mon, 23 Nov 2026",
+      "keyword": "DSR 규제"
     },
     {
       "title": "15억 넘는 집 대출 조였더니…수도권 주담대 급감, 비수도권은 되레 늘...",
       "link": "https://n.news.naver.com/mnews/article/009/0005767448?sid=101",
       "date": "Mon, 23 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "[차지혁 캡틴 , 대한민국의 운명을 다시 설계하다] 국가혁신 회로도 (5)...",
-      "link": "http://www.econotelling.com/news/articleView.html?idxno=21700",
-      "date": "Mon, 23 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
-      "link": "https://n.news.naver.com/mnews/article/015/0005356845?sid=101",
-      "date": "Mon, 23 Nov 2026",
-      "keyword": "DSR 규제"
+      "keyword": "스트레스 DSR"
     },
     {
       "title": "현금 3억 있으면 비규제 9억 아파트…규제 지역은 5억짜리가 한계 [규제...",
       "link": "https://www.etoday.co.kr/news/view/2651058",
       "date": "Mon, 23 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "[엄여진의 마켓잠망경 &lt;77&gt;] 정치인만 욕할 건가, 경제정책에도 책임을...",
-      "link": "https://economychosun.com/site/data/html_dir/2026/11/15/2026111500021.html",
-      "date": "Mon, 23 Nov 2026",
-      "keyword": "DSR 규제"
-    },
-    {
-      "title": "\"집 팔아 현금 10억 쥐어도…\" 서울 집주인들 당황한 이유",
-      "link": "https://n.news.naver.com/mnews/article/015/0005356412?sid=101",
-      "date": "Fri, 20 Nov 2026",
-      "keyword": "스트레스 DSR"
-    },
-    {
-      "title": "한국부동산경제단체연합회, 제도개선 건의",
-      "link": "http://www.ikld.kr/news/articleView.html?idxno=344554",
-      "date": "Fri, 20 Nov 2026",
       "keyword": "스트레스 DSR"
     }
   ],
   "alerts": [
     {
-      "kind": "note",
-      "tag": "안정",
-      "text": "지난 확인 이후 신규 거래·변동 없음"
+      "kind": "up",
+      "tag": "신규 거래",
+      "text": "2026-11-22 59㎡ 41층 7억 2,500만 실거래 등록"
+    },
+    {
+      "kind": "up",
+      "tag": "평균 ▲",
+      "text": "59㎡ 6개월 평균 7억 295만 → 7억 339만 (+44만)"
     }
   ]
 }
